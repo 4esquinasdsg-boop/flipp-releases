@@ -5,5 +5,24 @@
     <link>https://github.com/4esquinasdsg-boop/flipp-releases</link>
     <description>Actualizaciones de la aplicación Flipp</description>
     <language>es-CO</language>
+    
+    <item>
+      <title>Versión 1.0.0</title>
+      <description>
+        <![CDATA[
+          <h2>Flipp v1.0.0</h2>
+          <p>Primera versión oficial.</p>
+        ]]>
+      </description>
+      <pubDate>Thu, 26 Dec 2024 10:55:00 -0500</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <enclosure 
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.0.0/flipp-setup.exe"
+        sparkle:version="1.0.0"
+        sparkle:dsaSignature="MD0CHAThfQAvJ8/EdBHNy3tp5rLA0HI2ax9fFzcMWAYCHQCIqCFG0840NvYW7+55CZ+/api9fwIiTU+BxCPx"
+        length="23064347"
+        type="application/octet-stream"/>
+    </item>
+    
   </channel>
 </rss>
