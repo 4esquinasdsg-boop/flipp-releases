@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Flipp - Actualizaciones</title>
+    <link>https://github.com/4esquinasdsg-boop/flipp-releases</link>
+    <description>Actualizaciones de la aplicación Flipp</description>
+    <language>es-CO</language>
+  </channel>
+</rss>
