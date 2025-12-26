@@ -2,25 +2,54 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Flipp - Actualizaciones</title>
+    <!-- TODO: Reemplaza 4esquinasdsg-boop con tu nombre de usuario de GitHub -->
     <link>https://github.com/4esquinasdsg-boop/flipp-releases</link>
-    <description>Actualizaciones de la aplicación Flipp</description>
+    <description>Actualizaciones de la aplicación Flipp para contadores</description>
     <language>es-CO</language>
     
+    <!-- 
+    ═══════════════════════════════════════════════════════════════════════════
+    INSTRUCCIONES PARA AGREGAR UNA NUEVA VERSIÓN:
+    
+    1. Copia el bloque <item> de abajo
+    2. Actualiza:
+       - <title> con el número de versión
+       - <description> con las novedades (HTML)
+       - <pubDate> con la fecha actual en formato RFC 822
+       - sparkle:version con el número de versión
+       - url del enclosure con la URL del instalador en GitHub Releases
+       - sparkle:dsaSignature con la firma generada por build_release.ps1
+       - length con el tamaño en bytes del instalador
+    3. Commit y push este archivo al repositorio flipp-releases
+    ═══════════════════════════════════════════════════════════════════════════
+    -->
+    
+    <!-- Versión 1.0.1 - Conciliación Multi-Período -->
     <item>
-      <title>Versión 1.0.0</title>
+      <title>Versión 1.0.1</title>
       <description>
         <![CDATA[
-          <h2>Flipp v1.0.0</h2>
-          <p>Primera versión oficial.</p>
+          <h2>Novedades en la versión 1.0.1</h2>
+          <ul>
+            <li><strong>Conciliación Multi-Período:</strong> Ahora puedes conciliar wallets por período mensual, bimestral, cuatrimestral o anual</li>
+            <li>Selector visual de tipo de período en la tarjeta de conciliación</li>
+            <li>Retiros pueden aplicar a períodos completos (ej: un retiro cuatrimestral)</li>
+            <li>Formatos de período adaptados al tipo seleccionado</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización 
+            solo modifica los archivos del programa. Se creará un backup 
+            automático de tu base de datos antes de instalar.
+          </p>
         ]]>
       </description>
-      <pubDate>Thu, 26 Dec 2024 10:55:00 -0500</pubDate>
-      <sparkle:version>1.0.0</sparkle:version>
+      <pubDate>Thu, 26 Dec 2024 11:45:00 -0500</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
       <enclosure 
-        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.0.0/flipp-setup.exe"
-        sparkle:version="1.0.0"
-        sparkle:dsaSignature="MD0CHAThfQAvJ8/EdBHNy3tp5rLA0HI2ax9fFzcMWAYCHQCIqCFG0840NvYW7+55CZ+/api9fwIiTU+BxCPx"
-        length="23064347"
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.0.1/flipp-setup.exe"
+        sparkle:version="1.0.1"
+        sparkle:dsaSignature="MDwCHAbjoBhYtW3gZzolfoVmDZD3mFfILiGHsKrlm3UCHH7ElGAGGCm1SHCZkspBr1eblhm867CPE9670Ag="
+        length="23057426"
         type="application/octet-stream"/>
     </item>
     
