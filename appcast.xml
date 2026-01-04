@@ -2,27 +2,44 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Flipp - Actualizaciones</title>
-    <!-- TODO: Reemplaza 4esquinasdsg-boop con tu nombre de usuario de GitHub -->
     <link>https://github.com/4esquinasdsg-boop/flipp-releases</link>
     <description>Actualizaciones de la aplicación Flipp para contadores</description>
     <language>es-CO</language>
     
-    <!-- 
-    ═══════════════════════════════════════════════════════════════════════════
-    INSTRUCCIONES PARA AGREGAR UNA NUEVA VERSIÓN:
-    
-    1. Copia el bloque <item> de abajo
-    2. Actualiza:
-       - <title> con el número de versión
-       - <description> con las novedades (HTML)
-       - <pubDate> con la fecha actual en formato RFC 822
-       - sparkle:version con el número de versión
-       - url del enclosure con la URL del instalador en GitHub Releases
-       - sparkle:dsaSignature con la firma generada por build_release.ps1
-       - length con el tamaño en bytes del instalador
-    3. Commit y push este archivo al repositorio flipp-releases
-    ═══════════════════════════════════════════════════════════════════════════
-    -->
+    <!-- Versión 1.1.0 - 10+ Nuevas Funcionalidades -->
+    <item>
+      <title>Versión 1.1.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.1.0</h2>
+          <ul>
+            <li><strong>Exógena:</strong> Generación automática de formatos 1001, 1003, 1005, 1006, 1007, 1008 para información exógena DIAN</li>
+            <li><strong>Certificados:</strong> Nueva pestaña para gestión de certificados tributarios por cliente</li>
+            <li><strong>Conciliación Bancaria:</strong> Módulo completo para conciliar extractos bancarios con movimientos contables</li>
+            <li><strong>Calendario Mejorado:</strong> Vista de día detallada estilo Google Calendar con popup de eventos</li>
+            <li><strong>Dashboard Renovado:</strong> Nuevos KPIs, gráficos de tareas y lista de clientes con vencimientos próximos</li>
+            <li><strong>Nómina Electrónica:</strong> Nueva pestaña dedicada para gestión de nómina por cliente</li>
+            <li><strong>Notificaciones:</strong> Sistema de recordatorios para vencimientos de obligaciones</li>
+            <li><strong>Sincronización:</strong> Mejoras en la sincronización multi-usuario con Supabase</li>
+            <li><strong>Seguridad:</strong> Credenciales DIAN ahora encriptadas con AES-256</li>
+            <li><strong>Parsers Bancarios:</strong> Soporte mejorado para extractos de Bancolombia multi-página</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización 
+            solo modifica los archivos del programa. Se creará un backup 
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sat, 04 Jan 2026 16:00:00 -0500</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <enclosure 
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.1.0/flipp-setup.exe"
+        sparkle:version="1.1.0"
+        sparkle:dsaSignature="MDwCHAgi8iK//l/YaeP5oEI6N5dCB7VoEbziA6v2F7ECHHHTIk5q9LnqU20PnYdiL8zpErhsxyHqqsfutdvA="
+        length="23480998"
+        type="application/octet-stream"/>
+    </item>
     
     <!-- Versión 1.0.1 - Conciliación Multi-Período -->
     <item>
