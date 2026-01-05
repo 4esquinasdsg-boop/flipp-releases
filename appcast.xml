@@ -48,8 +48,8 @@
       <enclosure 
         url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.2.0/flipp-setup.exe"
         sparkle:version="1.2.0"
-        sparkle:dsaSignature="MDwCHCrOhvnUDYMdrAvHYFohfdqEeY62DOhSnjdmn+kCHEjoajqqGYnVLVTJMna1BjB55UHR/G2ExJrxlPBg="
-        length="23451410"
+        sparkle:dsaSignature="MDwCHBtqE7oSicWq4vD7eplhlbsbYlB21wYziBoEjfkCHEisFXg9jrjzlttFNEZidKcxS3jTimLnpWpr34fw="
+        length="23459193"
         type="application/octet-stream"/>
     </item>
     
