@@ -24,6 +24,34 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
     
+    <!-- Versión 1.3.0 - Mejoras y Correcciones -->
+    <item>
+      <title>Versión 1.3.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.3.0</h2>
+          <ul>
+            <li><strong>Mejoras en Base de Datos:</strong> Optimizaciones en el manejo de datos y sincronización</li>
+            <li><strong>Corrección de Errores:</strong> Múltiples correcciones de estabilidad</li>
+            <li><strong>Mejoras de Interfaz:</strong> Ajustes visuales y de usabilidad</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización 
+            solo modifica los archivos del programa. Se creará un backup 
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 05 Jan 2026 05:00:00 -0500</pubDate>
+      <sparkle:version>1.3.0</sparkle:version>
+      <enclosure 
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.3.0/flipp-setup.exe"
+        sparkle:version="1.3.0"
+        sparkle:dsaSignature="MDwCHHBsvHxAOr1ODwCHboNFezr2UD1veWqR5SSXRV4CHF/hj96fnxxdoFc03D/GnYXnJWWuhxbPDgS+trX8="
+        length="23477515"
+        type="application/octet-stream"/>
+    </item>
+    
     <!-- Versión 1.2.0 - Arquitectura Simplificada -->
     <item>
       <title>Versión 1.2.0</title>
@@ -48,8 +76,8 @@
       <enclosure 
         url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.2.0/flipp-setup.exe"
         sparkle:version="1.2.0"
-        sparkle:dsaSignature="MD4CHQDPCfFBxm2eNvTCbTMJkqwbmIPf0kTNOobERuRuAh0ApE6UAhHpluua0C3r8io5nQOYZ0lABuKCTLd79Kw=="
-        length="23449193"
+        sparkle:dsaSignature="MDwCHCoOmx2gsoctGpkzHrpnVspJbKiLxC1hyihQRp4CHF0XjFxkYtGX2SwsydYRozVLIOOXXW43bXh62LE="
+        length="23461296"
         type="application/octet-stream"/>
     </item>
     
