@@ -24,6 +24,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
     
+    <!-- Versión 1.4.0 - Declaraciones, Tributario y Mejoras -->
+    <item>
+      <title>Versión 1.4.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.4.0</h2>
+          <ul>
+            <li><strong>Nuevo Módulo de Declaraciones:</strong> Gestión completa de declaraciones tributarias</li>
+            <li><strong>Mejoras en Tributario e IVA:</strong> Optimizaciones en cálculos y formularios</li>
+            <li><strong>Clasificación y Causación:</strong> Mejoras en el sistema de clasificación contable y causación automática</li>
+            <li><strong>DIAN Scraper:</strong> Mejoras en la extracción de datos del portal DIAN</li>
+            <li><strong>Modelos de Cliente:</strong> Actualizaciones en la gestión de información de clientes</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 07 Jan 2026 10:00:00 -0500</pubDate>
+      <sparkle:version>1.4.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.4.0/flipp-setup.exe"
+        sparkle:version="1.4.0"
+        sparkle:dsaSignature="MDwCHALs0jBYsnNn+lf8d/uIQ0JtCeBnMmC4sUeXjZ8CHEFySdeT6gdOQSOfv1GmIgqwDbfZW9qXNgvikHg="
+        length="23544146"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.3.0 - Mejoras y Correcciones -->
     <item>
       <title>Versión 1.3.0</title>
