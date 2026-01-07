@@ -23,19 +23,23 @@
     3. Commit y push este archivo al repositorio flipp-releases
     ═══════════════════════════════════════════════════════════════════════════
     -->
-    
-    <!-- Versión 1.4.0 - Declaraciones, Tributario y Mejoras -->
+
+    <!-- Versión 1.5.0 - Declaraciones, F300 Excel, Configuración Cuentas Contables -->
     <item>
-      <title>Versión 1.4.0</title>
+      <title>Versión 1.5.0</title>
       <description>
         <![CDATA[
-          <h2>Novedades en la versión 1.4.0</h2>
+          <h2>Novedades en la versión 1.5.0</h2>
           <ul>
-            <li><strong>Nuevo Módulo de Declaraciones:</strong> Gestión completa de declaraciones tributarias</li>
-            <li><strong>Mejoras en Tributario e IVA:</strong> Optimizaciones en cálculos y formularios</li>
-            <li><strong>Clasificación y Causación:</strong> Mejoras en el sistema de clasificación contable y causación automática</li>
-            <li><strong>DIAN Scraper:</strong> Mejoras en la extracción de datos del portal DIAN</li>
-            <li><strong>Modelos de Cliente:</strong> Actualizaciones en la gestión de información de clientes</li>
+            <li><strong>Nuevo Módulo de Declaraciones:</strong> Gestión completa de declaraciones tributarias con soporte para Formulario 300 (IVA)</li>
+            <li><strong>Configuración de Cuentas Contables:</strong> Sistema configurable para mapeo de cuentas del PUC</li>
+            <li><strong>Exportador F300 a Excel:</strong> Generación automática de archivos Excel con el formulario 300</li>
+            <li><strong>Diálogo de Detalle de Facturas:</strong> Vista mejorada con información completa de facturas electrónicas</li>
+            <li><strong>Mejoras en Tributario e IVA:</strong> Optimizaciones en cálculos, discriminación de IVA y prorrateo</li>
+            <li><strong>Mejoras en Clasificación y Causación:</strong> Sistema de clasificación contable mejorado y causación automática optimizada</li>
+            <li><strong>DIAN Scraper Mejorado:</strong> Extracción más robusta de datos del portal DIAN</li>
+            <li><strong>Modelos de Cliente Actualizados:</strong> Nuevos campos y funcionalidades en la gestión de clientes</li>
+            <li><strong>Auto-updater Optimizado:</strong> Mejoras en el sistema de actualización automática</li>
           </ul>
           <p style="color: #666; font-size: 12px;">
             <strong>Nota:</strong> Tus datos están seguros. Esta actualización
@@ -44,13 +48,13 @@
           </p>
         ]]>
       </description>
-      <pubDate>Tue, 07 Jan 2026 10:00:00 -0500</pubDate>
-      <sparkle:version>1.4.0</sparkle:version>
+      <pubDate>Wed, 08 Jan 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.5.0</sparkle:version>
       <enclosure
-        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.4.0/flipp-setup.exe"
-        sparkle:version="1.4.0"
-        sparkle:dsaSignature="MDwCHHOiy39NmfctWuVz4Z4kBTYSED6Ao+9XijioBdgCHCWTjpfy0KcqbE+xibrfDveZ8wr8eIjcvr8NzSY="
-        length="23544146"
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.5.0/flipp-setup.exe"
+        sparkle:version="1.5.0"
+        sparkle:dsaSignature="MD0CHC6TrvhGavEYkwOPEhMc0VFHJB9QRHxQEKAD628CHQCei/6CYb/2NpTa83tXuC0RIxwnyS5OEAEZUYER"
+        length="23411625"
         type="application/octet-stream"/>
     </item>
 
