@@ -24,6 +24,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.5.1 - Mejoras en Clasificación Engine -->
+    <item>
+      <title>Versión 1.5.1</title>
+      <description>
+        <![CDATA[
+          <h2>Cambios en la versión 1.5.1</h2>
+          <ul>
+            <li><strong>Mejoras en Clasificación Engine:</strong> Optimizaciones en el motor de clasificación contable</li>
+          </ul>
+          <p>Esta versión incluye todas las funcionalidades de v1.5.0</p>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 08 Jan 2026 01:00:00 -0500</pubDate>
+      <sparkle:version>1.5.1</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.5.1/flipp-setup.exe"
+        sparkle:version="1.5.1"
+        sparkle:dsaSignature="MDwCHBFSHlqdVyYST9gM6f26umS6grrWm38hfQeE5LMCHApvzh2bDwSVYP6JV0NflYqAgz501F2Wr8cilhI="
+        length="23413090"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.5.0 - Declaraciones, F300 Excel, Configuración Cuentas Contables -->
     <item>
       <title>Versión 1.5.0</title>
