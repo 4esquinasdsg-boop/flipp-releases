@@ -24,16 +24,17 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
-    <!-- Versión 1.5.2 - Última actualización del código -->
+    <!-- Versión 1.5.3 - Últimos cambios y mejoras -->
     <item>
-      <title>Versión 1.5.2</title>
+      <title>Versión 1.5.3</title>
       <description>
         <![CDATA[
-          <h2>Cambios en la versión 1.5.2</h2>
+          <h2>Cambios en la versión 1.5.3</h2>
           <ul>
-            <li><strong>Actualización del código:</strong> Versión con los últimos cambios del repositorio flipp-dian</li>
+            <li><strong>Últimos cambios del repositorio:</strong> Sincronización con los últimos cambios y mejoras del código base</li>
+            <li><strong>Mejoras en estabilidad:</strong> Optimizaciones generales y correcciones</li>
           </ul>
-          <p>Esta versión incluye todas las funcionalidades de v1.5.1</p>
+          <p>Esta versión incluye todas las funcionalidades de v1.5.2</p>
           <p style="color: #666; font-size: 12px;">
             <strong>Nota:</strong> Tus datos están seguros. Esta actualización
             solo modifica los archivos del programa. Se creará un backup
@@ -41,13 +42,13 @@
           </p>
         ]]>
       </description>
-      <pubDate>Wed, 08 Jan 2026 12:00:00 -0500</pubDate>
-      <sparkle:version>1.5.2</sparkle:version>
+      <pubDate>Thu, 09 Jan 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.5.3</sparkle:version>
       <enclosure
-        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.5.2/flipp-setup.exe"
-        sparkle:version="1.5.2"
-        sparkle:dsaSignature="MDwCHGpkcDnyb1EwT10d0WOuxWegPOeilXrpDnnedjECHDamI4Iyt0wiFK/ImQVYRDXhffMG48LKiML8s5U="
-        length="23568489"
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.5.3/flipp-setup.exe"
+        sparkle:version="1.5.3"
+        sparkle:dsaSignature="MDwCHF+A/dIUzYpLexqr1JEupSMi8Pv38MwjAN/eqwcCHA8ny7FKpFaX0bPt6rnxaAenFCL3v89uyXGND+I="
+        length="23580443"
         type="application/octet-stream"/>
     </item>
 
