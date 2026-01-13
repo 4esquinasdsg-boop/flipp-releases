@@ -24,6 +24,39 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.6.0 - Hub Tributario y Causación Rápida -->
+    <item>
+      <title>Versión 1.6.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.6.0</h2>
+          <ul>
+            <li><strong>Causación Rápida:</strong> Nueva funcionalidad de causación rápida integrada como tab interno del cliente</li>
+            <li><strong>Hub de Calculadoras Tributarias:</strong> Reorganización completa con pestañas y 7 nuevas herramientas fiscales</li>
+            <li><strong>Herramientas Fiscales:</strong> Nuevos assets y herramientas para cálculos tributarios</li>
+            <li><strong>Causación de Nómina Consolidada:</strong> Integración con cuentas profesionales para nómina</li>
+            <li><strong>Perfil Tributario Unificado:</strong> Vista consolidada con calendario de vencimientos Enero 2026</li>
+            <li><strong>Scraper DIAN Mejorado:</strong> Timing adaptativo para WiFi y descarga dirigida de faltantes</li>
+            <li><strong>Cuentas Contables Personalizadas:</strong> Aplicación correcta en exportación y uso de retenciones XML en clasificación</li>
+            <li><strong>Limpieza UI y Seguridad XML:</strong> Mejoras en interfaz y seguridad en procesamiento XML</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 12 Jan 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.6.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.6.0/flipp-setup.exe"
+        sparkle:version="1.6.0"
+        sparkle:dsaSignature="MDwCHBTmzSnhsdj30FzITt8EvRRpxrYZihomAI5LdKMCHHG9uuWGDx/PhM9df6l+Yn7M71Fe99o/4uXesVk="
+        length="23686241"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.5.3 - Últimos cambios y mejoras -->
     <item>
       <title>Versión 1.5.3</title>
