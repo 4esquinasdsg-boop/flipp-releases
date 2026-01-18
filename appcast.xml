@@ -24,6 +24,32 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.6.3 - Reporte Detallado Tributario -->
+    <item>
+      <title>Versión 1.6.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.6.3</h2>
+          <ul>
+            <li><strong>Reporte Detallado por Cliente:</strong> Nuevo reporte detallado en el tab Tributario para análisis profundo de obligaciones fiscales por cliente</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sat, 18 Jan 2026 12:00:00 -0500</pubDate>
+      <sparkle:version>1.6.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.6.3/flipp-setup.exe"
+        sparkle:version="1.6.3"
+        sparkle:dsaSignature="MDwCHDPGH6jhz0xE2R/koGPEkdPk602r+B/gjU5pzAsCHA7QL5cyGVZ4+9q62s/f/CeK7F/XoEFJMrz13OM="
+        length="23895319"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.6.2 - Branding y Correcciones -->
     <item>
       <title>Versión 1.6.2</title>
