@@ -24,6 +24,35 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.6.2 - Branding y Correcciones -->
+    <item>
+      <title>Versión 1.6.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.6.2</h2>
+          <ul>
+            <li><strong>Nueva Identidad Visual:</strong> Nuevos iconos de aplicación y logo en sidebar con branding Flipp</li>
+            <li><strong>Gestión de Vencimientos:</strong> Nuevo botón "Ya presentó" para marcar vencimientos tributarios como presentados</li>
+            <li><strong>Corrección de Parsers:</strong> Parsers de JSON de facturas ahora son null-safe para prevenir fallos silenciosos</li>
+            <li><strong>Persistencia de Perfil Tributario:</strong> Corrección en guardado de perfil tributario eliminando override de estado local</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sat, 18 Jan 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.6.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.6.2/flipp-setup.exe"
+        sparkle:version="1.6.2"
+        sparkle:dsaSignature="MD0CHQCS2VsK6MBny/veaaozRcjkRqvJwVe93e70QUFMAhwjlTcHQa+OCUIRDfm/wF1ulRxaCOyqWIgOCC2D"
+        length="23854316"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.6.1 - Correcciones y Mejoras -->
     <item>
       <title>Versión 1.6.1</title>
