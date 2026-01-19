@@ -24,6 +24,32 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.6.4 - Mejoras Estéticas UI -->
+    <item>
+      <title>Versión 1.6.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.6.4</h2>
+          <ul>
+            <li><strong>Mejoras Estéticas:</strong> Mejoras visuales en tabs de detalle de cliente con headers con gradiente y sombra para mejor presentación</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 19 Jan 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.6.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.6.4/flipp-setup.exe"
+        sparkle:version="1.6.4"
+        sparkle:dsaSignature="MD0CHFTNPKyjoprXG1/pGsBIg+ii7zt5bYb6+gV7Uk8CHQCjir565d0kghEvBWHhybgFGVQti/yeWoGU3FVI"
+        length="23906476"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.6.3 - Reporte Detallado Tributario -->
     <item>
       <title>Versión 1.6.3</title>
