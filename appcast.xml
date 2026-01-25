@@ -24,6 +24,34 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.6.6 - Mejoras de Base de Datos y UI -->
+    <item>
+      <title>Versión 1.6.6</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.6.6</h2>
+          <ul>
+            <li><strong>Mejora de Base de Datos:</strong> Lógica de reintentos y mutex para errores de base de datos en modo solo lectura, mejorando la estabilidad</li>
+            <li><strong>Actualización de Archivos:</strong> Archivos actualizados para mejor compatibilidad</li>
+            <li><strong>Limpieza UI:</strong> Eliminado botón "Portal Abierto" para simplificar interfaz</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 24 Jan 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.6.6</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.6.6/flipp-setup.exe"
+        sparkle:version="1.6.6"
+        sparkle:dsaSignature="MD0CHATxagS71PJCCtzNLGvJeMRg6p5Za4NwVtN0b6wCHQCfbjNXzb8O21317WYN6QfiCmu49BZOHS3+Nlcl"
+        length="23939585"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.6.5 - Fix IVA Notas Crédito Compras -->
     <item>
       <title>Versión 1.6.5</title>
