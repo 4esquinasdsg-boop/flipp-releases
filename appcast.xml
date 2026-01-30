@@ -24,6 +24,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.6.8 - Exportación a Contaii y Actualizaciones -->
+    <item>
+      <title>Versión 1.6.8</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.6.8</h2>
+          <ul>
+            <li><strong>Exportación a Contaii:</strong> Nueva funcionalidad para exportar terceros directamente a Contaii</li>
+            <li><strong>Actualización de Firmas y Clientes:</strong> Actualizaciones en firmas digitales, gestión de clientes y migraciones de sincronización</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.6.8</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.6.8/flipp-setup.exe"
+        sparkle:version="1.6.8"
+        sparkle:dsaSignature="MD0CHQCYawKyRO0yQoHp0p6xWOd6R8rN4WLUXWFBkgDGAhwkm7/CWw0HiXAZYOIMu8y4cNqE/CZZs7o791Rz"
+        length="23971254"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.6.7 - Corrección de Versiones -->
     <item>
       <title>Versión 1.6.7</title>
