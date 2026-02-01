@@ -24,6 +24,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.6.9 - Ajustes IVA y Causación Rápida -->
+    <item>
+      <title>Versión 1.6.9</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.6.9</h2>
+          <ul>
+            <li><strong>Ajuste de Cuentas IVA:</strong> Mejoras en la configuración de cuentas contables para IVA</li>
+            <li><strong>Oculta Causación Rápida:</strong> La funcionalidad de Causación Rápida ha sido temporalmente deshabilitada</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 31 Jan 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.6.9</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.6.9/flipp-setup.exe"
+        sparkle:version="1.6.9"
+        sparkle:dsaSignature="MDwCHDdP2vWe5zLLjyTzvCoV+E0gtVS/aqNvYRsOLOYCHCOBD+BGWlaslqdtll5YLuAmJnPh3mW7CP0VR84="
+        length="23950725"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.6.8 - Exportación a Contaii y Actualizaciones -->
     <item>
       <title>Versión 1.6.8</title>
