@@ -24,6 +24,34 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.7.0 - Actualización de Causación, Sync y Modelos -->
+    <item>
+      <title>Versión 1.7.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.7.0</h2>
+          <ul>
+            <li><strong>Actualización de Causación:</strong> Mejoras importantes en el sistema de causación contable</li>
+            <li><strong>Mejoras de Sincronización:</strong> Optimizaciones en el sistema de sincronización de datos</li>
+            <li><strong>Modelos Tributarios Actualizados:</strong> Actualizaciones en los modelos de datos tributarios para mayor precisión</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sat, 01 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.7.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.7.0/flipp-setup.exe"
+        sparkle:version="1.7.0"
+        sparkle:dsaSignature="MDwCHBeZe9QrKkkbRzOFE7FNI6Uknny8iebFyFmzqXMCHCU2fje8NJ5Z1zWVNDhQdckCurVw5mD0+Gc/dtg="
+        length="23995837"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.6.9 - Ajustes IVA y Causación Rápida -->
     <item>
       <title>Versión 1.6.9</title>
