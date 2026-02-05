@@ -24,6 +24,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.7.2 - Notificaciones en Segundo Plano y Autoarranque -->
+    <item>
+      <title>Versión 1.7.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.7.2</h2>
+          <ul>
+            <li><strong>Notificaciones en Segundo Plano:</strong> Nueva funcionalidad de notificaciones de Windows en segundo plano para recordatorios de vencimientos</li>
+            <li><strong>Autoarranque:</strong> Opción para iniciar Flipp automáticamente con Windows para mantener sincronizadas las notificaciones</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 05 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.7.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.7.2/flipp-setup.exe"
+        sparkle:version="1.7.2"
+        sparkle:dsaSignature="MDwCHCsi85/jqY7eTnbgKcXoTiT+7g2Z5i8G/AJRA1MCHBIeiZ+X0FtXmKepAnokNdGVqrYtMWfKnX8hu78="
+        length="24055306"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.7.1 - Desglose de Base y Etiquetado Tributario -->
     <item>
       <title>Versión 1.7.1</title>
