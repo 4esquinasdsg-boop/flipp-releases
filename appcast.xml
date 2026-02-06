@@ -24,6 +24,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.7.3 - Mejoras en Retenciones y Exportes Tributarios -->
+    <item>
+      <title>Versión 1.7.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.7.3</h2>
+          <ul>
+            <li><strong>Mejoras en Retenciones:</strong> Optimizaciones en el cálculo y manejo de retenciones en la fuente</li>
+            <li><strong>Exportes Tributarios:</strong> Mejoras en la generación de reportes y exportes para obligaciones tributarias</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Thu, 06 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.7.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.7.3/flipp-setup.exe"
+        sparkle:version="1.7.3"
+        sparkle:dsaSignature="MD0CHH0JND/JcgOpgxdTFsjydNI3m6bMqKKTpcSS0qgCHQCflihsafi+AIc/8FYm7++0a5W9DIn2eutfI6Yo"
+        length="24090809"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.7.2 - Notificaciones en Segundo Plano y Autoarranque -->
     <item>
       <title>Versión 1.7.2</title>
