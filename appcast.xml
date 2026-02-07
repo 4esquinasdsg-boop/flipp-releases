@@ -24,6 +24,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.7.4 - Actualización de Flujos de Causación y Conciliación -->
+    <item>
+      <title>Versión 1.7.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.7.4</h2>
+          <ul>
+            <li><strong>Actualización de Causación:</strong> Mejoras importantes en el flujo de causación contable para mayor eficiencia</li>
+            <li><strong>Actualización de Conciliación:</strong> Optimizaciones en el proceso de conciliación bancaria</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 07 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.7.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.7.4/flipp-setup.exe"
+        sparkle:version="1.7.4"
+        sparkle:dsaSignature="MDwCHHOL6Y/51HsmqCc0C5rZGKz/HntgfmHlkCmNP18CHEghHf49fTLEoNOdmtbnMZ7CTrMe3oWUiaSf588="
+        length="24092440"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.7.3 - Mejoras en Retenciones y Exportes Tributarios -->
     <item>
       <title>Versión 1.7.3</title>
