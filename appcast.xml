@@ -24,6 +24,81 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.8.0 - Fortalecimiento de Exógena, IVA y Sincronización DIAN -->
+    <item>
+      <title>Versión 1.8.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.8.0</h2>
+          <p>En esta actualización fortalecimos de forma importante los módulos de Exógena, Declaración IVA, sincronización DIAN y gestión de clientes. El enfoque fue mejorar cobertura funcional, estabilidad operativa y alineación normativa 2026.</p>
+
+          <h3>Novedades principales:</h3>
+          <ul>
+            <li><strong>Exógena ampliada</strong> con soporte funcional para formatos 1003, 1005 y 1006, además de mejoras en 1001, 1007, 1008 y 1009</li>
+            <li><strong>Nuevo flujo de saldos contables CxC/CxP</strong> para Exógena mediante carga de archivos CSV/TXT, con parser tolerante, advertencias y uso como fuente autoritativa en 1008/1009</li>
+            <li><strong>Exportación XML de Exógena reforzada</strong> con generación por lote, manifest de exportación y compresión ZIP</li>
+            <li><strong>Validaciones Exógena ampliadas</strong> por formato (consistencia de NIT/DV, valores, duplicados y controles por campo)</li>
+            <li><strong>Nuevo catálogo</strong> de formatos obligatorios por perfil de informante (PN, PJ, GC)</li>
+          </ul>
+
+          <h3>Actualización normativa:</h3>
+          <ul>
+            <li>Se incorporó dataset oficial de Exógena 2026 por grupos PN, PJ y GC</li>
+            <li>UVT 2026 actualizada a 52.374, con referencia de resolución y fuente oficial</li>
+            <li>Documentación técnica tributaria actualizada para reflejar la cobertura actual de reglas</li>
+          </ul>
+
+          <h3>Declaración IVA (F300):</h3>
+          <ul>
+            <li>Rediseño del flujo en pestaña de declaraciones con experiencia más integrada (historial + editor embebido)</li>
+            <li>Mejoras en selección de período, recuperación de borradores y manejo de datos adicionales por período para evitar arrastre de información manual</li>
+            <li>Mejoras visuales y de usabilidad en resumen, acciones y estados del editor F300</li>
+          </ul>
+
+          <h3>Gestión de clientes:</h3>
+          <ul>
+            <li>Nuevo control de cambios sin guardar en ficha de cliente</li>
+            <li>Estado de guardado visible, confirmación al descartar cambios y guardado más robusto</li>
+            <li>Normalización de responsabilidades DIAN para reducir errores por formatos inconsistentes</li>
+          </ul>
+
+          <h3>Sincronización con DIAN:</h3>
+          <ul>
+            <li>Mayor robustez en manejo de sesión/navegador (verificación de conexión, recuperación de estado, timeouts más tolerantes y mejor cierre/limpieza)</li>
+            <li>Mejoras en seguimiento de estado de sincronización, continuidad y mensajes operativos</li>
+          </ul>
+
+          <h3>Plantillas y persistencia:</h3>
+          <ul>
+            <li>Plantillas ahora con persistencia real en base de datos (crear, editar, eliminar, favoritos, estado)</li>
+            <li>Confirmación de eliminación en librería de plantillas y mejoras de UX en editor</li>
+            <li>Nuevas utilidades de serialización/deserialización para modelos de plantillas</li>
+          </ul>
+
+          <h3>Base de datos y calculadoras:</h3>
+          <ul>
+            <li>Nueva estructura para historial de sanciones por corrección y actualización de versión de base de datos</li>
+            <li>Ajustes en lógica de renta PN y actualización de UVT por defecto en calculadoras/sanciones</li>
+            <li>Mejoras puntuales de validación tributaria y estabilidad general</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sat, 08 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.8.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.8.0/flipp-setup.exe"
+        sparkle:version="1.8.0"
+        sparkle:dsaSignature="MDwCHFJUhJCSRDRUsMvv4yHBijS6bGtGZKOs7BYixFkCHBb/EYu3FNqTFINq1DfqnVAZ4u/EhJyDFEOSKuM="
+        length="24159886"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.7.4 - Actualización de Flujos de Causación y Conciliación -->
     <item>
       <title>Versión 1.7.4</title>
