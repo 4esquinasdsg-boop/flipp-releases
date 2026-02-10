@@ -24,6 +24,76 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.8.1 - Rework del Módulo de Causación -->
+    <item>
+      <title>Versión 1.8.1</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.8.1</h2>
+          <p>Hicimos una mejora grande del módulo de Causación para que la configuración sea más clara para contabilidad, especialmente en el amarre entre débito y crédito de cada operación.</p>
+
+          <h3>¿Qué cambió?</h3>
+
+          <h4>1) Nuevo enfoque del tab de Causación (rework)</h4>
+          <p>Ahora la configuración se presenta como "Mapa de Asientos de Causación", donde cada concepto muestra explícitamente:</p>
+          <ul>
+            <li>qué cuenta debita (Db)</li>
+            <li>qué cuenta acredita (Cr)</li>
+          </ul>
+          <p>Se reorganizó por bloques operativos:</p>
+          <ul>
+            <li>Ventas FE</li>
+            <li>Compras y Gastos</li>
+            <li>Documento Soporte</li>
+            <li>Retenciones en Compras</li>
+            <li>Cuentas de Nómina</li>
+          </ul>
+          <p>También se mantuvo la opción de "Restaurar defaults".</p>
+
+          <h4>2) Campos bloqueados (con candado) por diseño contable</h4>
+          <p>Algunas cuentas aparecen no editables porque son cuentas de contrapartida estructural (por ejemplo: Clientes, Proveedores o "Contra salario por pagar").</p>
+          <p>Esto se hizo para evitar descuadres y asegurar que los asientos automáticos se mantengan balanceados.</p>
+          <p>Las cuentas que sí definen política contable del cliente (ingresos, gastos, impuestos, retenciones, provisiones, etc.) siguen siendo editables.</p>
+
+          <h4>3) Mejora de nómina y parafiscales</h4>
+          <p>Se fortaleció la parametrización de nómina con lógica de amarre Db/Cr por concepto.</p>
+          <p>Además, se agregó selector de modalidad parafiscal:</p>
+          <ul>
+            <li>Confama (4%)</li>
+            <li>ICBF + SENA (3% + 2%)</li>
+          </ul>
+          <p>La causación de aportes patronales ahora respeta automáticamente la modalidad elegida.</p>
+
+          <h4>4) Correcciones en retenciones (ventas y XML)</h4>
+          <p>Se mejoró el reconocimiento de retenciones en XML incluso cuando algunos proveedores no traen el código DIAN estándar (se infiere también por nombre: retefuente, reteiva, reteica).</p>
+          <p>En ventas, la clasificación ahora normaliza mejor retenciones inconsistentes (por ejemplo valores negativos o en cero) y toma la mejor fuente disponible (XML, resumen o cálculo), manteniendo el asiento balanceado.</p>
+
+          <h4>5) Estabilidad y sincronización</h4>
+          <p>Se hicieron optimizaciones para mejorar rendimiento y consistencia:</p>
+          <ul>
+            <li>Sincronización por lotes más eficiente</li>
+            <li>Recargas más seguras al cambiar de firma</li>
+            <li>Manejo más robusto del backfill/carga de XML</li>
+            <li>Refuerzo del flujo de validación de dispositivos/licencia</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 09 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.8.1</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.8.1/flipp-setup.exe"
+        sparkle:version="1.8.1"
+        sparkle:dsaSignature="MDwCHGjWFhT1dEBU5y6vh8u34YOJf2Y4vDqRiIEaUPUCHCB+BOPTPmC7yqKVC/HyI0AyMFuIt8+l5f/I6+Y="
+        length="24171046"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.8.0 - Fortalecimiento de Exógena, IVA y Sincronización DIAN -->
     <item>
       <title>Versión 1.8.0</title>
