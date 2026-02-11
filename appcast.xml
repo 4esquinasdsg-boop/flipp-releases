@@ -24,6 +24,35 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.8.2 - Exportador Siigo y Gestión de Licencias -->
+    <item>
+      <title>Versión 1.8.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.8.2</h2>
+          <ul>
+            <li><strong>Nuevo Exportador Siigo:</strong> Exporta comprobantes contables directamente a formato Siigo para integración con el software contable</li>
+            <li><strong>Mejoras en Gestión de Licencias:</strong> Simplificación y optimización del sistema de licencias y validación de dispositivos</li>
+            <li><strong>Actualizaciones de Sincronización:</strong> Mejoras en funciones de sincronización y parches de base de datos</li>
+            <li><strong>Configuración Contaii:</strong> Actualizaciones en configuración de comprobantes y exportación a Contaii</li>
+          </ul>
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 10 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.8.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.8.2/flipp-setup.exe"
+        sparkle:version="1.8.2"
+        sparkle:dsaSignature="MDwCHDNP4CfYds4Q42+PRObGt4FgBJqzj7qCHpUbakECHBIhdcCxvLZ19CHmAiJfTs9GdlogrL02cXMBPKw="
+        length="24182232"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.8.1 - Rework del Módulo de Causación -->
     <item>
       <title>Versión 1.8.1</title>
