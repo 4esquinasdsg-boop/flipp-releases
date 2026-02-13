@@ -24,6 +24,54 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.8.3 - Mejoras en Sincronización DIAN y Documento Soporte -->
+    <item>
+      <title>Versión 1.8.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.8.3</h2>
+
+          <h3>Sincronización con la DIAN mejorada</h3>
+          <ul>
+            <li><strong>Se evitan descargas duplicadas:</strong> El sistema ahora detecta mejor si un documento ya fue descargado (Nómina), evitando repeticiones innecesarias</li>
+            <li><strong>Mayor resistencia a interrupciones:</strong> Si la conexión con la DIAN se interrumpe, el sistema conserva el progreso y retoma donde quedó sin perder lo ya descargado</li>
+            <li><strong>Mensajes más claros:</strong> Los estados de progreso y los avisos de interrupción ahora son más informativos para que sepas qué está pasando en cada momento</li>
+          </ul>
+
+          <h3>Documento Soporte</h3>
+          <ul>
+            <li><strong>Clasificación corregida:</strong> Los Documentos Soporte y Notas de Ajuste ahora se clasifican correctamente como compra o venta según corresponda</li>
+            <li><strong>Mejor detección del NIT:</strong> Se mejoró la validación del NIT (incluyendo dígito de verificación) para asignar correctamente cada documento</li>
+          </ul>
+
+          <h3>Causación y cuentas contables</h3>
+          <ul>
+            <li><strong>Cuenta de proveedores configurable:</strong> Ahora puedes elegir la cuenta contable de proveedores para Documento Soporte desde la configuración</li>
+            <li><strong>Edición enlazada de cuentas:</strong> Al modificar cuentas clave (como clientes, proveedores o salarios por pagar), los cambios se reflejan automáticamente en todos los lugares donde aplican</li>
+          </ul>
+
+          <h3>Auditoría</h3>
+          <ul>
+            <li><strong>Reporte de faltantes mejorado:</strong> El encabezado ahora muestra "ID" en lugar de "CUFE" para reflejar que también aplica a otros tipos de documento (CUNE, CUDE)</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 11 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.8.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.8.3/flipp-setup.exe"
+        sparkle:version="1.8.3"
+        sparkle:dsaSignature="MDwCHA1zNNLK/qNK3cigqq9/44MJQuWctOZXuaTSP+UCHFv+ScVxgbb8KP2f3pQ7WhnS2ojrXQyfuVKQ/VE="
+        length="24183971"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.8.2 - Exportador Siigo y Gestión de Licencias -->
     <item>
       <title>Versión 1.8.2</title>
