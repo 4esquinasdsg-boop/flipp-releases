@@ -24,6 +24,38 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.8.4 - Importación SIIGO y Mejoras en Procesamiento XML -->
+    <item>
+      <title>Versión 1.8.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.8.4</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Importación de cuentas SIIGO:</strong> Nueva funcionalidad para importar plan de cuentas desde archivos Excel/XLS de SIIGO con mapeo automático de cuentas contables y nómina, detección inteligente de encabezados y manejo de advertencias</li>
+            <li><strong>Exportación de terceros SIIGO:</strong> Además de Contaii, ahora puedes exportar terceros en formato SIIGO, incluyendo conversión persona/empresa y clasificación automática cliente/proveedor</li>
+            <li><strong>Importación XML DIAN mejorada:</strong> Control de importaciones concurrentes, deduplicación robusta (ya no se descargan Nóminas duplicadas que ya fueron procesadas), y mejor trazabilidad de errores por archivo</li>
+            <li><strong>Indicadores de progreso:</strong> Nuevos indicadores visuales de progreso durante el procesamiento de importación XML para mejor seguimiento del proceso</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 12 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.8.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.8.4/flipp-setup.exe"
+        sparkle:version="1.8.4"
+        sparkle:dsaSignature="MD0CHQCRep7SwVNSPw1cRmV1fxU/F0qaYkINxx1iYDlIAhxwpB54hMylFovFKSnoNDlT2ztRzx16+qKu1NWh"
+        length="24240392"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.8.3 - Mejoras en Sincronización DIAN y Documento Soporte -->
     <item>
       <title>Versión 1.8.3</title>
