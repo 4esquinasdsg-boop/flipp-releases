@@ -24,6 +24,39 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.8.5 - Flujo PN/PJ y mejoras de sincronización DIAN -->
+    <item>
+      <title>Versión 1.8.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.8.5</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Flujo PN/PJ para clientes nuevos:</strong> Nuevo onboarding para seleccionar persona natural o jurídica desde el inicio, con campos ajustados automáticamente</li>
+            <li><strong>Perfil jurídico mejorado:</strong> Se añade y valida la cédula del representante legal para clientes persona jurídica</li>
+            <li><strong>Sincronización DIAN reforzada:</strong> Nuevo filtro por rango de fechas con búsqueda previa y estimación de documentos antes de descargar</li>
+            <li><strong>Autocompletado de login DIAN (PJ):</strong> Para persona jurídica se autocompleta NIT de empresa y CC del representante, con manejo de reintento por captcha</li>
+            <li><strong>Documento soporte no obligados:</strong> Corrección en consolidado tributario para contabilizar correctamente estos documentos en gastos</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.8.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.8.5/flipp-setup.exe"
+        sparkle:version="1.8.5"
+        sparkle:dsaSignature="MD4CHQCRi1iFQEsKKN4ABpldWnYR0aL88BhfwnmhPkAVAh0AjmhpRJHqy+/YTNcEUC/lRLI29u2uoSKdsbuwMw=="
+        length="24265123"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.8.4 - Importación SIIGO y Mejoras en Procesamiento XML -->
     <item>
       <title>Versión 1.8.4</title>
