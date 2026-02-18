@@ -24,6 +24,38 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.8.6 - Mejoras en retefuente y rendimiento de importación DIAN -->
+    <item>
+      <title>Versión 1.8.6</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.8.6</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Revisión de retefuente más precisa:</strong> Ajustes en el flujo de revisión para bloquear solo lo que corresponde en compras y facilitar la corrección</li>
+            <li><strong>Detección y tarifario mejorados:</strong> Se fortalecen reglas y clasificación de retefuente/reteiva para reducir inconsistencias</li>
+            <li><strong>Persona natural más protegida:</strong> Se bloquean retenciones que no aplican en estos casos para evitar errores de causación</li>
+            <li><strong>Importación DIAN más fluida:</strong> El parseo de Excel se mueve a segundo plano para evitar congelamientos y mejorar la experiencia</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 18 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>1.8.6</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.8.6/flipp-setup.exe"
+        sparkle:version="1.8.6"
+        sparkle:dsaSignature="MD0CHQCOUpzEoxnzSK15x6995vQA6bWwVkhNDox7i+BfAhwQCSx/j8CKqJreAXPCqOCYXym2KH6LmybFq5/a"
+        length="24286817"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.8.5 - Flujo PN/PJ y mejoras de sincronización DIAN -->
     <item>
       <title>Versión 1.8.5</title>
