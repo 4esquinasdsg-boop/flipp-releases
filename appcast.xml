@@ -24,6 +24,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 1.8.7 - Ajustes por tipo de persona en obligaciones -->
+    <item>
+      <title>Versión 1.8.7</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 1.8.7</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Filtro por tipo de persona:</strong> Se reemplaza el estado de obligaciones por un filtro basado en tipo de persona para mejorar consistencia en clientes</li>
+            <li><strong>Flujo más claro de segmentación:</strong> El manejo de clientes naturales y jurídicos queda más directo y fácil de revisar</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 18 Feb 2026 12:00:00 -0500</pubDate>
+      <sparkle:version>1.8.7</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v1.8.7/flipp-setup.exe"
+        sparkle:version="1.8.7"
+        sparkle:dsaSignature="MD0CHQCAUAvW01jJ6Iu/rf5J/qZgXi0x9wdEjFus8B94AhxDWZ+gzCvU9ylj4evLq1Oc793hsCo6qtp07vmH"
+        length="24272167"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 1.8.6 - Mejoras en retefuente y rendimiento de importación DIAN -->
     <item>
       <title>Versión 1.8.6</title>
