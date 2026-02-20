@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Flipp - Actualizaciones</title>
@@ -23,6 +23,39 @@
     3. Commit y push este archivo al repositorio flipp-releases
     ═══════════════════════════════════════════════════════════════════════════
     -->
+
+    <!-- Versión 2.0 - Rework total de Sync DIAN -->
+    <item>
+      <title>Versión 2.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0</h2>
+
+          <h3>Rework completo de Sync DIAN</h3>
+          <ul>
+            <li><strong>Hasta 2.4x más rápido:</strong> Se optimiza el motor de sincronización para reducir tiempos de descarga y procesamiento</li>
+            <li><strong>Menos duplicados:</strong> Se fortalece la detección y control de duplicación durante la sincronización</li>
+            <li><strong>Flujo híbrido más eficiente:</strong> Nuevo enfoque de listado y descarga con pre-scan para priorizar documentos válidos</li>
+            <li><strong>Mayor estabilidad en Windows:</strong> Se reduce la saturación de la cola de mensajes y se mejora el feedback de progreso</li>
+            <li><strong>UX simplificada:</strong> Interfaz de Sync DIAN más clara con controles de ejecución más seguros</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.0/flipp-setup.exe"
+        sparkle:version="2.0.0"
+        sparkle:dsaSignature="MD0CHEi2VKrjv7NLe00HYRFqn6DzFb88xFFEL5GOjocCHQCirrYY0VSLaESqVqZ3MCy5xH5dvKw+DVxAF+ig"
+        length="24360439"
+        type="application/octet-stream"/>
+    </item>
 
     <!-- Versión 1.8.7 - Ajustes por tipo de persona en obligaciones -->
     <item>
