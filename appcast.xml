@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.0.1 - Simplificación UI Sync DIAN y Tributario -->
+    <item>
+      <title>Versión 2.0.1</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0.1</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Sync DIAN más liviano:</strong> Se reduce presión de UI durante la sincronización para mejorar fluidez</li>
+            <li><strong>Interfaz simplificada:</strong> Se elimina el panel de estado de sincronización para un flujo más limpio y directo</li>
+            <li><strong>Módulo tributario más claro:</strong> Se removieron contenedores/filtros y badges de gráficos para una lectura más enfocada</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.1</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.1/flipp-setup.exe"
+        sparkle:version="2.0.1"
+        sparkle:dsaSignature="MDwCHHLp8XEzxFukQ1MuxoWpZqCkoyW7AzofWfaJ7h4CHEWtGrWi0kIN6Nw5mIMZ2F2wzuYgbpsZNPG5EqM="
+        length="24357581"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0 - Rework total de Sync DIAN -->
     <item>
       <title>Versión 2.0</title>
