@@ -24,6 +24,38 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.0.2 - Refactor perfil tributario y sync -->
+    <item>
+      <title>Versión 2.0.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0.2</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Refactor de perfil tributario:</strong> Reorganización interna del flujo y reglas para mejorar consistencia y mantenimiento</li>
+            <li><strong>Sync mejor integrado:</strong> Ajustes en sincronización y perfil tributario para una operación más estable</li>
+            <li><strong>Mejoras de lógica tributaria:</strong> Se fortalecen cálculos, retenciones y validaciones relacionadas</li>
+            <li><strong>Más cobertura de pruebas:</strong> Se añadieron pruebas para escenarios clave del refactor</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.2/flipp-setup.exe"
+        sparkle:version="2.0.2"
+        sparkle:dsaSignature="MDwCHBylSraFjdL/2BgzHnq5PDDWTfWH2IKcTgIWnrYCHGrzVs00AFl5A+jiedr0YfcBd3Ey6rIyxdmAc+s="
+        length="24376654"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0.1 - Simplificación UI Sync DIAN y Tributario -->
     <item>
       <title>Versión 2.0.1</title>
