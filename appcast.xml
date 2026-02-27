@@ -24,6 +24,39 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.0.3 - Causación v2, PUC e integraciones -->
+    <item>
+      <title>Versión 2.0.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0.3</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Causación v2 ampliada:</strong> Refactor y consolidación del flujo de causación con reglas y configuración más robustas</li>
+            <li><strong>Perfil tributario y sync:</strong> Integración más consistente entre perfil del cliente, reglas tributarias y sincronización</li>
+            <li><strong>Integraciones SIIGO y Syscafe:</strong> Mejoras en importación/exportación de cuentas, terceros y configuración contable</li>
+            <li><strong>Catálogo PUC y motor semántico:</strong> Se fortalecen plantillas, reglas automáticas y activos base para clasificación</li>
+            <li><strong>Cobertura de pruebas:</strong> Nuevos tests para importadores, reglas y escenarios de causación</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 24 Feb 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.3/flipp-setup.exe"
+        sparkle:version="2.0.3"
+        sparkle:dsaSignature="MDwCHAbO7MORqj/sAW8uzzXx4Jlpr+mTyZDahDpl7K8CHH05LZ33qvL8Or+UrC1+QMTDPyV1IBtUuZujS1Q="
+        length="24692112"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0.2 - Refactor perfil tributario y sync -->
     <item>
       <title>Versión 2.0.2</title>
