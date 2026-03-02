@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.0.4 - Robustez en Sync DIAN -->
+    <item>
+      <title>Versión 2.0.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0.4</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Pre-scan DIAN más consistente:</strong> Ajustes para mejorar coherencia entre conteos previos y ejecución real</li>
+            <li><strong>Progreso más confiable:</strong> Mejor manejo de descargas estancadas para evitar estados congelados</li>
+            <li><strong>Errores y cancelaciones visibles:</strong> Ahora se muestran y propagan correctamente los fallos/cancelaciones en descarga</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.4/flipp-setup.exe"
+        sparkle:version="2.0.4"
+        sparkle:dsaSignature="MD0CHQCCh8uOUcfWQS2QQqOg3cOQUyWzjMbx0UN9+Eg+AhwxwyW31k2zRb8tNFoji5M9x7WO7fZjVig9buN4"
+        length="24691997"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0.3 - Causación v2, PUC e integraciones -->
     <item>
       <title>Versión 2.0.3</title>
