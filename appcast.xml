@@ -24,6 +24,38 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.0.5 - Mejoras en importación PUC SIIGO -->
+    <item>
+      <title>Versión 2.0.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0.5</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Fallback de importación PUC:</strong> Se corrige el flujo para recuperar importaciones cuando el formato base falla</li>
+            <li><strong>Normalización Excel más robusta:</strong> Mejor tolerancia a variaciones de archivos SIIGO durante la lectura y mapeo de cuentas</li>
+            <li><strong>Estabilidad de configuración:</strong> Ajustes en servicios/widgets de causación para reducir errores de importación</li>
+            <li><strong>Cobertura de pruebas:</strong> Nuevos tests para validar el comportamiento del importador Syscafe/PUC</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.5/flipp-setup.exe"
+        sparkle:version="2.0.5"
+        sparkle:dsaSignature="MDwCHBF4gp28pLgB8YxmVYRwxS2+l1bRCXd4opDbas0CHF+HuIulbKhyAF6/QdnhWp7rLph6dW7FnymbBtY="
+        length="24702275"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0.4 - Robustez en Sync DIAN -->
     <item>
       <title>Versión 2.0.4</title>
