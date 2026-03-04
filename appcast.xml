@@ -24,6 +24,39 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.0.7 - Nómina Syscafe, retenciones PN y UX -->
+    <item>
+      <title>Versión 2.0.7</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0.7</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Nómina en libro Syscafe:</strong> Se integra nómina al flujo de libro y se añade opción de secuencia específica</li>
+            <li><strong>Retenciones en persona natural:</strong> Se permiten según códigos DIAN y se normaliza el comportamiento legado</li>
+            <li><strong>Mejoras de interfaz:</strong> Sidebar inicia colapsado con expansión por hover para ganar espacio de trabajo</li>
+            <li><strong>Clientes y vistas más responsivas:</strong> Se ajusta el detalle de cliente para ocupar mejor el área disponible</li>
+            <li><strong>Tributario más claro:</strong> Ingresos vs gastos muestra todos los meses</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.7</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.7/flipp-setup.exe"
+        sparkle:version="2.0.7"
+        sparkle:dsaSignature="MD0CHFuunCeUWKnpRQdnB91s96WaD9qzIIThAtxpY1UCHQCgXgaRb39LvRa/QUBRPqNc2G4Mq5/Tu3L3Mklf"
+        length="24706177"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0.6 - Importadores contables y NC con IVA -->
     <item>
       <title>Versión 2.0.6</title>
