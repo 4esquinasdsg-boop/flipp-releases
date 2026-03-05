@@ -24,6 +24,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.0.9 - Estabilidad Syscafe en causación -->
+    <item>
+      <title>Versión 2.0.9</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0.9</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Configuración Syscafe más consistente:</strong> Se corrige el mantenimiento de cuentas configuradas dentro del flujo de causación</li>
+            <li><strong>Menos pérdida de ajustes:</strong> Se evita que cambios de configuración contable se reemplacen de forma incorrecta</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.9</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.9/flipp-setup.exe"
+        sparkle:version="2.0.9"
+        sparkle:dsaSignature="MD0CHBxQ6Q7GVtSzDJgVIT4y0WCEjAZPZDUxq5Kmr7wCHQCDuDwPjetpmpmjayUcba0x/R79OmjXv2HDsycH"
+        length="24713637"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0.8 - Estabilidad configuración Syscafe -->
     <item>
       <title>Versión 2.0.8</title>
