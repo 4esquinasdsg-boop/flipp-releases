@@ -24,6 +24,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.0.8 - Estabilidad configuración Syscafe -->
+    <item>
+      <title>Versión 2.0.8</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.0.8</h2>
+
+          <h3>Cambios destacados</h3>
+          <ul>
+            <li><strong>Configuración de cuentas más estable:</strong> Se corrige el flujo para mantener correctamente la configuración contable en Syscafe</li>
+            <li><strong>Menos reprocesos manuales:</strong> Evita pérdidas o sobrescrituras inesperadas en ajustes de causación relacionados</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.0.8</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.0.8/flipp-setup.exe"
+        sparkle:version="2.0.8"
+        sparkle:dsaSignature="MDwCHB5Mqrug8NnRBmwfS6+NusmEzIB1Sxry61VSEkkCHA8sMPdTynmp7SwGnfOznO0S0x+ffm7sJgUYSUE="
+        length="24716384"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0.7 - Nómina Syscafe, retenciones PN y UX -->
     <item>
       <title>Versión 2.0.7</title>
