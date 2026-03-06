@@ -24,6 +24,38 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.2 - Ajustes contables y exportaciones más confiables -->
+    <item>
+      <title>Versión 2.1.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.2</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Mejor conservación de ajustes contables:</strong> la configuración de cuentas y reglas de causación se mantiene de forma más consistente</li>
+            <li><strong>Detalle de factura más útil:</strong> se fortalecen los ajustes manuales y el comportamiento del detalle para trabajar con más confianza</li>
+            <li><strong>Exportaciones más estables:</strong> mejoras en archivos y guardado para exportadores de SIIGO y otros flujos relacionados</li>
+            <li><strong>Menos fricción en causación:</strong> varios ajustes internos reducen errores y hacen más predecible el flujo</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.1.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.2/flipp-setup.exe"
+        sparkle:version="2.1.2"
+        sparkle:dsaSignature="MD0CHQCe8j8HIW/rQDraSc5uN64zhSvO2pZZC6za6YbCAhxoFbeZa30jKXjyZJzr60+5IcOM7uCzFpCQv1d1"
+        length="24788211"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.1 - Corrección de empaquetado de 2.1.0 -->
     <item>
       <title>Versión 2.1.1</title>
