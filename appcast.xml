@@ -24,6 +24,40 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.0 - Flujo unificado, conciliación y estabilidad -->
+    <item>
+      <title>Versión 2.1.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.0</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Nuevo flujo más unificado para facturas y causación:</strong> Ahora revisar la factura y llevarla a causación se siente más conectado y claro</li>
+            <li><strong>Mejor detalle de factura y causación:</strong> La información es más fácil de entender y los ajustes contables se conservan mejor</li>
+            <li><strong>Descargas grandes de la DIAN más fluidas:</strong> Se mejora la respuesta de la aplicación cuando trabajas con muchos documentos</li>
+            <li><strong>Conciliación bancaria recuperada:</strong> Se rescata el flujo operativo para volverlo más utilizable en el trabajo diario</li>
+            <li><strong>Exportaciones más estables:</strong> Menos problemas cuando Excel tiene archivos abiertos y mejor comportamiento en varios exportadores</li>
+            <li><strong>Configuración contable más inteligente:</strong> El tipo de negocio ahora ayuda a enlazar mejor perfiles y catálogos en causación</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.1.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.0/flipp-setup.exe"
+        sparkle:version="2.1.0"
+        sparkle:dsaSignature="MD0CHQCV4wXCTsm5lBkg1gAK/Nfka0mzZ65qzyZDGwu5Ahw1WCGwjLkhFYRtdsRj7tvJLcsiBXsWbCoQO4SE"
+        length="24713636"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.0.9 - Estabilidad Syscafe en causación -->
     <item>
       <title>Versión 2.0.9</title>
