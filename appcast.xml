@@ -24,6 +24,38 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.3 - Configuración contable y exportación SIIGO mejoradas -->
+    <item>
+      <title>Versión 2.1.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.3</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Configuración contable más clara:</strong> se reorganizaron y unificaron varios asistentes para que parametrizar SIIGO y otros sistemas sea más simple</li>
+            <li><strong>Exportación a SIIGO mejorada:</strong> se ajustó el comportamiento de exportación para reducir inconsistencias y hacer el resultado más confiable</li>
+            <li><strong>Los ajustes contables se conservan mejor:</strong> se fortaleció el manejo de cuentas globales y de facturas ya guardadas para evitar que se pierdan cambios importantes</li>
+            <li><strong>Detalle de factura más útil:</strong> el manejo de retenciones y la vista de detalle se afinan para revisar mejor la información antes de causar</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.1.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.3/flipp-setup.exe"
+        sparkle:version="2.1.3"
+        sparkle:dsaSignature="MDwCHBCdM0MEM+czVeUR8fJ/qV3zf9KsQwWKW0q2OjwCHF19REGha6HX+KoJ+2nLLrwuSA/Ykz6jmkmoNqc="
+        length="24813723"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.2 - Ajustes contables y exportaciones más confiables -->
     <item>
       <title>Versión 2.1.2</title>
