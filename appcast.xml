@@ -24,6 +24,45 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.1 - Corrección de empaquetado de 2.1.0 -->
+    <item>
+      <title>Versión 2.1.1</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.1</h2>
+
+          <h3>Importante</h3>
+          <ul>
+            <li><strong>Corrección de actualización:</strong> Esta versión corrige un problema de empaquetado de la 2.1.0 para que la instalación sí aplique los cambios correctamente</li>
+          </ul>
+
+          <h3>Incluye las mejoras de la 2.1.0</h3>
+          <ul>
+            <li><strong>Flujo más unificado para facturas y causación:</strong> revisar la factura y llevarla a causación ahora se siente más conectado y claro</li>
+            <li><strong>Mejor detalle de factura:</strong> la información es más fácil de entender y los ajustes contables se conservan mejor</li>
+            <li><strong>Descargas grandes de la DIAN más fluidas:</strong> mejor respuesta cuando trabajas con muchos documentos</li>
+            <li><strong>Conciliación bancaria recuperada:</strong> el flujo operativo vuelve a estar disponible para el trabajo diario</li>
+            <li><strong>Exportaciones más estables:</strong> menos problemas cuando Excel tiene archivos abiertos</li>
+            <li><strong>Configuración contable más inteligente:</strong> el tipo de negocio ayuda a enlazar mejor perfiles y catálogos</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 -0500</pubDate>
+      <sparkle:version>2.1.1</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.1/flipp-setup.exe"
+        sparkle:version="2.1.1"
+        sparkle:dsaSignature="MD0CHQCcouXR4vhEEbNhoQxhADYEY68eJXUYrD7V3QXiAhxfAN/bDxIR/cmo6omuuKS01qOL5X3n+nx8fBX5"
+        length="24765702"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.0 - Flujo unificado, conciliación y estabilidad -->
     <item>
       <title>Versión 2.1.0</title>
