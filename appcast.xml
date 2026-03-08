@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.5 - Correcciones en flujos SIIGO -->
+    <item>
+      <title>Versión 2.1.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.5</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Importación a SIIGO más confiable:</strong> se corrigieron errores en el flujo de importación de cuentas y configuraciones relacionadas</li>
+            <li><strong>Exportaciones SIIGO más estables:</strong> se ajustó el manejo de comprobantes y terceros para reducir inconsistencias</li>
+            <li><strong>Ajustes en configuración contable:</strong> mejoras puntuales en pantallas y validaciones vinculadas al trabajo con SIIGO</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sat, 07 Mar 2026 19:11:00 -0500</pubDate>
+      <sparkle:version>2.1.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.5/flipp-setup.exe"
+        sparkle:version="2.1.5"
+        sparkle:dsaSignature="MDwCHAZoMyeI5eJ33OiDksi3q28NS8QJNMQVSjvpIFYCHErIEK8z5fkZTanx+r2EUt0bllf6n5qAGXRzBxA="
+        length="24925844"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.4 - correción de pequeños errores -->
     <item>
       <title>Versión 2.1.4</title>
