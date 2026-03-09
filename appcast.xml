@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.9 - Motivo autorretenedor y retenciones -->
+    <item>
+      <title>Versión 2.1.9</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.9</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Motivo de autorretenedor visible:</strong> ahora se muestra mejor dentro del detalle de factura para revisar el contexto tributario</li>
+            <li><strong>Retenciones mejor explicadas:</strong> se afinan reglas y datos para que la información sea más clara al revisar documentos</li>
+            <li><strong>Detalle de factura reforzado:</strong> varios ajustes hacen más útil la visualización y validación de información contable</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 09 Mar 2026 16:19:00 -0500</pubDate>
+      <sparkle:version>2.1.9</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.9/flipp-setup.exe"
+        sparkle:version="2.1.9"
+        sparkle:dsaSignature="MD0CHBoSFDWeJDSeovSIE6eKoN96T7nj/hN4FowaT+MCHQCdqYpZXwqQa2RzhY7x6AdDo37w8gwxnglBiZ3l"
+        length="25044452"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.8 - Totales de retenciones y detalle de factura -->
     <item>
       <title>Versión 2.1.8</title>
