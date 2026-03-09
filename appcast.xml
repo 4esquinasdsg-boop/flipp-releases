@@ -24,6 +24,38 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.7 - Conciliación bancaria y libros compartidos -->
+    <item>
+      <title>Versión 2.1.7</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.7</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Conciliación bancaria más completa:</strong> se amplía el módulo con nuevas capacidades de cierre y mejor control del proceso</li>
+            <li><strong>Libros contables mejor conectados:</strong> se comparte y organiza mejor el código de sincronización y catálogos relacionados</li>
+            <li><strong>Facturas ordenables por fecha:</strong> ahora es más fácil revisar la información tributaria en el orden que necesitas</li>
+            <li><strong>Mejoras generales de estabilidad:</strong> varios ajustes internos refuerzan sincronización, base de datos y pantallas relacionadas</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 09 Mar 2026 08:40:00 -0500</pubDate>
+      <sparkle:version>2.1.7</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.7/flipp-setup.exe"
+        sparkle:version="2.1.7"
+        sparkle:dsaSignature="MDwCHA5kDmFpSpsMnvAJNlPk+mNFV7dHCX8aaY0Fwz4CHBAVi/cwO053H86m47mk2lftQ24Fr55BV83NCYg="
+        length="25037370"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.6 - Centros de costo y libros contables -->
     <item>
       <title>Versión 2.1.6</title>
