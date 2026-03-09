@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.8 - Totales de retenciones y detalle de factura -->
+    <item>
+      <title>Versión 2.1.8</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.8</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Totales de retenciones más claros:</strong> ahora se muestran mejor dentro del detalle de factura para facilitar la revisión</li>
+            <li><strong>Detalle de factura más útil:</strong> se reorganiza y amplía la información visible para trabajar con más contexto</li>
+            <li><strong>Clasificación contable afinada:</strong> varios ajustes mejoran el comportamiento de reglas y cálculos relacionados</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 09 Mar 2026 11:59:00 -0500</pubDate>
+      <sparkle:version>2.1.8</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.8/flipp-setup.exe"
+        sparkle:version="2.1.8"
+        sparkle:dsaSignature="MDwCHEPZC93iRbiNNKvtzfhNn8miYLRS8PFqVW6cBz4CHGLqOkklPERUq+EkiOYQapZbUwdY0NNA2CbxZqc="
+        length="25042257"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.7 - Conciliación bancaria y libros compartidos -->
     <item>
       <title>Versión 2.1.7</title>
