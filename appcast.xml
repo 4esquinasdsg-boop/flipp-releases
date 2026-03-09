@@ -24,6 +24,38 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.1.6 - Centros de costo y libros contables -->
+    <item>
+      <title>Versión 2.1.6</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.1.6</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Centros de costo más completos:</strong> se amplía la configuración y manejo de centros de costo dentro del flujo contable</li>
+            <li><strong>Libros contables fortalecidos:</strong> mejoras importantes en paneles, reportes y comportamiento general del módulo</li>
+            <li><strong>Causación y retenciones más robustas:</strong> se ajustan reglas, validaciones y mantenimiento de información contable</li>
+            <li><strong>Mejoras en exportaciones y nómina:</strong> varios ajustes refinan la generación de comprobantes y flujos relacionados</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 08 Mar 2026 22:41:00 -0500</pubDate>
+      <sparkle:version>2.1.6</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.1.6/flipp-setup.exe"
+        sparkle:version="2.1.6"
+        sparkle:dsaSignature="MDwCHAjqh0aPhfzHMQvOWC6s9jOTmWhbr/mfemYhNwkCHDyKaHTTgxUpyctdts132zniVui4s87DbgA/do8="
+        length="24998211"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.5 - Correcciones en flujos SIIGO -->
     <item>
       <title>Versión 2.1.5</title>
