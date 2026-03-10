@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.2.0 - Validación SIIGO reforzada -->
+    <item>
+      <title>Versión 2.2.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.2.0</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Validación de impuestos SIIGO más estricta:</strong> se refuerza la revisión de códigos de impuesto para reducir errores al exportar</li>
+            <li><strong>Exportación a SIIGO más confiable:</strong> mejoras en comprobantes y terceros ayudan a evitar inconsistencias</li>
+            <li><strong>Menos reprocesos manuales:</strong> el flujo queda más claro y predecible cuando falta o no coincide información tributaria</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 09 Mar 2026 22:00:00 -0500</pubDate>
+      <sparkle:version>2.2.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.2.0/flipp-setup.exe"
+        sparkle:version="2.2.0"
+        sparkle:dsaSignature="MDwCHHZWuKxnTylfc8SSt1qDlnnWIzccQGqW+18+5F4CHGPhuqKgcbYPmLRyfkpQltNlZ0mjNOLjL5XUyrA="
+        length="25041233"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.1.9 - Motivo autorretenedor y retenciones -->
     <item>
       <title>Versión 2.1.9</title>
