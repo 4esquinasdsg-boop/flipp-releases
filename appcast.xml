@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.2.1 - Reprocesamiento y catálogos -->
+    <item>
+      <title>Versión 2.2.1</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.2.1</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Menos reprocesamiento manual:</strong> se corrigen flujos para evitar repetir ajustes y revisiones innecesarias</li>
+            <li><strong>Catálogos y configuración más sólidos:</strong> se fortalecen estructuras y validaciones ligadas a cuentas e impuestos adicionales</li>
+            <li><strong>SIIGO y detalle de factura más consistentes:</strong> mejoras puntuales refuerzan importación, exportación y lectura de la información contable</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 10 Mar 2026 09:53:00 -0500</pubDate>
+      <sparkle:version>2.2.1</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.2.1/flipp-setup.exe"
+        sparkle:version="2.2.1"
+        sparkle:dsaSignature="MDwCHBjr2i9tkh92XR6w8FIbiX3QxEtnSBmmy9fMJiUCHClNeyvfFM34vrC9ouGyvAfsmp9NqY6VUlvC8lQ="
+        length="25049656"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.2.0 - Validación SIIGO reforzada -->
     <item>
       <title>Versión 2.2.0</title>
