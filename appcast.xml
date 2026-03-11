@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.2.3 - Protección de clientes y sync -->
+    <item>
+      <title>Versión 2.2.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.2.3</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Más protección para clientes sincronizados:</strong> se refuerzan controles para evitar pérdida o duplicación de clientes en Supabase</li>
+            <li><strong>Sincronización más segura:</strong> se endurecen reglas y validaciones relacionadas con seguridad y consistencia de datos</li>
+            <li><strong>Flujo del cliente más estable:</strong> ajustes puntuales mejoran pantallas y acciones conectadas con la sincronización</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 11 Mar 2026 12:46:00 -0500</pubDate>
+      <sparkle:version>2.2.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.2.3/flipp-setup.exe"
+        sparkle:version="2.2.3"
+        sparkle:dsaSignature="MDwCHHpAm420oDtoGxmWV3/iphejCcbekXB8Zyp44s0CHGxn1EgOALO85I8CS5tW8IPu93WqxQdZrOAxhFo="
+        length="25054758"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.2.2 - Conciliación bancaria reforzada -->
     <item>
       <title>Versión 2.2.2</title>
