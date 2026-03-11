@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.2.2 - Conciliación bancaria reforzada -->
+    <item>
+      <title>Versión 2.2.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.2.2</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Conciliación bancaria más robusta:</strong> mejoras importantes refuerzan el flujo general y el manejo de extractos</li>
+            <li><strong>Ajustes bancarios mejor controlados:</strong> ahora el proceso de registrar y revisar ajustes es más consistente</li>
+            <li><strong>Menos automatismos inesperados:</strong> se detiene una retención automática para dar más control al usuario</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 11 Mar 2026 09:00:00 -0500</pubDate>
+      <sparkle:version>2.2.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.2.2/flipp-setup.exe"
+        sparkle:version="2.2.2"
+        sparkle:dsaSignature="MD0CHQCUpKN9IMzbPmMIueGW8kDFeRiMOesvqcGU076VAhxG60AMuNeYl2nx2AIDQvFZg4jngOp+3FCkhden"
+        length="25042385"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.2.1 - Reprocesamiento y catálogos -->
     <item>
       <title>Versión 2.2.1</title>
