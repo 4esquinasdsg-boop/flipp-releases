@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.2.4 - Clientes sin duplicados al reabrir -->
+    <item>
+      <title>Versión 2.2.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.2.4</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Menos clientes duplicados al reabrir:</strong> se corrige un caso donde podían repetirse clientes al reabrir y sincronizar</li>
+            <li><strong>Persistencia más confiable:</strong> mejoras en base de datos y stores reducen inconsistencias entre sesiones</li>
+            <li><strong>Sincronización más estable:</strong> ajustes en flujos de Supabase y facturas refuerzan la consistencia de datos</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 11 Mar 2026 08:24:00 -0500</pubDate>
+      <sparkle:version>2.2.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.2.4/flipp-setup.exe"
+        sparkle:version="2.2.4"
+        sparkle:dsaSignature="MDwCHG5zxXQQ09HqMqZC7R5blVZdGbHTf9/SCKEPsbwCHAxQ6WcGUciJOmMjjeT7CMA+FCQwNOJVTEK/Txc="
+        length="25060396"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.2.3 - Protección de clientes y sync -->
     <item>
       <title>Versión 2.2.3</title>
