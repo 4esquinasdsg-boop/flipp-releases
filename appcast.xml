@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.2.5 - Eliminación de facturas -->
+    <item>
+      <title>Versión 2.2.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.2.5</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Nuevo botón para eliminar facturas:</strong> ahora puedes borrar facturas directamente desde el detalle</li>
+            <li><strong>Correcciones más rápidas:</strong> el flujo de revisión y limpieza de información tributaria se vuelve más directo</li>
+            <li><strong>Mejor estabilidad del estado tributario:</strong> ajustes internos refuerzan el comportamiento después de cambios en facturas</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Thu, 12 Mar 2026 10:16:00 -0500</pubDate>
+      <sparkle:version>2.2.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.2.5/flipp-setup.exe"
+        sparkle:version="2.2.5"
+        sparkle:dsaSignature="MD0CHAihak8FIpP2XSSFaO5k41Is3Ibl/aanZd3TtW4CHQCPbEiAyjSdf9i1vTcoeytsPc+aldpD2f0LQSSY"
+        length="25049740"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.2.4 - Clientes sin duplicados al reabrir -->
     <item>
       <title>Versión 2.2.4</title>
