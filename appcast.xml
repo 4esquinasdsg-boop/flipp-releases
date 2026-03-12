@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.2.6 - Guardado de consecutivos -->
+    <item>
+      <title>Versión 2.2.6</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.2.6</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Guardado de consecutivos más confiable:</strong> se corrige el comportamiento para evitar pérdidas o inconsistencias al guardar</li>
+            <li><strong>Flujo tributario más estable:</strong> ajustes en pantallas y estado interno mejoran la continuidad del trabajo</li>
+            <li><strong>Detalle de factura reforzado:</strong> varios refinamientos mejoran la revisión de información asociada</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Thu, 12 Mar 2026 11:26:00 -0500</pubDate>
+      <sparkle:version>2.2.6</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.2.6/flipp-setup.exe"
+        sparkle:version="2.2.6"
+        sparkle:dsaSignature="MD0CHQCI4i8aljUKGSXCXkkVm4dqkajUM6VohUzJ+jC+AhwsyL9vHfteMJQPMNVKMpxgPfMoUyKyKWUPJ7xH"
+        length="25057185"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.2.5 - Eliminación de facturas -->
     <item>
       <title>Versión 2.2.5</title>
