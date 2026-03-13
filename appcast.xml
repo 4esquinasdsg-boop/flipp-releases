@@ -24,6 +24,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.2.9 - IVA descontable y notas crédito -->
+    <item>
+      <title>Versión 2.2.9</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.2.9</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>IVA descontable mejor configurado:</strong> se ajustó el comportamiento para que el manejo de este valor sea más claro dentro del flujo contable</li>
+            <li><strong>Mejor soporte para notas crédito:</strong> ahora el proceso contempla mejor estos casos y reduce ajustes manuales</li>
+            <li><strong>Más estabilidad en SIIGO y configuración contable:</strong> varios refinamientos hacen más confiable la revisión y guardado de datos</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 13 Mar 2026 09:12:14 -0500</pubDate>
+      <sparkle:version>2.2.9</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.2.9/flipp-setup.exe"
+        sparkle:version="2.2.9"
+        sparkle:dsaSignature="MD0CHBpOTMUcarOoekWY7nS+jS6ZFRfOeJvRDUZNWjsCHQCRUAfEaVG5kNphF6A6ZffHYhA/xh3Cy9n42LOF"
+        length="25070138"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.2.8 - IVA descontable en SIIGO -->
     <item>
       <title>Versión 2.2.8</title>
