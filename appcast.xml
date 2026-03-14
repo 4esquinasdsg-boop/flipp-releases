@@ -21,8 +21,40 @@
        - sparkle:dsaSignature con la firma generada por build_release.ps1
        - length con el tamaño en bytes del instalador
     3. Commit y push este archivo al repositorio flipp-releases
+    4. Adjunta tambien este appcast.xml como asset del release en GitHub
     ═══════════════════════════════════════════════════════════════════════════
     -->
+
+    <!-- Versión 2.3.2 - Feed de actualizaciones más estable -->
+    <item>
+      <title>Versión 2.3.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.3.2</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Actualizaciones automáticas más confiables:</strong> se ajustó el origen del feed para reducir errores al detectar y validar nuevas versiones</li>
+            <li><strong>Menos problemas por caché:</strong> ahora la app consulta un origen más estable para obtener la información de actualización</li>
+            <li><strong>Proceso de actualización reforzado:</strong> se mejora la continuidad del flujo para que la descarga desde la app funcione de forma más consistente</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sat, 14 Mar 2026 11:43:04 -0500</pubDate>
+      <sparkle:version>2.3.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.3.2/flipp-setup.exe"
+        sparkle:version="2.3.2"
+        sparkle:dsaSignature="MDwCHAKM7nsLTK1iEZuDBWdX2rFzrKjZElo4X1e/fDACHCuVldJON4lC0TUD0UfUwkFc3jr6CtOPblNwkXU="
+        length="25088968"
+        type="application/octet-stream"/>
+    </item>
 
     <!-- Versión 2.3.1 - Exportación World Office -->
     <item>
