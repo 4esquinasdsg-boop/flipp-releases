@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.3.3 - Hotfix de backend -->
+    <item>
+      <title>Versión 2.3.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.3.3</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Hotfix de backend en sincronización:</strong> se corrige un problema relacionado con el flujo de sincronización y persistencia</li>
+            <li><strong>World Office más estable:</strong> ajustes en configuración y exportación mejoran la consistencia del proceso</li>
+            <li><strong>Menos reprocesos manuales:</strong> varios refinamientos reducen errores y hacen más confiable el trabajo diario</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 15 Mar 2026 00:39:47 -0500</pubDate>
+      <sparkle:version>2.3.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.3.3/flipp-setup.exe"
+        sparkle:version="2.3.3"
+        sparkle:dsaSignature="MDwCHH6Qlaia850DTj9pGuEIszijXUT3Sg53qWmSwJQCHD7kGpei1kCzHCtCtIKOQglSOke/J/h2tTl2d4U="
+        length="25093526"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.3.2 - Feed de actualizaciones más estable -->
     <item>
       <title>Versión 2.3.2</title>
