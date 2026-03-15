@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.3.4 - Prefijos en compras -->
+    <item>
+      <title>Versión 2.3.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.3.4</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Prefijos en compras más claros:</strong> se ajusta el manejo de prefijos para reducir errores al revisar y exportar</li>
+            <li><strong>Configuración y exportación más consistentes:</strong> mejoras en World Office y comprobantes refuerzan el flujo general</li>
+            <li><strong>Más estabilidad operativa:</strong> varios refinamientos ayudan a disminuir reprocesos y hacen el trabajo diario más confiable</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 15 Mar 2026 09:52:03 -0500</pubDate>
+      <sparkle:version>2.3.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.3.4/flipp-setup.exe"
+        sparkle:version="2.3.4"
+        sparkle:dsaSignature="MDwCHAy0gxOzGtpYHh7hfm35PaAzhn9tXGatmHBI+egCHB1cy3fZIwVjmD5iOZY4WFQp7YvCaZ/BiZ3xiYA="
+        length="25083522"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.3.3 - Hotfix de backend -->
     <item>
       <title>Versión 2.3.3</title>
