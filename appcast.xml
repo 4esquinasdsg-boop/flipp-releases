@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.3.5 - Cuentas preferidas en exportación -->
+    <item>
+      <title>Versión 2.3.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.3.5</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Exportación con cuentas preferidas más confiable:</strong> Flipp ahora respeta mejor la cuenta esperada al preparar la exportación</li>
+            <li><strong>Menos ajustes manuales:</strong> se reduce la necesidad de corregir conceptos o cuentas antes de enviar la información</li>
+            <li><strong>Flujo de World Office más consistente:</strong> varios ajustes ayudan a que la revisión y exportación sean más predecibles</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 16 Mar 2026 07:51:55 -05:00</pubDate>
+      <sparkle:version>2.3.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.3.5/flipp-setup.exe"
+        sparkle:version="2.3.5"
+        sparkle:dsaSignature="MDwCHFEnIn/fmgPYTwZvbT1OI7Ea80lEoOEvosCFxtsCHFWBeWmMWJhSoku3zWl8F3iRIaogesqe4LS0coQ="
+        length="25074675"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.3.4 - Prefijos en compras -->
     <item>
       <title>Versión 2.3.4</title>
