@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.3.6 - Impuestos SIIGO y terceros de nómina -->
+    <item>
+      <title>Versión 2.3.6</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.3.6</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Códigos de impuestos SIIGO más claros y configurables:</strong> ahora puedes trabajar con mayor precisión al revisar y exportar impuestos</li>
+            <li><strong>Exportación de terceros más completa:</strong> la información de nómina también se incluye para reducir retrabajos</li>
+            <li><strong>Mejoras de estabilidad en procesos DIAN:</strong> varios ajustes refuerzan el flujo general y hacen la operación más confiable</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 17 Mar 2026 07:31:28 -05:00</pubDate>
+      <sparkle:version>2.3.6</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.3.6/flipp-setup.exe"
+        sparkle:version="2.3.6"
+        sparkle:dsaSignature="MD0CHQCZejrDIfIwy3ssdV0C0r7Mo2EOEN3ia0tR57sEAhwhImr/MOulgVdZ81Ql89AyB5JmPypUlB11krnn"
+        length="25123918"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.3.5 - Cuentas preferidas en exportación -->
     <item>
       <title>Versión 2.3.5</title>
