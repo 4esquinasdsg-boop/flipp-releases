@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.3.7 - Exógena y ContaPyme -->
+    <item>
+      <title>Versión 2.3.7</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.3.7</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Exógena más fácil de revisar:</strong> ahora puedes auditar mejor la información antes de exportarla y también llevarla a Excel</li>
+            <li><strong>Nuevo soporte para ContaPyme:</strong> se amplían las opciones de exportación para trabajar con más facilidad según tu software contable</li>
+            <li><strong>Versión visible dentro de Flipp:</strong> ahora puedes identificar rápidamente qué versión tienes instalada desde la interfaz</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 18 Mar 2026 00:00:59 -05:00</pubDate>
+      <sparkle:version>2.3.7</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.3.7/flipp-setup.exe"
+        sparkle:version="2.3.7"
+        sparkle:dsaSignature="MD0CHELiXfkrSO7t0fX8qnAPg1B0S/BK8bIBeiSuuokCHQCNQKjqqUNQSi1MSONvLfhUECsYRriTJc5ZnLVF"
+        length="25246422"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.3.6 - Impuestos SIIGO y terceros de nómina -->
     <item>
       <title>Versión 2.3.6</title>
