@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.3.8 - NIT y retefuente manual -->
+    <item>
+      <title>Versión 2.3.8</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.3.8</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Reconocimiento de NIT más confiable:</strong> Flipp ahora identifica mejor terceros aunque el NIT esté escrito con o sin dígito de verificación</li>
+            <li><strong>ReteFuente manual en ventas más clara:</strong> se mejora el flujo para aplicar y revisar retenciones manuales en ventas</li>
+            <li><strong>Clasificación más estable:</strong> estos ajustes ayudan a evitar duplicados y reducen errores al trabajar reglas por tercero</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Thu, 19 Mar 2026 08:59:10 -05:00</pubDate>
+      <sparkle:version>2.3.8</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.3.8/flipp-setup.exe"
+        sparkle:version="2.3.8"
+        sparkle:dsaSignature="MDwCHGhvQ+vhgdjH+YuynB8Rv0IZZRgjhoHANtFCC/YCHBY0OB59yKIydwOVdxufe+zwVl0Ohf2zohrP3sw="
+        length="25257122"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.3.7 - Exógena y ContaPyme -->
     <item>
       <title>Versión 2.3.7</title>
