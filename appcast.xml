@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.3.9 - ICA integrada -->
+    <item>
+      <title>Versión 2.3.9</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.3.9</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>ICA más integrada en Flipp:</strong> se amplía el soporte para ICA a lo largo del flujo tributario, reportes y procesos relacionados</li>
+            <li><strong>Declaraciones y reportes más consistentes:</strong> varias mejoras ayudan a que la información tributaria se mantenga mejor conectada entre pantallas y cálculos</li>
+            <li><strong>Mayor trazabilidad tributaria:</strong> se refuerza el seguimiento de retenciones para facilitar la revisión y el control</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 20 Mar 2026 13:38:38 -05:00</pubDate>
+      <sparkle:version>2.3.9</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.3.9/flipp-setup.exe"
+        sparkle:version="2.3.9"
+        sparkle:dsaSignature="MD0CHQCCUEiYmd4L28+P2B184eZ92R1xz3vbSZsDvZq1AhwZqpwoseEj5TTz+M9g3jidtRVXf/L1ekAZOhUq"
+        length="25323218"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.3.8 - NIT y retefuente manual -->
     <item>
       <title>Versión 2.3.8</title>
