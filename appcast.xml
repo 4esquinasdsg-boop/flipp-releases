@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.0 - Resumen de impuestos más preciso -->
+    <item>
+      <title>Versión 2.4.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.0</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Resumen de impuestos más preciso:</strong> Flipp mejora la conciliación de impuestos cuando la factura trae subtotales en el encabezado</li>
+            <li><strong>Menos diferencias al revisar facturas:</strong> se reduce el riesgo de ver valores parciales o duplicados en impuestos especiales</li>
+            <li><strong>Mayor consistencia en el flujo tributario:</strong> esta mejora ayuda a que detalle, reportes y exportaciones partan de un resumen más confiable</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 20 Mar 2026 20:15:00 -05:00</pubDate>
+      <sparkle:version>2.4.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.0/flipp-setup.exe"
+        sparkle:version="2.4.0"
+        sparkle:dsaSignature="MD4CHQCaLp31i7VBVTKjdFyGiS+o+kAk7Aa0OQoOU5J+Ah0Amo54y7sGXRL7jZzW3J8q0MSe4CZBlBRhvnj0Ag=="
+        length="25328303"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.3.9 - ICA integrada -->
     <item>
       <title>Versión 2.3.9</title>
