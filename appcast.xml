@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.2 - Controles de ReteIVA -->
+    <item>
+      <title>Versión 2.4.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.2</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Más control sobre la ReteIVA:</strong> ahora puedes revisar y ajustar mejor la ReteIVA directamente desde el detalle de la factura</li>
+            <li><strong>Manejo de SIMPLE más claro:</strong> se corrige el comportamiento para que el tratamiento tributario sea más consistente</li>
+            <li><strong>Menos reprocesos en causación:</strong> varios ajustes ayudan a que la configuración manual y la trazabilidad queden mejor alineadas</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 24 Mar 2026 16:21:29 -05:00</pubDate>
+      <sparkle:version>2.4.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.2/flipp-setup.exe"
+        sparkle:version="2.4.2"
+        sparkle:dsaSignature="MD4CHQCRc3OOS4BXUE+xq8iebIgAn+RfSNPXfcYoVUn3Ah0Aicmkl+xh52bmE/1mhflUVvww0aUXWVnaXluVjw=="
+        length="25464287"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.4.1 - Inventario contable -->
     <item>
       <title>Versión 2.4.1</title>
