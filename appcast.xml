@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.1 - Inventario contable -->
+    <item>
+      <title>Versión 2.4.1</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.1</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Nuevo flujo de inventario contable:</strong> Flipp amplía el soporte para movimientos, costos, saldos iniciales y cierres de inventario</li>
+            <li><strong>Más opciones de exportación:</strong> se fortalecen los procesos para trabajar inventario con distintos softwares contables</li>
+            <li><strong>Causación más confiable:</strong> varios ajustes ayudan a conservar mejor cuentas y reglas, reduciendo correcciones manuales</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 24 Mar 2026 15:28:44 -05:00</pubDate>
+      <sparkle:version>2.4.1</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.1/flipp-setup.exe"
+        sparkle:version="2.4.1"
+        sparkle:dsaSignature="MD0CHQCXFWmmlO29PI58yfpYyGKC3P9ByqgO1rbNM5gKAhxill9XeJYcSnFDWRUbmbFfkanOKJS3DS/XRLgq"
+        length="25457560"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.4.0 - Resumen de impuestos más preciso -->
     <item>
       <title>Versión 2.4.0</title>
