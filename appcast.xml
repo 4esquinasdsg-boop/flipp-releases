@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.3 - Nómina y causación -->
+    <item>
+      <title>Versión 2.4.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.3</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Nómina más integrada con el libro contable:</strong> Flipp amplía el soporte para registrar la causación de nómina dentro del libro interno</li>
+            <li><strong>Más cobertura en exportaciones:</strong> se fortalecen terceros y comprobantes para reducir vacíos en los flujos contables</li>
+            <li><strong>Causación más confiable:</strong> varios ajustes mejoran reglas de retención, perfiles y sincronización para disminuir correcciones manuales</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 25 Mar 2026 08:36:15 -05:00</pubDate>
+      <sparkle:version>2.4.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.3/flipp-setup.exe"
+        sparkle:version="2.4.3"
+        sparkle:dsaSignature="MD0CHDn8dxxWOp4N9EdpYA5g13AdnzSnLQaaRNawjBcCHQCjul3SeE4wh9dixobnqnbbW6HV0EsMPbS9b3jR"
+        length="25480640"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.4.2 - Controles de ReteIVA -->
     <item>
       <title>Versión 2.4.2</title>
