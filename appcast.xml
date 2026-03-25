@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.4 - Acceso por pago -->
+    <item>
+      <title>Versión 2.4.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.4</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Control de acceso por estado de pago:</strong> Flipp mejora la validación de acceso para reflejar mejor situaciones de pago y licenciamiento</li>
+            <li><strong>Bloqueos más claros y consistentes:</strong> se ajusta el comportamiento de validación para reducir estados confusos al entrar a la app</li>
+            <li><strong>Hotfix de causación:</strong> se corrige el cálculo base en algunos documentos para evitar asientos inconsistentes</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 25 Mar 2026 13:16:13 -05:00</pubDate>
+      <sparkle:version>2.4.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.4/flipp-setup.exe"
+        sparkle:version="2.4.4"
+        sparkle:dsaSignature="MD0CHQCOO3jYyAAKUtuKxSlK5rMU6bf76Cx1yYEskzO2Ahwv6kisVo10bvEh1msL8eDifQqCVarx4e2GNOn1"
+        length="25514266"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.4.3 - Nómina y causación -->
     <item>
       <title>Versión 2.4.3</title>
