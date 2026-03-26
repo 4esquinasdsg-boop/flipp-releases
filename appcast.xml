@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.5 - Snapshots y recuperación -->
+    <item>
+      <title>Versión 2.4.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.5</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Lista tributaria más confiable:</strong> Flipp refresca snapshots de causación inválidos para mostrar información más consistente al revisar documentos</li>
+            <li><strong>Mayor estabilidad al recuperar la base de datos:</strong> se fortalecen reintentos y recuperación para reducir bloqueos después de fallos transitorios</li>
+            <li><strong>Mejor conservación del catálogo PUC:</strong> se preservan mejor los metadatos del catálogo para evitar pérdidas de contexto en configuraciones contables</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 25 Mar 2026 20:20:28 -05:00</pubDate>
+      <sparkle:version>2.4.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.5/flipp-setup.exe"
+        sparkle:version="2.4.5"
+        sparkle:dsaSignature="MD4CHQCe+L9KzQgjcAAN4Nq/Y8HGX3hRuY24VYxyU/N3Ah0AkrgV8HEyI9zlEYRr3zWVLq32MH15q+8ZzA/PFw=="
+        length="25521009"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.4.4 - Acceso por pago -->
     <item>
       <title>Versión 2.4.4</title>
