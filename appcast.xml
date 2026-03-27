@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.7 - Estabilidad de acceso e instalación -->
+    <item>
+      <title>Versión 2.4.7</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.7</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Instalación y actualización más confiables:</strong> se refuerza el proceso para evitar mezclas de archivos antiguos y nuevos al actualizar Flipp</li>
+            <li><strong>Mayor estabilidad al entrar a la app:</strong> si hay una falla temporal de conexión al validar acceso, Flipp ahora tolera mejor ese escenario cuando ya existen datos locales válidos</li>
+            <li><strong>Menos errores de entorno en Windows:</strong> se ajustan tareas de inicio y notificaciones para reducir efectos secundarios en ejecuciones de desarrollo y despliegue</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 27 Mar 2026 09:43:23 -05:00</pubDate>
+      <sparkle:version>2.4.7</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.7/flipp-setup.exe"
+        sparkle:version="2.4.7"
+        sparkle:dsaSignature="MDwCHCE5quEHpppIpeclbK1UnzlYTyhnm/DNT/SS8xMCHEqQjHznFVtRm2akbCXvIOcIAcqtRM4IP0YSCR0="
+        length="25610818"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.4.5 - Snapshots y recuperación -->
     <item>
       <title>Versión 2.4.5</title>
