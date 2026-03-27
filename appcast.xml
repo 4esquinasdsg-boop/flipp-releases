@@ -25,37 +25,6 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
-    <!-- Versión 2.4.6 - Libros y reposting -->
-    <item>
-      <title>Versión 2.4.6</title>
-      <description>
-        <![CDATA[
-          <h2>Novedades en la versión 2.4.6</h2>
-
-          <h3>Lo más importante</h3>
-          <ul>
-            <li><strong>Libros contables y reportes más completos:</strong> Flipp amplía varios flujos internos para revisar, registrar y consultar información contable con más consistencia</li>
-            <li><strong>Actualización automática de causaciones:</strong> cuando se corrigen causaciones, el libro contable puede reprocesar esos cambios con menos trabajo manual</li>
-            <li><strong>Más estabilidad operativa:</strong> se refuerzan importaciones, validaciones y servicios de auditoría para reducir errores en procesos contables y tributarios</li>
-          </ul>
-
-          <p style="color: #666; font-size: 12px;">
-            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
-            solo modifica los archivos del programa. Se creará un backup
-            automático de tu base de datos antes de instalar.
-          </p>
-        ]]>
-      </description>
-      <pubDate>Fri, 27 Mar 2026 09:00:08 -05:00</pubDate>
-      <sparkle:version>2.4.6</sparkle:version>
-      <enclosure
-        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.6/flipp-setup.exe"
-        sparkle:version="2.4.6"
-        sparkle:dsaSignature="MDwCHBVHZ75YuiZwfYrTAQQmXgY1nnysqcu4q7catw8CHEfuEFAAl26owwW/vI5KtOGmZfR1puxfzSQDXNY="
-        length="31228628"
-        type="application/octet-stream"/>
-    </item>
-
     <!-- Versión 2.4.5 - Snapshots y recuperación -->
     <item>
       <title>Versión 2.4.5</title>
