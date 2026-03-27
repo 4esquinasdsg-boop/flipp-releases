@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.8 - Tributario y World Office -->
+    <item>
+      <title>Versión 2.4.8</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.8</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Perfil tributario más claro:</strong> se simplifican ajustes y reglas para que revisar la información tributaria del cliente sea más fácil y consistente</li>
+            <li><strong>Exportación a World Office más completa:</strong> se fortalecen pantallas, mapeos y generación de archivos para reducir correcciones manuales antes de exportar</li>
+            <li><strong>Mejor manejo de retenciones y terceros:</strong> Flipp organiza mejor estos datos para que causación y exportaciones salgan con menos retrabajo</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 27 Mar 2026 11:24:29 -05:00</pubDate>
+      <sparkle:version>2.4.8</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.8/flipp-setup.exe"
+        sparkle:version="2.4.8"
+        sparkle:dsaSignature="MDwCHHkG6xOrXxs2huS9vpUI1txqW5GHdZ6tItLWYjQCHEvunVlUkQD45OqqoguGraIL77fZzlnKCzCEbrM="
+        length="25596886"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.4.7 - Estabilidad de acceso e instalación -->
     <item>
       <title>Versión 2.4.7</title>
@@ -2465,3 +2495,4 @@
     
   </channel>
 </rss>
+
