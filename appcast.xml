@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.4.9 - SIIGO e impuestos adicionales -->
+    <item>
+      <title>Versión 2.4.9</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.4.9</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Más cobertura de impuestos en SIIGO:</strong> Flipp ahora contempla más códigos y escenarios de impuestos para que la causación salga mejor preparada al exportar</li>
+            <li><strong>Configuración tributaria más completa:</strong> se amplían opciones y reglas del perfil del cliente para manejar mejor impuestos adicionales</li>
+            <li><strong>Menos ajustes manuales en comprobantes:</strong> se fortalecen exportación y transformación de datos para reducir correcciones antes de llevar la información a SIIGO</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sat, 28 Mar 2026 13:55:21 -05:00</pubDate>
+      <sparkle:version>2.4.9</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.4.9/flipp-setup.exe"
+        sparkle:version="2.4.9"
+        sparkle:dsaSignature="MD4CHQCO6ODYS6vG1A0aOAEuEe2s2MK78508iAq3Oq47Ah0AoQXuN1JpKIMPkIkZXjkeA+KSspxtAsda5ZMFFQ=="
+        length="25174066"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.4.8 - Tributario y World Office -->
     <item>
       <title>Versión 2.4.8</title>
@@ -2495,4 +2525,5 @@
     
   </channel>
 </rss>
+
 
