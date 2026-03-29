@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.5.0 - ReteIVA y revisión tributaria -->
+    <item>
+      <title>Versión 2.5.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.5.0</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>ReteIVA masiva más ágil:</strong> ahora puedes activar o ajustar este comportamiento de forma mucho más rápida para varios escenarios sin repetir pasos</li>
+            <li><strong>Configuración tributaria más clara:</strong> se simplifica la revisión de opciones tributarias del cliente para entender mejor qué aplica y qué no</li>
+            <li><strong>Menos correcciones antes de exportar:</strong> se fortalecen comprobantes y reglas de causación para que el resultado llegue más limpio a SIIGO</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 29 Mar 2026 11:11:49 -05:00</pubDate>
+      <sparkle:version>2.5.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.5.0/flipp-setup.exe"
+        sparkle:version="2.5.0"
+        sparkle:dsaSignature="MDwCHGgzXdRMD8HTxj4pldleY0OIhkIvghudMQaVhi0CHAuOum+/NsgpGpQuv7wc3fJPKB4WzwWNgTAwv1Q="
+        length="25178864"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.4.9 - SIIGO e impuestos adicionales -->
     <item>
       <title>Versión 2.4.9</title>
@@ -2525,5 +2555,6 @@
     
   </channel>
 </rss>
+
 
 
