@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.5.1 - ReteFuente servicios 1% -->
+    <item>
+      <title>Versión 2.5.1</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.5.1</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Nuevo soporte en SIIGO para retefuente servicios 1%:</strong> Flipp ya contempla este caso para que la causación y exportación salgan mejor alineadas</li>
+            <li><strong>Retenciones más claras al revisar la factura:</strong> se refuerza la vista y la lógica para entender mejor qué retención aplica</li>
+            <li><strong>Menos correcciones manuales en comprobantes:</strong> se ajustan reglas y exportación para reducir reprocesos antes de llevar la información a SIIGO</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 30 Mar 2026 16:44:46 -05:00</pubDate>
+      <sparkle:version>2.5.1</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.5.1/flipp-setup.exe"
+        sparkle:version="2.5.1"
+        sparkle:dsaSignature="MD4CHQCEayUf1znMSua1ppDmuCuNL0olNhVYKDV3o8U9Ah0AiiQuVqBFSpLrYhuzdn1QZ2GvvVBQ9b0MEnBCSw=="
+        length="25175265"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.5.0 - ReteIVA y revisión tributaria -->
     <item>
       <title>Versión 2.5.0</title>
@@ -2555,6 +2585,7 @@
     
   </channel>
 </rss>
+
 
 
 
