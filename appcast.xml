@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.5.4 - Retefuente por ítem -->
+    <item>
+      <title>Versión 2.5.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.5.4</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Retefuente por ítem más flexible:</strong> ahora puedes manejar cuentas de retefuente a nivel de cada ítem con mayor precisión</li>
+            <li><strong>Editor de retefuente más simple:</strong> se agiliza la configuración para reducir pasos y hacer ajustes más rápido</li>
+            <li><strong>Mejoras en inventario y exportaciones:</strong> Flipp fortalece rutas, nombres de archivo y exportación de inventario para que los entregables salgan más ordenados</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Sun, 12 Apr 2026 21:48:16 -05:00</pubDate>
+      <sparkle:version>2.5.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.5.4/flipp-setup.exe"
+        sparkle:version="2.5.4"
+        sparkle:dsaSignature="MDwCHE/aEL3M5CVyQ12g7V8uL85Ts5/rfgIRt8eUrnUCHCdgVKh6IO7/vWdZ8dBHQ4GKwMw0FwHl4x9KMSc="
+        length="25268931"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.5.3 - Helisa e inventario -->
     <item>
       <title>Versión 2.5.3</title>
@@ -2645,6 +2675,7 @@
     
   </channel>
 </rss>
+
 
 
 
