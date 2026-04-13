@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.5.5 - Conteo DIAN más preciso -->
+    <item>
+      <title>Versión 2.5.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.5.5</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Conteo de resultados DIAN más preciso:</strong> Flipp se adapta mejor al nuevo formato de paginación para mostrar cantidades correctas al consultar documentos</li>
+            <li><strong>Menos confusión al revisar búsquedas:</strong> ahora el total de resultados reportado por el sistema es más consistente con lo que realmente devuelve la DIAN</li>
+            <li><strong>Mayor estabilidad en el scraping DIAN:</strong> se ajusta la lógica para responder mejor a cambios recientes en el marcado de la página</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 13 Apr 2026 08:11:04 -05:00</pubDate>
+      <sparkle:version>2.5.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.5.5/flipp-setup.exe"
+        sparkle:version="2.5.5"
+        sparkle:dsaSignature="MDwCHBDj0oOYuGvEZRbJQqxScQJ3+KloVsB8voVgteMCHFREIScPjMe6efwiiiw3Y54yPwISgt0rlUOSl7M="
+        length="25275154"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.5.4 - Retefuente por ítem -->
     <item>
       <title>Versión 2.5.4</title>
@@ -2675,6 +2705,7 @@
     
   </channel>
 </rss>
+
 
 
 
