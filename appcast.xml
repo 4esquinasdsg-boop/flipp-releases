@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.5.9 - Helisa en XLSX -->
+    <item>
+      <title>Versión 2.5.9</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.5.9</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Exportaciones de Helisa ahora en XLSX:</strong> Flipp ajusta este flujo para entregar archivos en el formato esperado</li>
+            <li><strong>Mejor manejo de respaldo FV/FC:</strong> se refuerza la lógica para responder mejor cuando faltan o cambian estos datos</li>
+            <li><strong>Más estabilidad al exportar:</strong> se afinan validaciones y pruebas para reducir diferencias en los entregables</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 14 Apr 2026 10:14:49 -05:00</pubDate>
+      <sparkle:version>2.5.9</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.5.9/flipp-setup.exe"
+        sparkle:version="2.5.9"
+        sparkle:dsaSignature="MD0CHQCJWS0w/8z1SOJHUIs68G/We+2KLizr8ZIWLGq6AhxNM0qFOuw7a6qzH3VKtHtX7Ji+Ox79EL/Q6e9p"
+        length="25254418"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.5.8 - XLSX de terceros ContaPyme -->
     <item>
       <title>Versión 2.5.8</title>
@@ -2795,6 +2825,7 @@
     
   </channel>
 </rss>
+
 
 
 
