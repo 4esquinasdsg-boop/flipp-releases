@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.5.8 - XLSX de terceros ContaPyme -->
+    <item>
+      <title>Versión 2.5.8</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.5.8</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Exportación XLSX de terceros para ContaPyme restaurada:</strong> Flipp vuelve a generar este formato para que el flujo funcione como esperas</li>
+            <li><strong>Menos reprocesos al entregar archivos:</strong> se corrige el comportamiento del exportador para evitar conversiones o ajustes manuales</li>
+            <li><strong>Más consistencia en el flujo ContaPyme:</strong> la salida queda mejor alineada con el formato que usan tus procesos contables</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Tue, 14 Apr 2026 07:48:53 -05:00</pubDate>
+      <sparkle:version>2.5.8</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.5.8/flipp-setup.exe"
+        sparkle:version="2.5.8"
+        sparkle:dsaSignature="MDwCHFD1tdJY5NSqWONxm/poWrs5puHfqhmuLS7zswsCHCaA+3ZiTVvto0iPs3s1klaIaJTeo8Swhz9W6r0="
+        length="25258290"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.5.7 - Refactor tributario y causación -->
     <item>
       <title>Versión 2.5.7</title>
@@ -2765,6 +2795,7 @@
     
   </channel>
 </rss>
+
 
 
 
