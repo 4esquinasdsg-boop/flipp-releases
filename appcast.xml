@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.6.0 - World Office y retenciones -->
+    <item>
+      <title>Versión 2.6.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.6.0</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Edición de unidad por defecto en World Office corregida:</strong> ahora este ajuste se comporta mejor al configurar artículos y exportaciones</li>
+            <li><strong>Retenciones más robustas:</strong> Flipp refuerza reglas, tarifas y lógica de causación para reducir diferencias al revisar documentos</li>
+            <li><strong>Flujos tributarios y exportaciones más consistentes:</strong> se ajustan validaciones y formatos para que los entregables salgan más claros y predecibles</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 15 Apr 2026 10:50:59 -05:00</pubDate>
+      <sparkle:version>2.6.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.6.0/flipp-setup.exe"
+        sparkle:version="2.6.0"
+        sparkle:dsaSignature="MDwCHAY45WsY2j7SHRRxkfB1Ja7SpE2jS5dBx84224cCHBhRPjJiJQZQLUdlMwFoJ2ffConcG5pKkOmCGfQ="
+        length="25263543"
+        type="application/octet-stream"/>
+    </item>
     <!-- Versión 2.5.9 - Helisa en XLSX -->
     <item>
       <title>Versión 2.5.9</title>
@@ -2825,6 +2855,7 @@
     
   </channel>
 </rss>
+
 
 
 
