@@ -46,13 +46,13 @@
           </p>
         ]]>
       </description>
-      <pubDate>Wed, 15 Apr 2026 14:55:35 -05:00</pubDate>
+      <pubDate>Wed, 15 Apr 2026 15:27:40 -05:00</pubDate>
       <sparkle:version>2.6.1</sparkle:version>
       <enclosure
         url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.6.1/flipp-setup.exe"
         sparkle:version="2.6.1"
-        sparkle:dsaSignature="MD4CHQDLc6yh+G17Mv/jPqf++KmneFN7Fwj+hPylZEPKAh0AnvWMA6kPrw4w5Od7Tnhp59mWp5j7v0KwlQhgmA=="
-        length="25264954"
+        sparkle:dsaSignature="MDwCHHv5iagdboSazkUVGqQyb+0k2H6hmdb+6MiMmeYCHDYBeu+k6yVxupEDFiFTvgC81q3RApBDFt+EuIY="
+        length="25260061"
         type="application/octet-stream"/>
     </item>
     <!-- Versión 2.6.0 - World Office y retenciones -->
