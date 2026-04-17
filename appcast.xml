@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.6.4 - Cuentas por ítem -->
+    <item>
+      <title>Versión 2.6.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.6.4</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Mejor conservación de cuentas por ítem:</strong> Flipp mantiene mejor las cuentas asignadas a cada línea al causar y exportar documentos</li>
+            <li><strong>Exportaciones de causación más consistentes:</strong> se reducen cambios inesperados en las cuentas cuando se generan archivos contables</li>
+            <li><strong>Menos revisiones manuales:</strong> los ajustes realizados sobre los ítems se respetan mejor durante el flujo contable</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 17 Apr 2026 16:43:11 -05:00</pubDate>
+      <sparkle:version>2.6.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.6.4/flipp-setup.exe"
+        sparkle:version="2.6.4"
+        sparkle:dsaSignature="MDwCHFgDyqbittKsMwVUrRXU3DEGNud54/cYWB/47+sCHH0YXT5cbarSOiYwg5nr5YfrB0Vb4reIYpRcbA4="
+        length="25285485"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.6.3 - Facturas y causación -->
     <item>
       <title>Versión 2.6.3</title>
