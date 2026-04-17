@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.6.3 - Facturas y causación -->
+    <item>
+      <title>Versión 2.6.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.6.3</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Visualización de cuentas en facturas más clara:</strong> ahora es más fácil revisar qué cuenta está usando cada documento antes de causar o exportar</li>
+            <li><strong>Causación por línea más consistente:</strong> Flipp mejora el manejo interno de ítems y líneas para reducir diferencias en la clasificación contable</li>
+            <li><strong>Reportes y libros contables más confiables:</strong> se ajustan cálculos y estructuras para entregar resultados más estables</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Fri, 17 Apr 2026 14:38:13 -05:00</pubDate>
+      <sparkle:version>2.6.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.6.3/flipp-setup.exe"
+        sparkle:version="2.6.3"
+        sparkle:dsaSignature="MDwCHEeGxobJOVLpN7M9+oHMZi+6Evh4PAaVor8yQj0CHEXOHIi1QZtr+8KdY0+9kpiWLvJYhH7/b49MU5Y="
+        length="25271625"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.6.2 - World Office e inventario -->
     <item>
       <title>Versión 2.6.2</title>
@@ -54,7 +85,9 @@
         sparkle:dsaSignature="MD4CHQCDAKTEZqYaHDZOLARDT7Iv67NbUfHp+Ng5gSOWAh0ApM7nHJ+PbFc3BhCBx5/+K4ZQSVSckX6EwfDP7Q=="
         length="25267935"
         type="application/octet-stream"/>
-    </item>    <!-- Versión 2.6.1 - SIIGO y retefuente -->
+    </item>
+
+    <!-- Versión 2.6.1 - SIIGO y retefuente -->
     <item>
       <title>Versión 2.6.1</title>
       <description>
