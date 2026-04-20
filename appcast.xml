@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.6.5 - ReteFuente y reportes -->
+    <item>
+      <title>Versión 2.6.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.6.5</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Reglas de retefuente fija por NIT:</strong> Flipp aplica mejor configuraciones específicas por tercero para reducir ajustes repetitivos</li>
+            <li><strong>Calendario tributario 2026 reforzado:</strong> se actualizan validaciones para ayudar a revisar vencimientos y obligaciones con mayor claridad</li>
+            <li><strong>Reportes contables más consistentes:</strong> se afinan consultas y resultados para entregar información más estable al revisar terceros, retenciones y libros</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 20 Apr 2026 12:25:11 -05:00</pubDate>
+      <sparkle:version>2.6.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.6.5/flipp-setup.exe"
+        sparkle:version="2.6.5"
+        sparkle:dsaSignature="MD0CHEuhHVWceNMDMixVS96Ru5iHMq5wCKPRcn5bvTQCHQCEzHl1rqV2H4s1HmRBOxpogLUXSX2Bh8ME4z0b"
+        length="25306522"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.6.4 - Cuentas por ítem -->
     <item>
       <title>Versión 2.6.4</title>
