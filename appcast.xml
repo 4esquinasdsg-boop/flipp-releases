@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.6.7 - Rendimiento tributario -->
+    <item>
+      <title>Versión 2.6.7</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.6.7</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Perfil tributario más ágil:</strong> Flipp controla mejor la carga de facturas y evita trabajo repetido al abrir esta sección</li>
+            <li><strong>Menos reprocesamiento en segundo plano:</strong> se reducen ejecuciones innecesarias para mejorar estabilidad y respuesta</li>
+            <li><strong>Experiencia más fluida al revisar información tributaria:</strong> los datos se hidratan de forma más controlada para evitar esperas y recargas excesivas</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 20 Apr 2026 23:30:11 -05:00</pubDate>
+      <sparkle:version>2.6.7</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.6.7/flipp-setup.exe"
+        sparkle:version="2.6.7"
+        sparkle:dsaSignature="MDwCHGSgqwCjL0eG+dp/UFYI1Fg7nWnj1VdBFbPxE0YCHCVuCthiapGQqtq4l1IJ4k4AqfTL0nsHWizDS3Q="
+        length="24670305"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.6.6 - Mercado Libre y nómina -->
     <item>
       <title>Versión 2.6.6</title>
