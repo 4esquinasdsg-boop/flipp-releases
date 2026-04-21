@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.6.6 - Mercado Libre y nómina -->
+    <item>
+      <title>Versión 2.6.6</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.6.6</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Nuevo soporte para importaciones XLSX de Mercado Libre:</strong> Flipp ahora reconoce mejor ventas y SKU para facilitar la clasificación y exportación</li>
+            <li><strong>Flujo de nómina más simple:</strong> se reduce complejidad al registrar información en libros contables</li>
+            <li><strong>Interfaz y navegación más limpias:</strong> se elimina el módulo de Plantillas no usado y se ajusta el etiquetado de documentos de Mercado Libre para que sea más claro</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Mon, 20 Apr 2026 23:09:15 -05:00</pubDate>
+      <sparkle:version>2.6.6</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.6.6/flipp-setup.exe"
+        sparkle:version="2.6.6"
+        sparkle:dsaSignature="MD0CHQCghee1rtTbPOVGfT/jlqD/zIb4ZOyhOhK0Ca3DAhw0cuvJWSivAKKNXllH08huEFpi+hkXJZIcC98Q"
+        length="24670726"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.6.5 - ReteFuente y reportes -->
     <item>
       <title>Versión 2.6.5</title>
