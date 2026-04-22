@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.1 - Comprobantes y retenciones -->
+    <item>
+      <title>Versión 2.7.1</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.1</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Nuevo espacio de comprobantes:</strong> Flipp incorpora un flujo más claro para revisar, corregir y trabajar comprobantes contables</li>
+            <li><strong>Detalle de factura con retenciones más preciso:</strong> la vista previa refleja mejor impuestos y retenciones antes de exportar</li>
+            <li><strong>Correcciones más directas:</strong> se simplifica el trabajo de ajustes manuales cuando hay que intervenir un comprobante</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 22 Apr 2026 09:45:04 -05:00</pubDate>
+      <sparkle:version>2.7.1</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.1/flipp-setup.exe"
+        sparkle:version="2.7.1"
+        sparkle:dsaSignature="MD0CHQCaZYUO+PjuUfVKyBMsv1CwRlrUf3iUybIKTsgcAhxVC+NzmGu4X56nAU0RvCJY48+3t9iCm8RGWK2+"
+        length="24941892"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.7.0 - Auxiliares y navegación -->
     <item>
       <title>Versión 2.7.0</title>
