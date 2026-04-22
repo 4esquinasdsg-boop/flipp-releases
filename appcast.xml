@@ -25,6 +25,37 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.2 - Libros y exógena -->
+    <item>
+      <title>Versión 2.7.2</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.2</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Filtros de fechas más flexibles en libros contables:</strong> ahora puedes revisar reportes con mayor precisión según el rango que necesites</li>
+            <li><strong>Exportaciones de exógena alineadas con la plantilla DIAN:</strong> Flipp ajusta estructura y validaciones para acercarse mejor al formato esperado</li>
+            <li><strong>Consultas y reportes más cómodos de revisar:</strong> se afinan vistas y cálculos para facilitar el análisis contable</li>
+          </ul>
+
+          <p style="color: #666; font-size: 12px;">
+            <strong>Nota:</strong> Tus datos están seguros. Esta actualización
+            solo modifica los archivos del programa. Se creará un backup
+            automático de tu base de datos antes de instalar.
+          </p>
+        ]]>
+      </description>
+      <pubDate>Wed, 22 Apr 2026 14:55:54 -05:00</pubDate>
+      <sparkle:version>2.7.2</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.2/flipp-setup.exe"
+        sparkle:version="2.7.2"
+        sparkle:dsaSignature="MDwCHDkQTdl4wK7vqY4hKEIDJl/h0RuJtgIBSmWjWJQCHCt1soBOeCoWI06PvAv5LftFBgoAPVb3I0lN0Ts="
+        length="24962881"
+        type="application/octet-stream"/>
+    </item>
+
     <!-- Versión 2.7.1 - Comprobantes y retenciones -->
     <item>
       <title>Versión 2.7.1</title>
