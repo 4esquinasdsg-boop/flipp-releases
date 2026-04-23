@@ -25,6 +25,31 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.3 - Terpel y comprobantes -->
+    <item>
+      <title>Versión 2.7.3</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.3</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Nuevo soporte para importaciones de Terpel:</strong> Flipp incorpora el flujo para procesar este tipo de información con menos trabajo manual</li>
+            <li><strong>Plantilla masiva para comprobantes:</strong> ahora es más ágil preparar y cargar comprobantes contables en bloque</li>
+            <li><strong>Mejor organización al trabajar reportes y movimientos:</strong> se afinan pantallas y lógica para revisar la información con más claridad</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Thu, 23 Apr 2026 10:14:05 -05:00</pubDate>
+      <sparkle:version>2.7.3</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.3/flipp-setup.exe"
+        sparkle:version="2.7.3"
+        sparkle:dsaSignature="MDwCHBhyCasjh7j7yR+uxjxjCgi01JivKBo2AYYqJjACHCgJcQ7qbuAcqkX7MY4+4BWeAmTnfOVsdJz7qYs="
+        length="24996816"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Versión 2.7.2 - Libros y exógena -->
     <item>
       <title>Versión 2.7.2</title>
