@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.5 - Clientes y cambio de firma -->
+    <item>
+      <title>Versión 2.7.5</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.5</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Conteos de facturas más precisos por cliente:</strong> Flipp muestra mejor la cantidad de documentos asociados para evitar confusión al revisar la información</li>
+            <li><strong>Cambio de firma más confiable:</strong> se ajusta el flujo para que la información cargada corresponda mejor a la firma seleccionada</li>
+            <li><strong>Sincronización más estable:</strong> se refuerza el manejo de datos locales y tributarios para reducir inconsistencias al refrescar la información</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri, 24 Apr 2026 05:21:08 -05:00</pubDate>
+      <sparkle:version>2.7.5</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.5/flipp-setup.exe"
+        sparkle:version="2.7.5"
+        sparkle:dsaSignature="MD0CHQCT8fhrbjwBcfil4B699vgHX6AcF1+bw676yVk2AhxYu+lPRgIoIiKg8yO+FYQ9O/ZP3g+KvjJiDWRV"
+        length="25103507"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.7.4 - Reportes y exportaciones tributarias -->
     <item>
       <title>Versión 2.7.4</title>
