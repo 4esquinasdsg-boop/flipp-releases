@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Flipp - Actualizaciones</title>
@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.4 - Reportes y exportaciones tributarias -->
+    <item>
+      <title>Versión 2.7.4</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.4</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Facturas de causación más fáciles de revisar:</strong> se agregan mejoras de paginación y navegación para trabajar listas grandes sin perder continuidad</li>
+            <li><strong>Exportaciones tributarias más consistentes:</strong> se refuerzan flujos de exportación y sincronización para reducir diferencias y reprocesos manuales</li>
+            <li><strong>Filtros y reportes más claros:</strong> se afinan búsquedas, filtros y vistas para encontrar la información contable con mayor precisión</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Fri, 24 Apr 2026 03:15:26 -05:00</pubDate>
+      <sparkle:version>2.7.4</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.4/flipp-setup.exe"
+        sparkle:version="2.7.4"
+        sparkle:dsaSignature="MDwCHANWhzT9GOJb9uSSHFLn2VjwYvGzqjgkbHVYMecCHEPItN+qLw+alt0PNFiNTkGsqUn/Q6SZ7VVGBZQ="
+        length="25099514"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.7.3 - Terpel y comprobantes -->
     <item>
       <title>Versión 2.7.3</title>
