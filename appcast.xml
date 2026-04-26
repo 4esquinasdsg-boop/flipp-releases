@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.7 - World Office Mercado Libre -->
+    <item>
+      <title>Versión 2.7.7</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.7</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Exportación de Mercado Libre para World Office más limpia:</strong> Flipp limpia correctamente las filas de la plantilla antes de generar el archivo final</li>
+            <li><strong>Menos reprocesos manuales:</strong> se evitan datos anteriores mezclados en nuevas exportaciones</li>
+            <li><strong>Archivos de salida más confiables:</strong> la plantilla queda mejor preparada para entregar información consistente</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 25 Apr 2026 21:03:39 -05:00</pubDate>
+      <sparkle:version>2.7.7</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.7/flipp-setup.exe"
+        sparkle:version="2.7.7"
+        sparkle:dsaSignature="MDwCHBfG2AE/LhInDF9L5oYTzAWiDbpUUPyk4SLhR3YCHD4aJXchWyeY8mUeAQBrO9J3X8Sy6kFp8COSJEk="
+        length="25016719"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.7.6 - Conciliación, tributario e inventario -->
     <item>
       <title>Versión 2.7.6</title>
