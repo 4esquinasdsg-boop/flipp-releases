@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.6 - Conciliación, tributario e inventario -->
+    <item>
+      <title>Versión 2.7.6</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.6</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Flujos tributarios e inventario más consistentes:</strong> se ajustan procesos internos para que la información sea más estable al revisar y causar documentos</li>
+            <li><strong>Conciliación bancaria más sólida:</strong> se mejoran validaciones y persistencia para reducir diferencias al trabajar movimientos bancarios</li>
+            <li><strong>Dashboard más estable visualmente:</strong> se corrigen desbordes de diseño para que la pantalla se adapte mejor al contenido</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Sat, 25 Apr 2026 19:08:47 -05:00</pubDate>
+      <sparkle:version>2.7.6</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.6/flipp-setup.exe"
+        sparkle:version="2.7.6"
+        sparkle:dsaSignature="MDwCHF3txWRFqhmEL9+sxB2Wf1EjOzZ5ycSm/wnZK80CHBBKiGkxhLtKmu6mgUwbSTYw0j7CvxsBCbPsjC8="
+        length="25010396"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.7.5 - Clientes y cambio de firma -->
     <item>
       <title>Versión 2.7.5</title>
