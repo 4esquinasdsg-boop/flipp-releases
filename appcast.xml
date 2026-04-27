@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.9 - Nómina en libros contables -->
+    <item>
+      <title>Versión 2.7.9</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.9</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Registro mensual de nómina restaurado:</strong> vuelve el acceso para registrar la nómina mensual dentro del flujo de libros contables</li>
+            <li><strong>Flujo de nómina más claro:</strong> se recupera una acción importante para llevar los movimientos de nómina al libro sin pasos adicionales</li>
+            <li><strong>Menos interrupciones al trabajar libros:</strong> se corrige la disponibilidad del control esperado en la sección de nómina</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 27 Apr 2026 10:45:17 -05:00</pubDate>
+      <sparkle:version>2.7.9</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.9/flipp-setup.exe"
+        sparkle:version="2.7.9"
+        sparkle:dsaSignature="MD0CHEmpP5K1yb6x+YXYH+CcgcoZJwUuhJtfRkzEupMCHQCNiJkJI4Nvz6L8ZQ96v55fXN/T/1Q8yiGuRPH2"
+        length="25038103"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.7.8 - Conciliación bancaria -->
     <item>
       <title>Versión 2.7.8</title>
