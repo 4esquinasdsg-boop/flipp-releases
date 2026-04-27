@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.7.8 - Conciliación bancaria -->
+    <item>
+      <title>Versión 2.7.8</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.7.8</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Conciliación bancaria más ordenada:</strong> Flipp unifica mejor el flujo de movimientos para trabajar con una cola sincronizada y más fácil de seguir</li>
+            <li><strong>Reglas bancarias más claras:</strong> se rediseña el panel de reglas para revisar y ajustar criterios de conciliación con menos fricción</li>
+            <li><strong>Mejor manejo de extractos:</strong> se refuerza el soporte para archivos bancarios y la revisión de detalles antes de guardar o conciliar</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 27 Apr 2026 10:05:27 -05:00</pubDate>
+      <sparkle:version>2.7.8</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.7.8/flipp-setup.exe"
+        sparkle:version="2.7.8"
+        sparkle:dsaSignature="MDwCHCSeS37CpCJreGPo9Xm/zfMlAMGVaQVPsfjwf+kCHAJK7+6TU6menK4RUxpkJ3gySTwx5O3Bhw5+Krg="
+        length="25028707"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.7.7 - World Office Mercado Libre -->
     <item>
       <title>Versión 2.7.7</title>
