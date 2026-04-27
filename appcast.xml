@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.8.0 - Causación y exportación -->
+    <item>
+      <title>Versión 2.8.0</title>
+      <description>
+        <![CDATA[
+          <h2>Novedades en la versión 2.8.0</h2>
+
+          <h3>Lo más importante</h3>
+          <ul>
+            <li><strong>Cuentas de causación más consistentes:</strong> se ajusta la prioridad de cuentas para que la vista previa y la exportación respeten mejor la configuración esperada</li>
+            <li><strong>Menos diferencias antes de exportar:</strong> Flipp alinea mejor lo que ves en pantalla con el archivo que se genera al final</li>
+            <li><strong>Revisión contable más confiable:</strong> se refuerza el manejo de cuentas visibles y reglas de clasificación para reducir correcciones manuales</li>
+          </ul>
+        ]]>
+      </description>
+      <pubDate>Mon, 27 Apr 2026 14:02:27 -05:00</pubDate>
+      <sparkle:version>2.8.0</sparkle:version>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.8.0/flipp-setup.exe"
+        sparkle:version="2.8.0"
+        sparkle:dsaSignature="MDwCHBHPRHG2rWDuPB1knsL3Bm9cUoEtFKHG1DdCBRICHDu7hFJgFzxMbA+A8dvu6clbJJgKhawVaQIDpFU="
+        length="25035946"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.7.9 - Nómina en libros contables -->
     <item>
       <title>Versión 2.7.9</title>
