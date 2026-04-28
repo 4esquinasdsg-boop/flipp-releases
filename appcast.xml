@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.8.1 - Retenciones en compras y ventas -->
+    <item>
+      <title>v2.8.1 - Retenciones en compras y ventas</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.8.1</h2>
+        <ul>
+          <li><strong>Retenciones más precisas para compras y ventas:</strong> Flipp ahora maneja mejor el alcance de las reglas de retención según el tipo de movimiento.</li>
+          <li><strong>Reglas con alcance más claro:</strong> La causación distingue mejor cuándo una regla aplica a compras, ventas o ambos casos.</li>
+          <li><strong>Menos correcciones manuales:</strong> Mejoras en revisión, clasificación y exportación para reducir ajustes repetitivos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 27 Apr 2026 21:44:02 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.8.1/flipp-setup.exe"
+        sparkle:version="2.8.1"
+        sparkle:shortVersionString="2.8.1"
+        sparkle:dsaSignature="MDwCHEEq8PMTzY7ZiHLmr6agxTOO59HAlIqM5u3sXmcCHH/JP2EGFqV29nFAenBXIm7Nu0jjqa1epJ4KcGg="
+        length="25038329"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.8.0 - Causación y exportación -->
     <item>
       <title>Versión 2.8.0</title>
