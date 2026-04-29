@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.8.2 - Sincronización y estabilidad -->
+    <item>
+      <title>v2.8.2 - Sincronización y estabilidad</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.8.2</h2>
+        <ul>
+          <li><strong>Sincronización DIAN más confiable:</strong> mejoras para completar mejor la descarga y recuperación de documentos cuando la DIAN responde de forma irregular.</li>
+          <li><strong>Menos bloqueos en procesos pesados:</strong> ajustes para reducir esperas y reintentos innecesarios cuando la aplicación está trabajando con muchos datos.</li>
+          <li><strong>Mejor soporte para inventario e importaciones:</strong> mejoras internas que ayudan a mantener más consistente la información sincronizada, importada y exportada.</li>
+          <li><strong>Correcciones generales de estabilidad:</strong> pequeños ajustes en calendario, causación y revisión de documentos para una experiencia más fluida.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 29 Apr 2026 10:12:09 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.8.2/flipp-setup.exe"
+        sparkle:version="2.8.2"
+        sparkle:shortVersionString="2.8.2"
+        sparkle:dsaSignature="MDwCHFDQoaDPiddZK7dN2xvzblnJHsi4YORCBortAk8CHDQIfvSLYlhW87Og5YhprLmCwHTugqkCdzVuIm8="
+        length="25076305"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.8.1 - Retenciones en compras y ventas -->
     <item>
       <title>v2.8.1 - Retenciones en compras y ventas</title>
