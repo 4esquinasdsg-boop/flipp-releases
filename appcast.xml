@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.8.7 - DIAN y Mercado Libre -->
+    <item>
+      <title>v2.8.7 - DIAN y Mercado Libre</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.8.7</h2>
+        <ul>
+          <li><strong>Sincronización DIAN más tolerante:</strong> ajustes para que la revisión de filtros sea menos frágil cuando la DIAN cambia o responde de forma irregular.</li>
+          <li><strong>Mejor lectura de ventas de Mercado Libre:</strong> mejoras para reconocer más casos dentro de los archivos de ventas.</li>
+          <li><strong>Menos interrupciones en importaciones:</strong> el procesamiento es más flexible ante variaciones en la información recibida.</li>
+          <li><strong>Correcciones generales:</strong> ajustes menores para mejorar estabilidad y reducir correcciones manuales.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 30 Apr 2026 14:40:02 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.8.7/flipp-setup.exe"
+        sparkle:version="2.8.7"
+        sparkle:shortVersionString="2.8.7"
+        sparkle:dsaSignature="MDwCHBSzx8zkvfEHlO/AcZl6EI7GqlALOj/jPkOPqDsCHBzzfQr6znxYHcEEo2mClMAxab7Dr1XtJMDR728="
+        length="25070883"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.8.6 - DIAN, ContaPyme y World Office -->
     <item>
       <title>v2.8.6 - DIAN, ContaPyme y World Office</title>
