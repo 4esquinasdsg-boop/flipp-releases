@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.8.5 - Detalle de factura y retefuente -->
+    <item>
+      <title>v2.8.5 - Detalle de factura y retefuente</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.8.5</h2>
+        <ul>
+          <li><strong>Detalle de factura más cómodo:</strong> correcciones visuales para evitar que elementos de la pantalla tapen información importante.</li>
+          <li><strong>Etiquetas de retefuente más claras:</strong> mejoras en los textos para que sea más fácil entender la retención aplicada.</li>
+          <li><strong>Revisión de documentos más fluida:</strong> pequeños ajustes para reducir confusiones al consultar y corregir facturas.</li>
+          <li><strong>Correcciones generales:</strong> mejoras menores de estabilidad y presentación.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 30 Apr 2026 08:37:42 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.8.5/flipp-setup.exe"
+        sparkle:version="2.8.5"
+        sparkle:shortVersionString="2.8.5"
+        sparkle:dsaSignature="MD4CHQCJaWIRb+4d00WmDy82APqQ2KBj2+4Y0cETpum+Ah0AkV3vxNkH6s9VDgOzdvMVt+nxUkWOjd3JOMM4cA=="
+        length="25094905"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.8.4 - Mercado Libre y World Office -->
     <item>
       <title>v2.8.4 - Mercado Libre y World Office</title>
