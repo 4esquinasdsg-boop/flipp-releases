@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.0 - Causación y exportación -->
+    <item>
+      <title>v2.9.0 - Causación y exportación</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.0</h2>
+        <ul>
+          <li><strong>Mejor manejo de centros de costo:</strong> ajustes para trabajar con más consistencia en procesos de causación y exportación.</li>
+          <li><strong>Exportación Delta más confiable:</strong> mejoras internas para conservar mejor la información al generar archivos de salida.</li>
+          <li><strong>Facturas con información más completa:</strong> ajustes en el manejo de datos de factura y líneas para reducir inconsistencias.</li>
+          <li><strong>Correcciones generales:</strong> limpieza de artefactos internos y mejoras menores para mantener el flujo más estable.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 02 May 2026 14:43:22 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.0/flipp-setup.exe"
+        sparkle:version="2.9.0"
+        sparkle:shortVersionString="2.9.0"
+        sparkle:dsaSignature="MDwCHCgRSh8JzSWLGpo7R0kLMXYNJ7/lEkkQIYMMPcYCHGqwvrD2RhbRj3A90qDIZUofTtIDpmFRfiqTe4k="
+        length="25078395"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.8.9 - Importación ContaPyme XLS -->
     <item>
       <title>v2.8.9 - Importación ContaPyme XLS</title>
