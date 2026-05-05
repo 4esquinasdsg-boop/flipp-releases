@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.1 - Exportación ContaPyme -->
+    <item>
+      <title>v2.9.1 - Exportación ContaPyme</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.1</h2>
+        <ul>
+          <li><strong>Exportación ContaPyme más precisa:</strong> ajustes en la estructura de columnas para que los archivos salgan mejor alineados.</li>
+          <li><strong>Mejor manejo de centavos:</strong> correcciones de redondeo para reducir diferencias pequeñas en valores exportados.</li>
+          <li><strong>Menos ajustes manuales:</strong> mejoras para que la información llegue más lista al sistema contable.</li>
+          <li><strong>Correcciones generales:</strong> ajustes menores de estabilidad en el flujo de exportación.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 04 May 2026 21:36:26 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.1/flipp-setup.exe"
+        sparkle:version="2.9.1"
+        sparkle:shortVersionString="2.9.1"
+        sparkle:dsaSignature="MD0CHQCDsoo9RiNP6lcQRzLxSpkgoI8wcq+FxTLgbacoAhxzFqrxMsj1UoKOhlfg1nz07ZfB9qkH/fg1QnSS"
+        length="25077166"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.0 - Causación y exportación -->
     <item>
       <title>v2.9.0 - Causación y exportación</title>
