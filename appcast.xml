@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.3 - Auditoría DIAN más precisa -->
+    <item>
+      <title>v2.9.3 - Auditoría DIAN más precisa</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.3</h2>
+        <ul>
+          <li><strong>Auditoría DIAN más precisa:</strong> la revisión de faltantes ahora se enfoca mejor en el cliente, tipo de documento y rango de fechas seleccionado.</li>
+          <li><strong>Menos falsos pendientes:</strong> se excluyen documentos no facturables para que la auditoría muestre solo lo que realmente requiere atención.</li>
+          <li><strong>Mejor claridad en los resultados:</strong> los mensajes de auditoría explican mejor cuando se omitieron documentos que no aplican.</li>
+          <li><strong>Correcciones generales:</strong> ajustes menores de estabilidad en el flujo de sincronización DIAN.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 06 May 2026 13:18:58 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.3/flipp-setup.exe"
+        sparkle:version="2.9.3"
+        sparkle:shortVersionString="2.9.3"
+        sparkle:dsaSignature="MDwCHA+KKvh/+pboYKAhXfq/itpi0MPmCm6CcRHdG54CHEGwZhWNfn3J+iqsRjUl0SSm8I36RmxihgYBU9U="
+        length="25139031"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.2 - Causación y modo oscuro -->
     <item>
       <title>v2.9.2 - Causación y modo oscuro</title>
