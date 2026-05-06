@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.4 - Causación y World Office -->
+    <item>
+      <title>v2.9.4 - Causación y World Office</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.4</h2>
+        <ul>
+          <li><strong>Nuevo filtro de retefuente pendiente:</strong> ahora puedes identificar más rápido las facturas de compra que necesitan revisión de retenciones.</li>
+          <li><strong>Causación más práctica:</strong> el listado permite enfocarse solo en los documentos que requieren atención, sin mezclar nóminas u otros documentos.</li>
+          <li><strong>Más control en World Office:</strong> nuevas opciones para manejar prefijos y consecutivos en compras, ventas y notas contables.</li>
+          <li><strong>Exportaciones más flexibles:</strong> puedes elegir cuándo usar el número original de la factura o una numeración interna configurada.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 06 May 2026 15:46:10 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.4/flipp-setup.exe"
+        sparkle:version="2.9.4"
+        sparkle:shortVersionString="2.9.4"
+        sparkle:dsaSignature="MDwCHQCVJ9fG0Oj8yWLGVbA8hagxDZmDnwE7Q9vv1QdxAhsWdNyrgIcCqID7fvkNeL3+MNB9RQp5VBp1Kf4="
+        length="25154543"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.3 - Auditoría DIAN más precisa -->
     <item>
       <title>v2.9.3 - Auditoría DIAN más precisa</title>
