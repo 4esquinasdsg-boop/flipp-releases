@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.2 - Causación y modo oscuro -->
+    <item>
+      <title>v2.9.2 - Causación y modo oscuro</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.2</h2>
+        <ul>
+          <li><strong>Paginación de causación más consistente:</strong> al cambiar páginas se conserva mejor la secuencia filtrada.</li>
+          <li><strong>Mejor navegación en listados filtrados:</strong> menos saltos o pérdida de contexto al revisar facturas.</li>
+          <li><strong>Modo oscuro más pulido:</strong> ajustes visuales en dashboard y módulos para mejorar la legibilidad.</li>
+          <li><strong>Correcciones generales:</strong> mejoras menores de interfaz y estabilidad.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 06 May 2026 09:35:23 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.2/flipp-setup.exe"
+        sparkle:version="2.9.2"
+        sparkle:shortVersionString="2.9.2"
+        sparkle:dsaSignature="MDwCHCjmmJlhYSDF3Q/n/GyudupKMKlwY8KCYZHAqP4CHF/bIwxQ9UBFBHSeHLJMhlh7E1AjttccGMgZGp8="
+        length="25149156"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.1 - Exportación ContaPyme -->
     <item>
       <title>v2.9.1 - Exportación ContaPyme</title>
