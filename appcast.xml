@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.6 - Lázaro y lectura DIAN -->
+    <item>
+      <title>v2.9.6 - Lázaro y lectura DIAN</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.6</h2>
+        <ul>
+          <li><strong>Nueva integración con Lázaro:</strong> se agregan opciones para importar PUC y exportar comprobantes compatibles con este software contable.</li>
+          <li><strong>Mejor manejo de centros de costo:</strong> ahora Lázaro también puede usar equivalencias propias dentro de la configuración contable.</li>
+          <li><strong>Lectura DIAN más precisa:</strong> mejoras en facturas XML y PDF para evitar duplicar cargos o recargos en casos especiales como AIU.</li>
+          <li><strong>Reportes y libros más completos:</strong> ajustes en libros contables, auxiliares y detalles de retenciones para una revisión más clara.</li>
+          <li><strong>Mayor estabilidad local:</strong> mejoras de recuperación en la base de datos cuando Windows deja una conexión en modo solo lectura.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 07 May 2026 16:01:08 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.6/flipp-setup.exe"
+        sparkle:version="2.9.6"
+        sparkle:shortVersionString="2.9.6"
+        sparkle:dsaSignature="MDwCHDCId07elwCLaZCTG+XkDDAGFRvMYnIGhBrGG+gCHAcbh7b8rOSR7reu6RaaO8BIYTY2wckCP4GVvBg="
+        length="25182949"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.5 - Guías en video -->
     <item>
       <title>v2.9.5 - Guías en video</title>
