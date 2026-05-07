@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.5 - Guías en video -->
+    <item>
+      <title>v2.9.5 - Guías en video</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.5</h2>
+        <ul>
+          <li><strong>Guías en video dentro de Flipp:</strong> ahora puedes acceder a tutoriales directamente desde la barra de Herramientas.</li>
+          <li><strong>Ayuda contextual:</strong> se agregaron accesos rápidos a videos en sincronización DIAN, parametrización de causación y creación de reglas.</li>
+          <li><strong>Aprendizaje más fácil:</strong> los usuarios pueden abrir las guías sin salir del flujo de trabajo que están configurando.</li>
+          <li><strong>Mejor acompañamiento:</strong> acceso directo al canal completo de Flipp para consultar más material de soporte.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 07 May 2026 02:43:13 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.5/flipp-setup.exe"
+        sparkle:version="2.9.5"
+        sparkle:shortVersionString="2.9.5"
+        sparkle:dsaSignature="MD0CHQCDM6ELIaODXuLx29pxSOHORnzb9aPp3Nvp/+qtAhxAGA9XK8iXH5HrLq30A3m4fgW26b/EngELPaaG"
+        length="25154755"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.4 - Causación y World Office -->
     <item>
       <title>v2.9.4 - Causación y World Office</title>
