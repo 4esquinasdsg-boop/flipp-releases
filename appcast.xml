@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.8 - Helisa y reportes -->
+    <item>
+      <title>v2.9.8 - Helisa y reportes</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.8</h2>
+        <ul>
+          <li><strong>Importación Helisa más confiable:</strong> mejora la lectura de cartillas PUC en archivos .xls, incluso cuando vienen sin encabezados completos.</li>
+          <li><strong>Mejor mapeo local y NIIF:</strong> las equivalencias de cuentas Helisa se conservan mejor para exportaciones contables.</li>
+          <li><strong>Exportaciones Helisa más precisas:</strong> se ajusta el uso de cuentas importadas para reducir correcciones manuales.</li>
+          <li><strong>Reportes tributarios más completos:</strong> el reporte detallado ahora diferencia bases de IVA excluido y exento.</li>
+          <li><strong>Desglose de IVA más claro:</strong> se corrige el tratamiento de descuentos globales para evitar inflar bases excluidas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 08 May 2026 10:51:42 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.8/flipp-setup.exe"
+        sparkle:version="2.9.8"
+        sparkle:shortVersionString="2.9.8"
+        sparkle:dsaSignature="MDwCHAeRFVePaAPrhWTn223RXdHwkOM+9UqINVtpAeECHG2LxzKPsx60VZwOSASWVNwQrtkNVkFe77Zw99Y="
+        length="25195043"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.7 - Retenciones y nómina -->
     <item>
       <title>v2.9.7 - Retenciones y nómina</title>
