@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 2.9.9 - Login y Helisa -->
+    <item>
+      <title>v2.9.9 - Login y Helisa</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 2.9.9</h2>
+        <ul>
+          <li><strong>Nuevo diseño de inicio de sesión:</strong> la pantalla de acceso ahora tiene una presentación más clara y moderna.</li>
+          <li><strong>Causación de ventas más segura:</strong> se evita que reglas con cuentas de inventario tapen las cuentas de ingreso configuradas por tarifa de IVA.</li>
+          <li><strong>Mejor clasificación automática:</strong> las ventas respetan mejor las cuentas definidas para IVA 19%, 5%, exento y excluido.</li>
+          <li><strong>Exportación Helisa más completa:</strong> los comprobantes ahora incluyen la referencia del documento fuente de la factura.</li>
+          <li><strong>Menos correcciones manuales:</strong> ajustes para que los archivos contables salgan con más contexto y mejor mapeados.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 08 May 2026 15:40:01 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v2.9.9/flipp-setup.exe"
+        sparkle:version="2.9.9"
+        sparkle:shortVersionString="2.9.9"
+        sparkle:dsaSignature="MD0CHA9UO3eEEsgQc+wnsrTOy6yB0nFMPj7SYfmB41oCHQCIhmOxYzHFhBad9ZPL10von1DEpBZGiFAPXVc5"
+        length="27046090"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.8 - Helisa y reportes -->
     <item>
       <title>v2.9.8 - Helisa y reportes</title>
