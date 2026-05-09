@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.0 - Integraciones contables más sólidas -->
+    <item>
+      <title>v3.0.0 - Integraciones contables más sólidas</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.0</h2>
+        <ul>
+          <li><strong>World Office más confiable:</strong> se corrigen errores al migrar y guardar configuraciones para que los ajustes se conserven correctamente.</li>
+          <li><strong>ReteIVA con control manual más claro:</strong> las activaciones y desactivaciones por factura se respetan mejor en causación y reportes.</li>
+          <li><strong>Exportación Helisa más completa:</strong> ahora los comprobantes pueden incluir el código de forma de pago configurado para contado o crédito.</li>
+          <li><strong>Configuración Helisa ampliada:</strong> se agregan campos para mapear formas de pago y reducir edición manual del archivo exportado.</li>
+          <li><strong>Más estabilidad en exportaciones contables:</strong> ajustes para mantener mejor la información de factura, forma de pago y retenciones.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 08 May 2026 20:59:12 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.0/flipp-setup.exe"
+        sparkle:version="3.0.0"
+        sparkle:shortVersionString="3.0.0"
+        sparkle:dsaSignature="MD4CHQChRnFUYOFaagQmCXyp8at93JbB/4TFezcFEMSeAh0AiQPSU5QYqibIuZgjg0RJ5IVVKlCuUd74/yq3hA=="
+        length="27040776"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 2.9.9 - Login y Helisa -->
     <item>
       <title>v2.9.9 - Login y Helisa</title>
