@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.1 - Mejoras tributarias DIAN e ICA -->
+    <item>
+      <title>v3.0.1 - Mejoras tributarias DIAN e ICA</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.1</h2>
+        <ul>
+          <li><strong>Auditoría DIAN más precisa:</strong> se mejora el cruce de documentos cuando las facturas usan prefijos alfanuméricos.</li>
+          <li><strong>Reglas ICA 2026 actualizadas:</strong> se agregan calendarios y reglas municipales para más ciudades.</li>
+          <li><strong>Mejor determinación de ICA:</strong> ajustes para calcular y presentar mejor tarifas, periodos y vencimientos según el municipio.</li>
+          <li><strong>Retenciones más claras:</strong> mejoras en la configuración y aplicación de retenciones dentro del flujo tributario.</li>
+          <li><strong>Más estabilidad en sincronización y revisión tributaria:</strong> correcciones para reducir cruces manuales y resultados inconsistentes.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 11 May 2026 13:34:11 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.1/flipp-setup.exe"
+        sparkle:version="3.0.1"
+        sparkle:shortVersionString="3.0.1"
+        sparkle:dsaSignature="MDwCHHLFI80+/IacNthSsCbrX7gNzMJpHm0PQpIqv7UCHH2Em1aky/iP3ohjInzfvCPX09GHHsA6H58uj+w="
+        length="27140731"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.0 - Integraciones contables más sólidas -->
     <item>
       <title>v3.0.0 - Integraciones contables más sólidas</title>
