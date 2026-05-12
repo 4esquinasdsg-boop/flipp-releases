@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.2 - Causación tributaria más precisa -->
+    <item>
+      <title>v3.0.2 - Causación tributaria más precisa</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.2</h2>
+        <ul>
+          <li><strong>Mejores filtros en causación:</strong> se ajustan filtros y controles para revisar facturas tributarias con más precisión.</li>
+          <li><strong>Overrides más confiables:</strong> los ajustes manuales de cuentas y centros de costo se respetan mejor al recalcular y exportar.</li>
+          <li><strong>Exportación ContaPyme mejorada:</strong> se conserva mejor la información de centros de costo para reducir correcciones manuales.</li>
+          <li><strong>Más cobertura de ICA:</strong> se agregan y ajustan tarifas municipales para mejorar la determinación de ICA según la ciudad.</li>
+          <li><strong>Más estabilidad en declaraciones y revisión tributaria:</strong> mejoras internas para que los periodos, retenciones y datos tributarios se muestren con mayor consistencia.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 12 May 2026 11:03:18 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.2/flipp-setup.exe"
+        sparkle:version="3.0.2"
+        sparkle:shortVersionString="3.0.2"
+        sparkle:dsaSignature="MD0CHQCSvbH8mv/xI1mCbnuLWlf81QXQfsAN5YYh31USAhxy/WeYoJ/IKBh/5SUF6XYJY7NthEQ144Gc/7Dx"
+        length="27156265"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.1 - Mejoras tributarias DIAN e ICA -->
     <item>
       <title>v3.0.1 - Mejoras tributarias DIAN e ICA</title>
