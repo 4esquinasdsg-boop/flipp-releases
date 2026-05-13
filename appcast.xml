@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.3 - Mejoras en dashboard y gestión de facturas -->
+    <item>
+      <title>v3.0.3 - Mejoras en dashboard y gestión de facturas</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.3</h2>
+        <ul>
+          <li><strong>Dashboard más claro:</strong> se corrige la visualización de vencimientos y la gráfica de facturas para que se lean mejor en distintos tamaños de pantalla.</li>
+          <li><strong>Importación PDF DIAN más precisa:</strong> se mejora la lectura de facturas DIAN en PDF para evitar que totales del documento se mezclen con los ítems.</li>
+          <li><strong>Eliminación masiva de facturas:</strong> ahora es posible borrar varias facturas seleccionadas sin eliminar el cliente ni sus reglas de trabajo.</li>
+          <li><strong>Mejor limpieza de datos:</strong> al eliminar facturas también se limpian datos relacionados de causación, archivos y sincronización local.</li>
+          <li><strong>Más estabilidad operativa:</strong> ajustes para reducir inconsistencias al revisar, importar o corregir información tributaria.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 13 May 2026 00:16:38 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.3/flipp-setup.exe"
+        sparkle:version="3.0.3"
+        sparkle:shortVersionString="3.0.3"
+        sparkle:dsaSignature="MDwCHEQrQpqJiPfaK+D2IXZ+0ZZiHgqVeS/PC2eJPmMCHEEPTBlKnmzULxcaqQMRJefrwcpUXnVnjwtYyjg="
+        length="27161517"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.2 - Causación tributaria más precisa -->
     <item>
       <title>v3.0.2 - Causación tributaria más precisa</title>
