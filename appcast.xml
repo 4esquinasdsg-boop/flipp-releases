@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.5 - Importación PUC Odoo y desglose de compras -->
+    <item>
+      <title>v3.0.5 - Importación PUC Odoo y desglose de compras</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.5</h2>
+        <ul>
+          <li><strong>Importación PUC desde Odoo:</strong> ahora Flipp reconoce e importa planes de cuentas exportados desde Odoo.</li>
+          <li><strong>Detección automática mejorada:</strong> el importador identifica mejor el formato del archivo PUC y usa el parser correcto.</li>
+          <li><strong>Desglose de compras más preciso:</strong> se corrige el manejo de impoconsumo para mostrar bases y valores de forma más clara.</li>
+          <li><strong>Notas crédito mejor reflejadas:</strong> los valores de notas crédito se netean mejor dentro del desglose tributario de compras.</li>
+          <li><strong>Más estabilidad de datos locales:</strong> ajustes para manejar mejor rutas y archivos relacionados con la base local y documentos almacenados.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 13 May 2026 17:00:44 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.5/flipp-setup.exe"
+        sparkle:version="3.0.5"
+        sparkle:shortVersionString="3.0.5"
+        sparkle:dsaSignature="MD0CHB5W8/gQwSJc0XYpWH1lnqSC66jkafzUbd2p36sCHQCUOmVIuQutCh1gYSdrk+fLsFQkaF91wgbvYC+M"
+        length="27158182"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.4 - Mejoras en exportación ContaPyme -->
     <item>
       <title>v3.0.4 - Mejoras en exportación ContaPyme</title>
