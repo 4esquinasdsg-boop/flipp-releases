@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.4 - Mejoras en exportación ContaPyme -->
+    <item>
+      <title>v3.0.4 - Mejoras en exportación ContaPyme</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.4</h2>
+        <ul>
+          <li><strong>Notas crédito en ContaPyme más completas:</strong> las opciones de usar numeración original ahora también aplican para notas crédito de compras y ventas.</li>
+          <li><strong>Más control sobre la numeración:</strong> se agregan modos para usar el número completo, solo el prefijo o solo el consecutivo de la factura al exportar.</li>
+          <li><strong>Ventas mejor balanceadas:</strong> se corrigen referencias y contrapartidas en exportaciones de ventas para que ContaPyme reciba mejor la información.</li>
+          <li><strong>Configuración ContaPyme más clara:</strong> los textos de configuración explican mejor cuándo se aplican las opciones a facturas y notas crédito.</li>
+          <li><strong>Menos ajustes manuales:</strong> mejoras para reducir correcciones posteriores en archivos exportados hacia ContaPyme.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 13 May 2026 11:27:24 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.4/flipp-setup.exe"
+        sparkle:version="3.0.4"
+        sparkle:shortVersionString="3.0.4"
+        sparkle:dsaSignature="MD0CHQCaABRvjy5DuPKpX4++yA0bxQiWXdbjmkTxcG8PAhwMd9ESRUUxc0R8rXfe8sQHkHMNREMLZ3PWzk9y"
+        length="27169842"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.3 - Mejoras en dashboard y gestión de facturas -->
     <item>
       <title>v3.0.3 - Mejoras en dashboard y gestión de facturas</title>
