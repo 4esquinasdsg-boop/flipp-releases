@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.6 - Nuevos formatos contables en causación -->
+    <item>
+      <title>v3.0.6 - Nuevos formatos contables en causación</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.6</h2>
+        <ul>
+          <li><strong>Flipp recuerda el formato por cliente:</strong> al volver a causación, se conserva el último formato contable usado para cada cliente.</li>
+          <li><strong>Soporte para Siigo PYME:</strong> se agregan importación de PUC, exportación de movimientos y exportación de terceros para este formato.</li>
+          <li><strong>Soporte para SaiOpen:</strong> se agregan importación de PUC, exportación de comprobantes y exportación de terceros.</li>
+          <li><strong>Mejor detección de archivos PUC:</strong> el importador reconoce más formatos automáticamente y reduce selección manual.</li>
+          <li><strong>Centros de costo más compatibles:</strong> se amplía el manejo de alias para que los formatos nuevos reciban los códigos esperados.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 14 May 2026 00:32:42 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.6/flipp-setup.exe"
+        sparkle:version="3.0.6"
+        sparkle:shortVersionString="3.0.6"
+        sparkle:dsaSignature="MD0CHGR4uYNJPnVLxeDLKUsXG3Zvty979PN3QHi642YCHQCI7xTdfpA5VV71D9MIKNGoMGW0RR2XG++crmMo"
+        length="27206742"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.5 - Importación PUC Odoo y desglose de compras -->
     <item>
       <title>v3.0.5 - Importación PUC Odoo y desglose de compras</title>
