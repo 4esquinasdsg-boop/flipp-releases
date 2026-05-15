@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.7 - Mejoras tributarias y exportación World Office -->
+    <item>
+      <title>v3.0.7 - Mejoras tributarias y exportación World Office</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.7</h2>
+        <ul>
+          <li><strong>Flipp recuerda el formato de causación:</strong> se mantiene mejor la selección del formato usado por cada cliente.</li>
+          <li><strong>Documento Soporte más preciso:</strong> se mejora la clasificación de Documento Soporte y notas de ajuste para respetar mejor si corresponden a compra o venta.</li>
+          <li><strong>Overrides por factura más confiables:</strong> ajustes para que las excepciones tributarias por factura se apliquen de forma más estable.</li>
+          <li><strong>Sincronización DIAN más enfocada:</strong> mejoras para consultar y filtrar documentos por tipo cuando corresponde.</li>
+          <li><strong>Terceros World Office más limpios:</strong> se normalizan mejor nombres, NIT, ciudades y direcciones para reducir correcciones manuales.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 15 May 2026 17:21:39 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.7/flipp-setup.exe"
+        sparkle:version="3.0.7"
+        sparkle:shortVersionString="3.0.7"
+        sparkle:dsaSignature="MDwCHARGcqGfILgga+ReMdkdPIyC+BUBD/NSF9z/kjMCHF3Hj5P9ZgKZ6c9jqxklOkP4yDuckqVa0Y4v+Gc="
+        length="27224092"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.6 - Nuevos formatos contables en causación -->
     <item>
       <title>v3.0.6 - Nuevos formatos contables en causación</title>
