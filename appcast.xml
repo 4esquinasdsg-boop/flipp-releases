@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.1.1 - Autorretención de ventas por CIIU -->
+    <item>
+      <title>v3.1.1 - Autorretención de ventas por CIIU</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.1.1</h2>
+        <ul>
+          <li><strong>Autorretención de ventas más precisa:</strong> Flipp mejora la selección de tarifas según la actividad económica CIIU.</li>
+          <li><strong>Mejor consistencia tributaria:</strong> los cálculos de causación y resúmenes de retenciones reflejan mejor la tarifa correspondiente.</li>
+          <li><strong>Soporte más robusto para documentos:</strong> se refuerza la lectura de información tributaria desde documentos importados por XML y PDF.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 16 May 2026 15:18:50 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.1.1/flipp-setup.exe"
+        sparkle:version="3.1.1"
+        sparkle:shortVersionString="3.1.1"
+        sparkle:dsaSignature="MD0CHBtGwx1hcRMoqX9uTu6g1yCFPlvu0kO12bwvf04CHQCaBzgFnr4guN2prz6acpqEaGzMprnbzZM4LMT0"
+        length="27233002"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.1.0 - Cuentas persistentes para notas débito -->
     <item>
       <title>v3.1.0 - Cuentas persistentes para notas débito</title>
