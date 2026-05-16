@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.8 - Documento Soporte más confiable -->
+    <item>
+      <title>v3.0.8 - Documento Soporte más confiable</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.8</h2>
+        <ul>
+          <li><strong>Documento Soporte más confiable:</strong> se mejora la forma en que Flipp reconoce si estos documentos corresponden a compras o ventas.</li>
+          <li><strong>Menos ajustes manuales:</strong> la información importada desde DIAN y XML conserva mejor el sentido correcto del documento.</li>
+          <li><strong>Sincronización más precisa:</strong> se refuerza el manejo de Documento Soporte durante la carga y actualización de documentos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 15 May 2026 20:59:31 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.8/flipp-setup.exe"
+        sparkle:version="3.0.8"
+        sparkle:shortVersionString="3.0.8"
+        sparkle:dsaSignature="MDwCHC7a4kAF0c5YFTvrYPrYqnnLZIY7oLIydnKBNwMCHCvHZvY54CEQkuIt+T4hQxhbx966+U8IIsoGRh0="
+        length="27219495"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.7 - Mejoras tributarias y exportación World Office -->
     <item>
       <title>v3.0.7 - Mejoras tributarias y exportación World Office</title>
