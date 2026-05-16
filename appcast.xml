@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.1.0 - Cuentas persistentes para notas débito -->
+    <item>
+      <title>v3.1.0 - Cuentas persistentes para notas débito</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.1.0</h2>
+        <ul>
+          <li><strong>Notas débito mejor integradas:</strong> Flipp ahora conserva y reutiliza mejor las cuentas contables configuradas para notas débito.</li>
+          <li><strong>Menos parametrización repetida:</strong> las cuentas definidas se mantienen disponibles para causación, libros y reportes relacionados.</li>
+          <li><strong>Mayor consistencia contable:</strong> se refuerza el uso de estas cuentas en los procesos de registro y análisis para reducir ajustes manuales.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 16 May 2026 13:57:08 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.1.0/flipp-setup.exe"
+        sparkle:version="3.1.0"
+        sparkle:shortVersionString="3.1.0"
+        sparkle:dsaSignature="MDwCHDf7OHo9P73YaZ6Ay3q/44CJMyyq3z6RHONGmqcCHBPG1uJDMTIgDPOIQPZdkJNF7ZfhHSKka/qgI6c="
+        length="27228046"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.9 - Mejoras al registrar en Libros -->
     <item>
       <title>v3.0.9 - Mejoras al registrar en Libros</title>
