@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.0.9 - Mejoras al registrar en Libros -->
+    <item>
+      <title>v3.0.9 - Mejoras al registrar en Libros</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.0.9</h2>
+        <ul>
+          <li><strong>Registro en Libros más flexible:</strong> ahora Flipp permite continuar el lote aunque algunos documentos tengan NITs que requieren revisión.</li>
+          <li><strong>Menos bloqueos operativos:</strong> los documentos con datos por corregir ya no detienen necesariamente todo el proceso.</li>
+          <li><strong>Validaciones más claras:</strong> se mejora el manejo de errores para que el usuario pueda avanzar y atender los casos puntuales.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 15 May 2026 22:59:26 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.0.9/flipp-setup.exe"
+        sparkle:version="3.0.9"
+        sparkle:shortVersionString="3.0.9"
+        sparkle:dsaSignature="MD0CHAKC54CNiPeC7IIDg7jYUcgvgXl7QWsJz634BAwCHQCMoPISKF2hfpExazJXih7hL4COxHdRgppFoHK0"
+        length="27216966"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.0.8 - Documento Soporte más confiable -->
     <item>
       <title>v3.0.8 - Documento Soporte más confiable</title>
