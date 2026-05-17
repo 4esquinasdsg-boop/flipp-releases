@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.1.2 - Compatibilidad con World Office Cloud -->
+    <item>
+      <title>v3.1.2 - Compatibilidad con World Office Cloud</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.1.2</h2>
+        <ul>
+          <li><strong>Importación para World Office Cloud:</strong> Flipp agrega soporte para trabajar con los nuevos formatos Cloud de World Office.</li>
+          <li><strong>Nuevas plantillas Cloud:</strong> se incluyen plantillas para compras, ventas y terceros en el flujo de World Office Cloud.</li>
+          <li><strong>Detección y configuración más completa:</strong> Flipp reconoce mejor estos archivos y permite configurar el flujo Cloud dentro de World Office.</li>
+          <li><strong>Mejor soporte para PUC y terceros:</strong> se refuerzan los procesos relacionados con cuentas y terceros para reducir ajustes manuales.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 17 May 2026 13:11:43 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.1.2/flipp-setup.exe"
+        sparkle:version="3.1.2"
+        sparkle:shortVersionString="3.1.2"
+        sparkle:dsaSignature="MDwCHEhPKO2QVaQ7STD6XCA2cmjWzB11JbSnezSq1J8CHCK1Kk8gauwFNxALot529oFkfmDEOxzd/CMtcDA="
+        length="27357183"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.1.1 - Autorretención de ventas por CIIU -->
     <item>
       <title>v3.1.1 - Autorretención de ventas por CIIU</title>
