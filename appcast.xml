@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.1.6 - Mejoras en World Office Cloud -->
+    <item>
+      <title>v3.1.6 - Mejoras en World Office Cloud</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.1.6</h2>
+        <ul>
+          <li><strong>Exportación World Office Cloud más completa:</strong> se ajusta el flujo para usar la plantilla de notas contables cuando corresponde.</li>
+          <li><strong>Nueva plantilla Cloud:</strong> se incluye una plantilla específica para notas de contabilidad en World Office Cloud.</li>
+          <li><strong>Causación y clasificación más afinadas:</strong> se refuerzan reglas internas para que la información exportada sea más consistente.</li>
+          <li><strong>Menos ajustes manuales:</strong> el exportador Cloud queda mejor alineado con el formato que espera World Office.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 20 May 2026 15:08:12 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.1.6/flipp-setup.exe"
+        sparkle:version="3.1.6"
+        sparkle:shortVersionString="3.1.6"
+        sparkle:dsaSignature="MDwCHAplkvrTRckuIEw1EtcI054V2llN8DPBOHQlhagCHA8kB4ACC2XpNVGKdK1f0YyPfzXQ+Bk7ssGzv3o="
+        length="27397965"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.1.5 - Mejoras en autorretención e importación de referencias -->
     <item>
       <title>v3.1.5 - Mejoras en autorretención e importación de referencias</title>
