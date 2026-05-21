@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.1.8 - Mejoras en nómina y causación -->
+    <item>
+      <title>v3.1.8 - Mejoras en nómina y causación</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.1.8</h2>
+        <ul>
+          <li><strong>Nómina más clara en causación:</strong> se afinan opciones y reglas para que la información de nómina se lleve mejor al proceso contable.</li>
+          <li><strong>Mejor manejo de aportes:</strong> se refuerzan los cálculos y transformaciones relacionados con aportes patronales.</li>
+          <li><strong>Exportaciones más consistentes:</strong> se ajusta la preparación de la información para reducir correcciones manuales al exportar.</li>
+          <li><strong>Más estabilidad en el flujo tributario:</strong> se agregan validaciones para conservar resultados más confiables al trabajar con nómina.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 20 May 2026 23:15:49 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.1.8/flipp-setup.exe"
+        sparkle:version="3.1.8"
+        sparkle:shortVersionString="3.1.8"
+        sparkle:dsaSignature="MDwCHDsUTP+lteMve4LmEZdcrCXSMrYyJoV071fyZKECHCESBVbKLyYkbZMUOS0UUW1gO0JhfddaNSc2NBU="
+        length="27427059"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.1.7 - Mejoras en causación y exportación -->
     <item>
       <title>v3.1.7 - Mejoras en causación y exportación</title>
