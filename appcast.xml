@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.1.7 - Mejoras en causación y exportación -->
+    <item>
+      <title>v3.1.7 - Mejoras en causación y exportación</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.1.7</h2>
+        <ul>
+          <li><strong>Causación más completa:</strong> se afinan reglas de clasificación y centros de costo para mejorar el registro contable.</li>
+          <li><strong>Mejor soporte para nómina:</strong> se ajustan procesos relacionados con nómina y aportes para llevarlos mejor a causación y exportación.</li>
+          <li><strong>Exportaciones más consistentes:</strong> se refuerzan salidas hacia Contaii y World Office Cloud.</li>
+          <li><strong>Libros contables más cómodos:</strong> se mejoran flujos de visualización y edición manual de comprobantes.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 20 May 2026 19:43:05 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.1.7/flipp-setup.exe"
+        sparkle:version="3.1.7"
+        sparkle:shortVersionString="3.1.7"
+        sparkle:dsaSignature="MDwCHCxpO4mErTZFwrSOpHRj0Ox0NMq64u+dvAouzKkCHHcLd474eQlDTmblAE/UXjehAzv8l0NmMpeBtg0="
+        length="27414533"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.1.6 - Mejoras en World Office Cloud -->
     <item>
       <title>v3.1.6 - Mejoras en World Office Cloud</title>
