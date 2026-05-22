@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Versión 3.1.9 - Mejoras en ReteICA y causación -->
+    <item>
+      <title>v3.1.9 - Mejoras en ReteICA y causación</title>
+      <description><![CDATA[
+        <h2>Novedades en la versión 3.1.9</h2>
+        <ul>
+          <li><strong>Más control sobre ReteICA:</strong> ahora se pueden ajustar mejor la tarifa, la cuenta y la decisión de aplicar u omitir ReteICA desde el detalle de la factura.</li>
+          <li><strong>Causación más precisa:</strong> se mejora la forma en que Flipp respeta cuentas configuradas por el usuario y usa cuentas especializadas cuando corresponde.</li>
+          <li><strong>Exógena más clara:</strong> se refuerzan validaciones y mensajes para revisar la información antes de exportarla.</li>
+          <li><strong>Mejoras en inventario y World Office:</strong> se afinan importaciones de catálogo y exportaciones para reducir ajustes manuales.</li>
+          <li><strong>Sincronización más estable:</strong> se incluyen ajustes internos para hacer más confiable el trabajo con datos actualizados.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 22 May 2026 09:12:08 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.1.9/flipp-setup.exe"
+        sparkle:version="3.1.9"
+        sparkle:shortVersionString="3.1.9"
+        sparkle:dsaSignature="MDwCHAw5+3AVD7AjPOiNFqPKz20x1K6tRMLdx0VX3CsCHF7Gijp+74BMDZglm4LeZfSByVYxTzpzLjC0S88="
+        length="27441595"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.1.8 - Mejoras en nómina y causación -->
     <item>
       <title>v3.1.8 - Mejoras en nómina y causación</title>
