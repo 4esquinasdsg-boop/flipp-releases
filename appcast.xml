@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.2 - Avansat y selector de formatos -->
+    <item>
+      <title>v3.2.2 - Avansat y selector de formatos</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.2</h2>
+        <ul>
+          <li><strong>Soporte Avansat mas completo:</strong> se agregan servicios, configuracion y plantilla para trabajar con formatos Avansat desde Causacion.</li>
+          <li><strong>Importacion y deteccion de formatos mejoradas:</strong> Flipp reconoce mejor el origen de archivos y encamina cada importacion al flujo correcto.</li>
+          <li><strong>Clasificacion contable reforzada:</strong> se amplian reglas, centros de costo y validaciones para decisiones mas consistentes.</li>
+          <li><strong>Experiencia de seleccion mas pulida:</strong> se ajusta el comportamiento visual del selector de formatos y pantallas relacionadas.</li>
+          <li><strong>Mas estabilidad operativa:</strong> se agregan pruebas para Avansat, Delta, clasificacion y deduplicacion de facturas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 25 May 2026 17:01:42 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.2/flipp-setup.exe"
+        sparkle:version="3.2.2"
+        sparkle:shortVersionString="3.2.2"
+        sparkle:dsaSignature="MDwCHEqakmT5CUyHdSxk3KxaPU7x/8sBqv5b+0TmF/0CHEdhnE76UyAtdfLBx37cm8dbj181Uwvjzu2O0lc="
+        length="27712161"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.1 - Persistencia tributaria y causacion -->
     <item>
       <title>v3.2.1 - Persistencia tributaria y causacion</title>
