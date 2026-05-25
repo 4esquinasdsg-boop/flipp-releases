@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.1 - Persistencia tributaria y causacion -->
+    <item>
+      <title>v3.2.1 - Persistencia tributaria y causacion</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.1</h2>
+        <ul>
+          <li><strong>Overrides tributarios persistentes:</strong> los ajustes de retenciones hechos desde el detalle de factura se conservan mejor entre sesiones y equipos.</li>
+          <li><strong>Sincronizacion de reglas reforzada:</strong> se amplian las rutas locales y de nube para reglas de retencion y clasificacion.</li>
+          <li><strong>Causacion mas alineada:</strong> el motor respeta mejor NIT, cuentas configuradas y decisiones tributarias al calcular documentos.</li>
+          <li><strong>Exportaciones mas consistentes:</strong> los datos tributarios aplicados en factura y Causacion llegan con mayor coherencia a los flujos de salida.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas para persistencia, normalizacion de NIT y comportamiento de reglas contables.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 25 May 2026 12:06:33 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.1/flipp-setup.exe"
+        sparkle:version="3.2.1"
+        sparkle:shortVersionString="3.2.1"
+        sparkle:dsaSignature="MD0CHQCQKRoj2KgL0VMdglxCf78/Wy5e784GTJWImlZaAhxCphfOJVQ0LCC6DgCKAhwYvXOv9B3RZJ7fRpkm"
+        length="27448894"
+        type="application/octet-stream" />
+    </item>
     <!-- Versión 3.2.0 - Mejoras en World Office Cloud -->
     <item>
       <title>v3.2.0 - Mejoras en World Office Cloud</title>
