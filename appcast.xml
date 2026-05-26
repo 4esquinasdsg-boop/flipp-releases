@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.3 - Dialogos de configuracion renovados -->
+    <item>
+      <title>v3.2.3 - Dialogos de configuracion renovados</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.3</h2>
+        <ul>
+          <li><strong>Configuraciones mas uniformes:</strong> los dialogos de Causacion y exportadores adoptan el nuevo estilo guiado por wizard.</li>
+          <li><strong>Centros de costo mas claros:</strong> se reorganiza la experiencia de configuracion para facilitar revision y edicion.</li>
+          <li><strong>Mejor consistencia visual:</strong> Siigo, Syscafe, Helisa, Avansat, Contaii, ContaPyme, SaiOpen, Lazaro y World Office quedan mas alineados.</li>
+          <li><strong>Seleccion de cuentas mas comoda:</strong> se ajusta el selector PUC para integrarse mejor con el flujo de configuracion.</li>
+          <li><strong>Sincronizacion DIAN mas pulida:</strong> se actualiza el boton y sus estados para una experiencia mas consistente con el resto de la app.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 26 May 2026 07:50:18 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.3/flipp-setup.exe"
+        sparkle:version="3.2.3"
+        sparkle:shortVersionString="3.2.3"
+        sparkle:dsaSignature="MDwCHCR1V/uqKoQqA3g8MmdD0GO62/9y8emf2RlSX2cCHHP3QeCs4dtcJS3MbB1B7JzjWC4W1Y0SRjY9xs4="
+        length="27699544"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.2 - Avansat y selector de formatos -->
     <item>
       <title>v3.2.2 - Avansat y selector de formatos</title>
