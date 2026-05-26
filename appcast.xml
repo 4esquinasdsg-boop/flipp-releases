@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.4 - Arranque y exportacion Delta -->
+    <item>
+      <title>v3.2.4 - Arranque y exportacion Delta</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.4</h2>
+        <ul>
+          <li><strong>Arranque mas estable:</strong> se ajusta la sincronizacion inicial para reducir bloqueos y mejorar la entrada a la aplicacion.</li>
+          <li><strong>Sincronizacion mejor controlada:</strong> Flipp maneja mejor los estados de carga al iniciar sesion y preparar datos.</li>
+          <li><strong>Exportacion Delta corregida:</strong> se mejora la salida de centros de costo para que el archivo respete el formato esperado.</li>
+          <li><strong>Menos ajustes manuales:</strong> los datos de centro de costo quedan mas consistentes al llevar informacion a Delta.</li>
+          <li><strong>Validacion reforzada:</strong> se actualizan pruebas especificas del exportador Delta para cubrir este comportamiento.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 26 May 2026 08:57:56 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.4/flipp-setup.exe"
+        sparkle:version="3.2.4"
+        sparkle:shortVersionString="3.2.4"
+        sparkle:dsaSignature="MDwCHDBmEeQj6usgX4JoyeQglI+hv8quz9m/lomZy4cCHDAlavAt3vxpMtSksKnNpyBwcGk0nbmYXTgwBh4="
+        length="27718309"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.3 - Dialogos de configuracion renovados -->
     <item>
       <title>v3.2.3 - Dialogos de configuracion renovados</title>
