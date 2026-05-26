@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.5 - Sesion y Avansat reforzados -->
+    <item>
+      <title>v3.2.5 - Sesion y Avansat reforzados</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.5</h2>
+        <ul>
+          <li><strong>Inicio de sesion mas confiable:</strong> se ajusta el bootstrap de sesion para manejar mejor el arranque y la firma activa.</li>
+          <li><strong>Sincronizacion de firma reforzada:</strong> Flipp conserva y prepara mejor el contexto de trabajo al entrar a la aplicacion.</li>
+          <li><strong>Avansat mas completo:</strong> se mejoran la configuracion, exportacion e importacion de informacion para este flujo.</li>
+          <li><strong>Lectura de plantillas mas robusta:</strong> se agrega soporte interno para leer libros OOXML y detectar formatos con mayor precision.</li>
+          <li><strong>Validacion adicional:</strong> se actualizan pruebas de Avansat para cubrir importacion, exportacion y manejo de datos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 26 May 2026 10:34:31 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.5/flipp-setup.exe"
+        sparkle:version="3.2.5"
+        sparkle:shortVersionString="3.2.5"
+        sparkle:dsaSignature="MDwCHB4sRh/RZ2dZ+7e+yXTwZp/U2CNJzTEEU99lADoCHBMXgkclGFpQz1rKCAvR0uS/utTcYtD8UAtWtYg="
+        length="27713596"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.4 - Arranque y exportacion Delta -->
     <item>
       <title>v3.2.4 - Arranque y exportacion Delta</title>
