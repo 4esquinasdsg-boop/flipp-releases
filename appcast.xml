@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.6 - Avansat compras por factura -->
+    <item>
+      <title>v3.2.6 - Avansat compras por factura</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.6</h2>
+        <ul>
+          <li><strong>Exportacion Avansat mas organizada:</strong> las compras se generan como ZIP con archivos separados por factura.</li>
+          <li><strong>Menos reprocesos manuales:</strong> cada factura queda mejor aislada para revision y carga en el flujo Avansat.</li>
+          <li><strong>Centros de costo reforzados:</strong> se mejora la importacion y validacion de centros de costo para clasificacion contable.</li>
+          <li><strong>Detalle tributario mas claro:</strong> se ajustan controles y almacenamiento de informacion tributaria usada en factura.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de Avansat, centros de costo, clasificacion y detalle de factura.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 27 May 2026 09:12:03 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.6/flipp-setup.exe"
+        sparkle:version="3.2.6"
+        sparkle:shortVersionString="3.2.6"
+        sparkle:dsaSignature="MDwCHHRDDnT0+JLIJTO49iw+HWS4AFi7bcPAg3PmIXoCHHgMNiG+JRdP9gsh1Qr+tefr+HU3Evbx7jqKr/0="
+        length="27898099"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.5 - Sesion y Avansat reforzados -->
     <item>
       <title>v3.2.5 - Sesion y Avansat reforzados</title>
