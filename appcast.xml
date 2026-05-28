@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.8 - Flujos tributarios refinados -->
+    <item>
+      <title>v3.2.8 - Flujos tributarios refinados</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.8</h2>
+        <ul>
+          <li><strong>Importacion tributaria mas robusta:</strong> se refinan los flujos de lectura desde XML y PDF DIAN.</li>
+          <li><strong>Detalle de factura mas completo:</strong> se mejora el manejo de observaciones y datos usados al revisar documentos tributarios.</li>
+          <li><strong>Exportaciones mejor alineadas:</strong> se ajustan salidas para Avansat y documentos de inventario World Office.</li>
+          <li><strong>Datos historicos mejor preparados:</strong> se agrega backfill de observaciones para facturas existentes.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas para parser DIAN, XML, detalle de factura y exportacion World Office.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 28 May 2026 13:34:38 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.8/flipp-setup.exe"
+        sparkle:version="3.2.8"
+        sparkle:shortVersionString="3.2.8"
+        sparkle:dsaSignature="MDwCHDw2czeI3AIEYmcpEFIkKj1invs1sg7/rtY4Xd8CHEoTeiTizn26QRlANw0VO0gV/zkiOcL/eAgWVKw="
+        length="27922494"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.7 - ReteFuente pendiente y reportes -->
     <item>
       <title>v3.2.7 - ReteFuente pendiente y reportes</title>
