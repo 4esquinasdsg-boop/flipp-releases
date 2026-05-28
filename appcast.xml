@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.9 - Inventario World Office contable -->
+    <item>
+      <title>v3.2.9 - Inventario World Office contable</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.9</h2>
+        <ul>
+          <li><strong>Exportacion World Office de inventario mas completa:</strong> se agregan lineas contables para documentos de inventario.</li>
+          <li><strong>Mejor alineacion contable:</strong> los movimientos de inventario llevan informacion mas util para revision y carga en World Office.</li>
+          <li><strong>Menos ajustes manuales:</strong> el archivo queda mas cerca del formato esperado por el flujo contable.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas del exportador de documentos de inventario World Office.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 28 May 2026 13:58:14 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.9/flipp-setup.exe"
+        sparkle:version="3.2.9"
+        sparkle:shortVersionString="3.2.9"
+        sparkle:dsaSignature="MD0CHGL/bvKTO6xZe6VE6EhG3lKr0gGPAOr0yK1FKAACHQCYwnAc1hWaPLNJMG7zvvjfz+rLxkorTDu/Pxal"
+        length="27929111"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.8 - Flujos tributarios refinados -->
     <item>
       <title>v3.2.8 - Flujos tributarios refinados</title>
