@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.0 - Exogena y PUC World Office -->
+    <item>
+      <title>v3.3.0 - Exogena y PUC World Office</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.0</h2>
+        <ul>
+          <li><strong>Exogena con terceros mas completos:</strong> se restaura la carga de direcciones de terceros al preparar datos para reportes y exportaciones.</li>
+          <li><strong>PUC World Office reforzado:</strong> se agrega plantilla XLS de cuentas contables y exportador compatible para el flujo World Office.</li>
+          <li><strong>Archivos XLS legacy mas confiables:</strong> se mejora la generacion de libros XLS para soportar plantillas y estructura compatible.</li>
+          <li><strong>Causacion mas conectada:</strong> se integra mejor el flujo de exportacion de cuentas contables desde el modulo de causacion.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de Exogena, exportacion Excel, escritor XLS legacy y PUC World Office.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 28 May 2026 17:48:17 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.0/flipp-setup.exe"
+        sparkle:version="3.3.0"
+        sparkle:shortVersionString="3.3.0"
+        sparkle:dsaSignature="MDwCHEJxf2nLhRA7IqJskir8l56kvflnSDZ+fKBbhvkCHBS2xSgkjHk+4FV+qBN+XoYccepgwYrVLFbMwDM="
+        length="27935437"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.9 - Inventario World Office contable -->
     <item>
       <title>v3.2.9 - Inventario World Office contable</title>
