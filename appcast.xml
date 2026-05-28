@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.2.7 - ReteFuente pendiente y reportes -->
+    <item>
+      <title>v3.2.7 - ReteFuente pendiente y reportes</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.2.7</h2>
+        <ul>
+          <li><strong>ReteFuente pendiente mas clara:</strong> se ajustan filtros visibles para mostrar mejor que documentos requieren revision.</li>
+          <li><strong>Exportaciones menos bloqueadas:</strong> se corrigen condiciones que podian impedir exportar informacion tributaria cuando habia retefuente pendiente.</li>
+          <li><strong>Reportes tributarios reforzados:</strong> se mejora la preparacion de datos para reportes y exportaciones del modulo tributario.</li>
+          <li><strong>Cuentas visibles mas consistentes:</strong> se afina la resolucion de cuentas usadas en factura y causacion.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas para filtros pendientes, exportador de reportes, Avansat y resolucion de cuentas visibles.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 28 May 2026 00:04:45 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.2.7/flipp-setup.exe"
+        sparkle:version="3.2.7"
+        sparkle:shortVersionString="3.2.7"
+        sparkle:dsaSignature="MDwCHCONYGyWDYJ5cwnc0HFEjjZD6POF2Vycp4fRNbICHG5laBJ19VVQEwERvHtCp2HgToMsHd/tqE4XpDM="
+        length="27913455"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.2.6 - Avansat compras por factura -->
     <item>
       <title>v3.2.6 - Avansat compras por factura</title>
