@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.1 - Exogena 1007 y PUC Contaii -->
+    <item>
+      <title>v3.3.1 - Exogena 1007 y PUC Contaii</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.1</h2>
+        <ul>
+          <li><strong>Exogena 1007 mas completa:</strong> se corrige la hidratacion de terceros para incluir direccion y datos de documento cuando aplican.</li>
+          <li><strong>Mejor soporte de terceros:</strong> se afinan los datos usados por reportes y exportaciones de Exogena para reducir informacion incompleta.</li>
+          <li><strong>Importacion PUC Contaii reforzada:</strong> se mejora la deteccion del formato y el flujo de importacion de cuentas contables.</li>
+          <li><strong>Causacion mas conectada:</strong> se ajusta el acceso al flujo de importacion PUC desde el modulo de causacion.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de Exogena, parser de nombres, importacion PUC Contaii y pipeline de formatos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 29 May 2026 10:57:06 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.1/flipp-setup.exe"
+        sparkle:version="3.3.1"
+        sparkle:shortVersionString="3.3.1"
+        sparkle:dsaSignature="MDwCHFNEhH8xfBqdz2ofDO4E9y5nPrFku4P8bygVSokCHHGTdDDsWAe4VMLG9tmB9jSYb+rae3GrNDJJ3hs="
+        length="27937196"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.0 - Exogena y PUC World Office -->
     <item>
       <title>v3.3.0 - Exogena y PUC World Office</title>
