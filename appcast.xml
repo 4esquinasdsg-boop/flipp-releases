@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.4 - Exogena valores enteros -->
+    <item>
+      <title>v3.3.4 - Exogena valores enteros</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.4</h2>
+        <ul>
+          <li><strong>Exogena con valores enteros:</strong> se redondean los valores exportados para cumplir mejor con los formatos DIAN.</li>
+          <li><strong>Excel y XML alineados:</strong> el ajuste aplica tanto a los archivos Excel como a la generacion XML de Exogena.</li>
+          <li><strong>Menos inconsistencias de formato:</strong> se evita que valores decimales se cuelen en campos que deben ir como enteros.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de exportacion Excel y XML de Exogena para cubrir el redondeo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 30 May 2026 16:11:03 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.4/flipp-setup.exe"
+        sparkle:version="3.3.4"
+        sparkle:shortVersionString="3.3.4"
+        sparkle:dsaSignature="MDwCHD/omrYB2XPf9W+O5Bm4wLZ+qcg9y1BvEpTvB3UCHBtTTlrYwR3AogYEqFqoqzE0CLdw5cpKwSPDIoo="
+        length="27942256"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.3 - Mercado Libre y Encab Nota WO -->
     <item>
       <title>v3.3.3 - Mercado Libre y Encab Nota WO</title>
