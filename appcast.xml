@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.3 - Mercado Libre y Encab Nota WO -->
+    <item>
+      <title>v3.3.3 - Mercado Libre y Encab Nota WO</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.3</h2>
+        <ul>
+          <li><strong>Mercado Libre actualizado:</strong> se soportan los encabezados de exportacion de mayo 2026 para ventas de Mercado Libre.</li>
+          <li><strong>Importacion mas tolerante:</strong> el parser reconoce las nuevas columnas sin romper el flujo tributario existente.</li>
+          <li><strong>World Office mas completo:</strong> se replica la nota del item en Encab Nota para documentos de inventario.</li>
+          <li><strong>Menos edicion manual:</strong> los archivos exportados llevan mas contexto descriptivo para revision y carga en World Office.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de Mercado Libre y exportadores World Office.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 29 May 2026 19:55:58 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.3/flipp-setup.exe"
+        sparkle:version="3.3.3"
+        sparkle:shortVersionString="3.3.3"
+        sparkle:dsaSignature="MDwCHAS4XT4oHdPE6Ps7acl8SSyHYJB5JEYkh+xMBooCHDgx/5rTHGuoCbnTSwtGB3c7TBZclNS+eyhjbvc="
+        length="27946002"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.2 - Exogena nombres e inventario WO -->
     <item>
       <title>v3.3.2 - Exogena nombres e inventario WO</title>
