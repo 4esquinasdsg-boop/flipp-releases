@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.5 - Configuracion Contaii y Helisa -->
+    <item>
+      <title>v3.3.5 - Configuracion Contaii y Helisa</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.5</h2>
+        <ul>
+          <li><strong>Contaii mas configurable:</strong> se agregan codigos de comprobante por prefijo para manejar documentos con numeraciones especificas.</li>
+          <li><strong>Helisa reforzado:</strong> se amplian configuraciones de tipos de documento y mapeos de cuentas para comprobantes.</li>
+          <li><strong>Causacion mas completa:</strong> se ajustan reglas, overrides y detalle de factura para transportar mejor la configuracion contable.</li>
+          <li><strong>Conciliacion bancaria mas practica:</strong> se mejora el detalle de extractos para revisar y trabajar movimientos con mas contexto.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de Contaii, Helisa, clasificacion, conciliacion y exportadores tributarios.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 01 Jun 2026 21:47:56 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.5/flipp-setup.exe"
+        sparkle:version="3.3.5"
+        sparkle:shortVersionString="3.3.5"
+        sparkle:dsaSignature="MDwCHGLOhmoQdMj6ndaSohmYfaFAoehvaPvoXb4ncD8CHHtkjsUszlxq/6HeXzTgTqNPlqaM9IKSSGRunY4="
+        length="27966636"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.4 - Exogena valores enteros -->
     <item>
       <title>v3.3.4 - Exogena valores enteros</title>
