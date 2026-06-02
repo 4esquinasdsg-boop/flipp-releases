@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.6 - ReteFuente 2026 y cuentas -->
+    <item>
+      <title>v3.3.6 - ReteFuente 2026 y cuentas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.6</h2>
+        <ul>
+          <li><strong>ReteFuente 2026 actualizada:</strong> se restablecen umbrales y tramos por fecha para conceptos DIAN de 2026.</li>
+          <li><strong>Causacion mas precisa:</strong> se ajustan reglas y configuraciones de cuentas contables usadas al clasificar facturas.</li>
+          <li><strong>Overrides mas completos:</strong> el detalle de factura transporta mejor la cuenta visible y configuracion contable aplicada.</li>
+          <li><strong>Mantenimiento de cuentas reforzado:</strong> se mejora la conservacion de configuraciones globales y visibles en causacion.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de retencion, clasificacion, cuentas visibles y overrides tributarios.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 02 Jun 2026 14:58:05 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.6/flipp-setup.exe"
+        sparkle:version="3.3.6"
+        sparkle:shortVersionString="3.3.6"
+        sparkle:dsaSignature="MDwCHCfL5SqRS4VDH7kNqWmGBi7S0oV5QJw/AgyBs40CHDoxovkI4Wc/zNVhkreR5lldaEwWWdE8OgDOe70="
+        length="27968257"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.5 - Configuracion Contaii y Helisa -->
     <item>
       <title>v3.3.5 - Configuracion Contaii y Helisa</title>
