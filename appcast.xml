@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.9 - Mercado Libre y terceros WO -->
+    <item>
+      <title>v3.3.9 - Mercado Libre y terceros WO</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.9</h2>
+        <ul>
+          <li><strong>Direcciones Mercado Libre mas limpias:</strong> se eliminan referencias y anotaciones de envio antes de normalizar la direccion.</li>
+          <li><strong>World Office Terceros mas compatible:</strong> se ajustan propiedades de cliente, retencion y tipos de documento para coincidir mejor con la plantilla.</li>
+          <li><strong>Nombres naturales mas confiables:</strong> se mejora el orden de nombres y apellidos cuando Mercado Libre entrega datos separados o con coma.</li>
+          <li><strong>Direcciones WO reforzadas:</strong> se normalizan sufijos como numeros con letra y se evita que referencias de entrega contaminen el campo direccion.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de parser Mercado Libre y exportacion de terceros World Office.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 03 Jun 2026 17:34:13 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.9/flipp-setup.exe"
+        sparkle:version="3.3.9"
+        sparkle:shortVersionString="3.3.9"
+        sparkle:dsaSignature="MDwCHD1QaaoLwFdM9JyeXuEk6rxWcGO0QDR12dt7gWsCHFitGJrNsHWzULa44s+uRrwgZRdmvXbGCaNeqV0="
+        length="28002285"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.8 - Helisa importable y notas credito -->
     <item>
       <title>v3.3.8 - Helisa importable y notas credito</title>
