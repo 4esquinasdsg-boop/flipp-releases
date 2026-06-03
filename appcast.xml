@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.8 - Helisa importable y notas credito -->
+    <item>
+      <title>v3.3.8 - Helisa importable y notas credito</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.8</h2>
+        <ul>
+          <li><strong>Helisa mas importable:</strong> el XLSX de movimientos contables sale sin filas de encabezado ni instrucciones para cargarlo directo en Helisa.</li>
+          <li><strong>NIIF bajo control:</strong> los movimientos NIIF ahora son opcionales; por defecto se exportan solo las lineas locales para evitar duplicados.</li>
+          <li><strong>Movimientos mas seguros:</strong> se normalizan valores negativos, se omiten filas en cero y se balancea el redondeo de un peso para evitar descuadres.</li>
+          <li><strong>Notas credito Helisa:</strong> se puede configurar un tipo DOC especifico para notas credito de compra y venta.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de exportacion Helisa, configuracion y persistencia de ajustes contables.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 03 Jun 2026 16:09:40 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.8/flipp-setup.exe"
+        sparkle:version="3.3.8"
+        sparkle:shortVersionString="3.3.8"
+        sparkle:dsaSignature="MDwCHEE4Sf5u5b4a80sEPR1RsuParR5ah2/YSAfA4VwCHCWOMMzZwX512M+mcwAAEO7OszDFe5mOTC6K3B4="
+        length="27994673"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.7 - Exogena 2276 y Taxxa RADIAN -->
     <item>
       <title>v3.3.7 - Exogena 2276 y Taxxa RADIAN</title>
