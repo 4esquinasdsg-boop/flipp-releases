@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.3.7 - Exogena 2276 y Taxxa RADIAN -->
+    <item>
+      <title>v3.3.7 - Exogena 2276 y Taxxa RADIAN</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.3.7</h2>
+        <ul>
+          <li><strong>Exogena 2276 disponible:</strong> se agrega soporte para el formato de nomina 2276 en reportes, Excel y XML.</li>
+          <li><strong>Validacion Exogena mas accionable:</strong> el formato 1001 muestra errores y avisos con mensajes mas utiles para corregir datos.</li>
+          <li><strong>Descuentos netos en exportadores:</strong> se unifica la politica de descuentos de factura en Avansat, Delta, Helisa, Siigo, Contapyme, Lazaro y SaiOpen.</li>
+          <li><strong>RADIAN Taxxa preparado:</strong> se agrega una integracion oculta para enviar eventos RADIAN por Taxxa y guardar auditoria.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de Exogena, descuentos, exportadores y RADIAN Taxxa.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 03 Jun 2026 08:49:37 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.3.7/flipp-setup.exe"
+        sparkle:version="3.3.7"
+        sparkle:shortVersionString="3.3.7"
+        sparkle:dsaSignature="MD4CHQCkrzUkDUcFbwOYNIzfDg/Fx3qvC7rat4aeRK7SAh0Ah0fGI5lug72VXySmqMNd+3som9j3VYUDqKNryA=="
+        length="27994853"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.6 - ReteFuente 2026 y cuentas -->
     <item>
       <title>v3.3.6 - ReteFuente 2026 y cuentas</title>
