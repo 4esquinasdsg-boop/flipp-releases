@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.0 - ContaPyme rutas robustas -->
+    <item>
+      <title>v3.4.0 - ContaPyme rutas robustas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.0</h2>
+        <ul>
+          <li><strong>ContaPyme mas robusto en Windows:</strong> las exportaciones ya no dependen de que la plataforma entregue la carpeta Documents.</li>
+          <li><strong>Ruta de salida mas estable:</strong> los archivos ContaPyme se guardan por defecto en Flipp Exportaciones / Causacion / ContaPyme.</li>
+          <li><strong>Terceros ContaPyme alineados:</strong> el exportador de terceros usa una carpeta propia dentro de ContaPyme para separar mejor los archivos.</li>
+          <li><strong>Nombres de archivo seguros:</strong> se limpian caracteres no validos en nombres personalizados antes de guardar TXT o XLSX.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas para guardar comprobantes y terceros ContaPyme aun cuando Documents no exista.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 04 Jun 2026 15:33:21 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.0/flipp-setup.exe"
+        sparkle:version="3.4.0"
+        sparkle:shortVersionString="3.4.0"
+        sparkle:dsaSignature="MDwCHCFyfLbCuImXCpO5njDtNbtJHWWFEf59DJUkjjECHB81ncPxp0TDhxO5fHbbsB3zwr5+NkdatYONw7Q="
+        length="28004522"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.3.9 - Mercado Libre y terceros WO -->
     <item>
       <title>v3.3.9 - Mercado Libre y terceros WO</title>
