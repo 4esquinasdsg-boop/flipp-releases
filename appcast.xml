@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.1 - ReteIVA por NIT -->
+    <item>
+      <title>v3.4.1 - ReteIVA por NIT</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.1</h2>
+        <ul>
+          <li><strong>Reglas de ReteIVA por NIT:</strong> ahora se pueden guardar reglas de ReteIVA asociadas a terceros especificos.</li>
+          <li><strong>Preset y cuenta guardados:</strong> la regla conserva tarifa, razon legal y cuenta contable para aplicar ReteIVA en futuras facturas.</li>
+          <li><strong>Aplicacion automatica en causacion:</strong> el motor usa la regla por NIT al clasificar compras o ventas sin cambiar la cuenta base.</li>
+          <li><strong>Control manual preservado:</strong> un override puede desactivar ReteIVA aunque exista una regla por NIT.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas de aplicacion, serializacion y no contaminacion de reglas de retefuente.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 04 Jun 2026 22:31:21 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.1/flipp-setup.exe"
+        sparkle:version="3.4.1"
+        sparkle:shortVersionString="3.4.1"
+        sparkle:dsaSignature="MD4CHQCiuRFK6ynZX1vkgujh2rIpf5KQB8wl2Nmvb1wcAh0Amjx6nU3Ml+HeJEv8s0hNWoIJMYikTu5tFRvMpg=="
+        length="28004864"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.4.0 - ContaPyme rutas robustas -->
     <item>
       <title>v3.4.0 - ContaPyme rutas robustas</title>
