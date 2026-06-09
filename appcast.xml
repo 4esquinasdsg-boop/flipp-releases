@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.2 - DIAN portal y Mercado Libre -->
+    <item>
+      <title>v3.4.2 - DIAN portal y Mercado Libre</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.2</h2>
+        <ul>
+          <li><strong>Descargas DIAN mas resistentes:</strong> se refuerza la descarga HTTP de ZIP con redirecciones controladas, reintentos y deteccion de sesion invalida.</li>
+          <li><strong>Portal DIAN mas estable:</strong> se prepara Chrome con puerto de depuracion y URL de inicio para reconectar mejor al portal.</li>
+          <li><strong>Mercado Libre con direccion correcta:</strong> el parser prioriza el campo domicilio sobre direccion para evitar datos cortos o incompletos.</li>
+          <li><strong>RADIAN Taxxa sigue oculto:</strong> el modulo permanece desactivado mientras se valida el contrato del proveedor, con mejoras internas de configuracion y duplicados.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de descargas DIAN, parser Mercado Libre y flujo Taxxa RADIAN.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 08 Jun 2026 21:56:21 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.2/flipp-setup.exe"
+        sparkle:version="3.4.2"
+        sparkle:shortVersionString="3.4.2"
+        sparkle:dsaSignature="MD0CHQCW1KFNZhuc7Gux56Q8Xfc2a1JPBpq9MY8j6lu+AhwwU6QP54Ym0sMHUh/QaeL49Ip263LWuJmJzyJ5"
+        length="28017601"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.4.1 - ReteIVA por NIT -->
     <item>
       <title>v3.4.1 - ReteIVA por NIT</title>
