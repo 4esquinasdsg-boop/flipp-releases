@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.3 - Helisa razon social opcional -->
+    <item>
+      <title>v3.4.3 - Helisa razon social opcional</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.3</h2>
+        <ul>
+          <li><strong>Helisa mas flexible:</strong> se agrega una opcion para exportar la razon social o nombre del tercero en los comprobantes.</li>
+          <li><strong>Compatibilidad preservada:</strong> la opcion queda apagada por defecto para mantener el formato de columnas actual cuando no se necesita.</li>
+          <li><strong>Configuracion guardada:</strong> el ajuste se conserva por cliente y queda disponible en el dialogo de configuracion de Helisa.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas del exportador, del dialogo de configuracion y de persistencia de la opcion.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 09:47:16 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.3/flipp-setup.exe"
+        sparkle:version="3.4.3"
+        sparkle:shortVersionString="3.4.3"
+        sparkle:dsaSignature="MDwCHACOcaJop3M9SrKdRJSY9YQMJU18tlqjQqXSq/QCHEBWM1Mnqc/5tQzDpd2u4TjifXvOwQEJ8Ji7Xsg="
+        length="28008472"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.4.2 - DIAN portal y Mercado Libre -->
     <item>
       <title>v3.4.2 - DIAN portal y Mercado Libre</title>
