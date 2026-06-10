@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.7 - World Office inventario preciso -->
+    <item>
+      <title>v3.4.7 - World Office inventario preciso</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.7</h2>
+        <ul>
+          <li><strong>Inventario World Office mas preciso:</strong> la exportacion de inventario ignora coincidencias del catalogo de productos cuando no corresponden a la factura.</li>
+          <li><strong>Clasificacion mas estable:</strong> se ajustan reglas de causacion y retenciones para evitar inferencias incorrectas por coincidencias de catalogo.</li>
+          <li><strong>Documentos cloud mejor protegidos:</strong> se refuerza el exportador World Office Cloud para conservar el comportamiento esperado con inventario.</li>
+          <li><strong>Validacion adicional:</strong> se amplian pruebas de inventario, facturas cloud, clasificacion y retenciones.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 10 Jun 2026 15:46:35 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.7/flipp-setup.exe"
+        sparkle:version="3.4.7"
+        sparkle:shortVersionString="3.4.7"
+        sparkle:dsaSignature="MDwCHDAgM1fNZfCH8ZHf8HH0TkuP7dWP21MZkm/J+CQCHDtdK1qoGY9YSGmNtfpiVVvcwDsvJ9ROw3jr+Lc="
+        length="28038444"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.4.6 - World Office notas de inventario -->
     <item>
       <title>v3.4.6 - World Office notas de inventario</title>
