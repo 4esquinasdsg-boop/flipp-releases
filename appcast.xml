@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.6 - World Office notas de inventario -->
+    <item>
+      <title>v3.4.6 - World Office notas de inventario</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.6</h2>
+        <ul>
+          <li><strong>Inventario World Office mas trazable:</strong> las notas de inventario usan la referencia de factura cuando esta disponible.</li>
+          <li><strong>Mejor identificacion documental:</strong> las exportaciones ayudan a relacionar movimientos de inventario con la factura origen.</li>
+          <li><strong>Validacion adicional:</strong> se ajustan pruebas del exportador World Office para cubrir la nueva referencia en notas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 10 Jun 2026 09:34:56 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.6/flipp-setup.exe"
+        sparkle:version="3.4.6"
+        sparkle:shortVersionString="3.4.6"
+        sparkle:dsaSignature="MD4CHQCFEnqKipKP4h/y5AC68HuY6Du1UDxtgWF0+0OyAh0Anrzblm/rex0iWV+NKHv6OX7Tlr1Kk218rNjS4g=="
+        length="28033598"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.4.5 - DIAN recuperacion de recibidas -->
     <item>
       <title>v3.4.5 - DIAN recuperacion de recibidas</title>
