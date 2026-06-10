@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.5 - DIAN recuperacion de recibidas -->
+    <item>
+      <title>v3.4.5 - DIAN recuperacion de recibidas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.5</h2>
+        <ul>
+          <li><strong>Recibidas DIAN mas recuperables:</strong> se mejora la recuperacion del pre-scan cuando el listado de documentos recibidos queda incompleto o se atasca.</li>
+          <li><strong>Menos pendientes falsos:</strong> el proceso cruza mejor paginas parciales y documentos faltantes para evitar marcar como incompleto un lote recuperable.</li>
+          <li><strong>Listados grandes mas estables:</strong> se refuerzan los intentos HTTP de recuperacion antes de abandonar una descarga de recibidas.</li>
+          <li><strong>Estado mas claro:</strong> la interfaz conserva mejor la senal de pre-scan atascado para decidir la ruta de rescate correcta.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 09 Jun 2026 23:08:34 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.5/flipp-setup.exe"
+        sparkle:version="3.4.5"
+        sparkle:shortVersionString="3.4.5"
+        sparkle:dsaSignature="MD0CHHdXL76pYoU3woztMgdtlhaWtcyNvLQGyiPWwRgCHQCKmtL0v76sB7PgbQ8Xywtgc4nACrPnlx4yyEmY"
+        length="28034464"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.4.4 - DIAN descargas mas robustas -->
     <item>
       <title>v3.4.4 - DIAN descargas mas robustas</title>
