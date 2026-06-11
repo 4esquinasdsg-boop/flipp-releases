@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.8 - Conciliacion y CE/CI -->
+    <item>
+      <title>v3.4.8 - Conciliacion y CE/CI</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.8</h2>
+        <ul>
+          <li><strong>Documentos CE/CI mejor tipificados:</strong> los ajustes bancarios se clasifican con tipos de documento mas precisos para comprobantes de egreso e ingreso.</li>
+          <li><strong>Conciliacion bancaria mas clara:</strong> se agregan contadores y estados que ayudan a revisar el avance de la conciliacion.</li>
+          <li><strong>Bases de venta mas flexibles:</strong> las cuentas pasivas configuradas pueden usarse correctamente como base en ventas cuando aplica.</li>
+          <li><strong>Libros contables alineados:</strong> se refuerza el repositorio y la vista de comprobantes para reflejar mejor los tipos de documento.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas de ajustes bancarios, detalle de extractos, libros contables y clasificacion.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 11 Jun 2026 09:00:47 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.8/flipp-setup.exe"
+        sparkle:version="3.4.8"
+        sparkle:shortVersionString="3.4.8"
+        sparkle:dsaSignature="MD0CHE52L5BYsUrNQPsI1yipFBeZYbrKoGZvlJxhhi8CHQCAw8OwXk2AH1cNqh9r3qcX+xaMWJd44ed7dU1H"
+        length="28043060"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.4.7 - World Office inventario preciso -->
     <item>
       <title>v3.4.7 - World Office inventario preciso</title>
