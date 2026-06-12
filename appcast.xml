@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.4.9 - Flujo tributario y Exogena -->
+    <item>
+      <title>v3.4.9 - Flujo tributario y Exogena</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.4.9</h2>
+        <ul>
+          <li><strong>Exogena 1008/1009 mas limpia:</strong> se deduplican terceros por NIT para evitar registros repetidos en los reportes.</li>
+          <li><strong>ICA por factura:</strong> se agrega override municipal de ICA a nivel de factura y se refleja en papeles de trabajo y reportes del cliente.</li>
+          <li><strong>Flujo de importacion y exportacion renovado:</strong> se incorporan estados de trabajo por factura para distinguir mejor lo importado, causado y exportado.</li>
+          <li><strong>Exportacion Siigo ventas:</strong> se suma soporte para generar facturas de venta Siigo desde el nuevo flujo.</li>
+          <li><strong>Clasificacion mas robusta:</strong> se refuerza el motor de causacion, hashes materiales y reglas asociadas al nuevo estado de factura.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas de Exogena, ICA, estados visuales, base de datos, clasificacion y exportacion Siigo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 12 Jun 2026 14:57:20 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.4.9/flipp-setup.exe"
+        sparkle:version="3.4.9"
+        sparkle:shortVersionString="3.4.9"
+        sparkle:dsaSignature="MD0CHAtr01KWi1357jTcPWjqVj1z7b9H7Lgemlhtt2kCHQCeAl7xOevF6usansgGjcFv9UcGjU7sUdhinO6C"
+        length="28084953"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.4.8 - Conciliacion y CE/CI -->
     <item>
       <title>v3.4.8 - Conciliacion y CE/CI</title>
