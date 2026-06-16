@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.5.1 - Declaraciones e inventario refinados -->
+    <item>
+      <title>v3.5.1 - Declaraciones e inventario refinados</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.5.1</h2>
+        <ul>
+          <li><strong>Declaraciones mas claras:</strong> se reorganizan selector, tabs y tarjetas de IVA, ICA y retenciones para revisar periodos con menos friccion.</li>
+          <li><strong>Errores mejor presentados:</strong> se formatean mensajes de declaracion para mostrar causas y acciones de forma mas entendible.</li>
+          <li><strong>Inventario mas robusto:</strong> se refuerza la derivacion incremental y la exportacion Excel para sincronizar y auditar movimientos con mayor estabilidad.</li>
+          <li><strong>Descarga DIAN mas completa:</strong> se ajusta el scraper y se documenta el plan de completitud para mejorar el flujo de descarga.</li>
+          <li><strong>World Office mas estable:</strong> se conserva informacion existente al actualizar mapeos de items y se evitan sobrescrituras innecesarias.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas para mensajes de declaraciones, inventario incremental/exportacion y descarga DIAN directa.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 15 Jun 2026 20:09:22 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.5.1/flipp-setup.exe"
+        sparkle:version="3.5.1"
+        sparkle:shortVersionString="3.5.1"
+        sparkle:dsaSignature="MD0CHQCP5ikkfUaOj6XClsXQboz5c4/OWtcWqC5gIQRqAhxnK4XRAS+P3OHopPzEGGIrKzhzvY5DmOEcqn+O"
+        length="28087120"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.5.0 - IVA y cuentas por item -->
     <item>
       <title>v3.5.0 - IVA y cuentas por item</title>
