@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.5.8 - Exportaciones Siigo y World Office -->
+    <item>
+      <title>v3.5.8 - Exportaciones Siigo y World Office</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.5.8</h2>
+        <ul>
+          <li><strong>Siigo mas preciso:</strong> los lotes mixtos usan el codigo de comprobante correcto para compras, ventas y notas credito.</li>
+          <li><strong>World Office con centros de costo:</strong> las exportaciones de inventario llevan centro de costo por linea cuando la causacion lo tiene asignado.</li>
+          <li><strong>Columnas World Office corregidas:</strong> se ajusta la ubicacion de notas, referencia de documento y detalle del item en compras y ventas.</li>
+          <li><strong>Mensajes de exportacion mas claros:</strong> cuando un lote usa varios comprobantes, el aviso muestra todos los codigos involucrados.</li>
+          <li><strong>Validacion adicional:</strong> se agregan pruebas para exportadores Siigo y World Office.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 01 Jul 2026 18:38:50 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.5.8/flipp-setup.exe"
+        sparkle:version="3.5.8"
+        sparkle:shortVersionString="3.5.8"
+        sparkle:dsaSignature="MDwCHGjj8jihVmZ6/vwFWBvpPT/qN5/9z1P3JS8Q5ckCHEH75xFvRFcXcZXs/sRk9XkOnvOH4BO+vEO3ao8="
+        length="27966498"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.5.7 - Sync DIAN y tokens Taxxa -->
     <item>
       <title>v3.5.7 - Sync DIAN y tokens Taxxa</title>
