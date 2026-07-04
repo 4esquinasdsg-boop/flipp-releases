@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.1 - Compras por API de Siigo -->
+    <item>
+      <title>v3.6.1 - Compras por API de Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.1</h2>
+        <ul>
+          <li><strong>Integracion Siigo API:</strong> se agrega base para enviar facturas de compra causadas directamente a Siigo.</li>
+          <li><strong>Consola interna Siigo:</strong> Flipp puede configurar credenciales, Partner-Id, tipo de comprobante FC y medio de pago por cliente.</li>
+          <li><strong>Envio con revision previa:</strong> el flujo prepara cada compra, muestra advertencias de mapeo y envia con progreso factura por factura.</li>
+          <li><strong>Payload contable automatizado:</strong> la causacion se convierte en items de cuenta, retenciones y pagos para la API de compras de Siigo.</li>
+          <li><strong>Sincronizacion y validacion:</strong> se agrega persistencia local/remota de configuracion Siigo, migraciones y pruebas de cliente, builder y config.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 04 Jul 2026 18:11:02 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.1/flipp-setup.exe"
+        sparkle:version="3.6.1"
+        sparkle:shortVersionString="3.6.1"
+        sparkle:dsaSignature="MDwCHCfDwhd52qCoe2Xxxy2bKLCfmjldkTZXSo1bzFUCHAXbdrs8amU4vdOktt6CvJeisjZXkD8t7y6mdyU="
+        length="28041091"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.0 - Tributario y Taxxa mas estables -->
     <item>
       <title>v3.6.0 - Tributario y Taxxa mas estables</title>
