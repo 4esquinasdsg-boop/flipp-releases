@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.2 - RADIAN masivo y limpieza legacy -->
+    <item>
+      <title>v3.6.2 - RADIAN masivo y limpieza legacy</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.2</h2>
+        <ul>
+          <li><strong>RADIAN masivo:</strong> se agrega envio masivo del flujo estandar (acuse, recibo de bienes/servicios y aceptacion) para facturas visibles a credito.</li>
+          <li><strong>Estados RADIAN mas claros:</strong> cada factura muestra avance RADIAN X/3, evita duplicados y permite completar solo eventos faltantes.</li>
+          <li><strong>Taxxa/RADIAN mas robusto:</strong> el envio prueba primero el evento, carga la factura solo si Taxxa no la encuentra y normaliza hashes CUFE/CUDE.</li>
+          <li><strong>Menos congelamientos:</strong> las recargas de documentos tributarios se agrupan mientras corre la sincronizacion.</li>
+          <li><strong>Limpieza tecnica:</strong> se retira el modulo legacy de declaraciones y se endurecen las configuraciones internas de Taxxa/Siigo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 04 Jul 2026 23:07:37 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.2/flipp-setup.exe"
+        sparkle:version="3.6.2"
+        sparkle:shortVersionString="3.6.2"
+        sparkle:dsaSignature="MD0CHAi9A3fK8FnUENW/h7BaXPEjGbez+Khed7zWOu4CHQCgc9lTL/pTZzAvD9UvLjVDlkZJzW7rIlPsrWX8"
+        length="27947278"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.1 - Compras por API de Siigo -->
     <item>
       <title>v3.6.1 - Compras por API de Siigo</title>
