@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.3 - Compras Siigo con productos -->
+    <item>
+      <title>v3.6.3 - Compras Siigo con productos</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.3</h2>
+        <ul>
+          <li><strong>Compras Siigo con productos:</strong> las compras causadas pueden enviarse usando items de producto para inventario y cuentas contables cuando corresponde.</li>
+          <li><strong>Catalogo Siigo:</strong> la consola interna permite sincronizar productos desde Siigo o importarlos desde Excel, con bodega por defecto y resumen de activos.</li>
+          <li><strong>Revision asistida:</strong> Flipp detecta productos pendientes, sugiere coincidencias y guarda reglas de mapeo por proveedor, linea o cuenta.</li>
+          <li><strong>Excel con CUFE y lineas:</strong> se agrega lectura de listados por linea para conservar codigos, cantidades, impuestos y productos desde la causacion.</li>
+          <li><strong>Conciliacion y libros:</strong> se agregan comprobantes/ajustes desde conciliacion, marcas de documentos ya usados y busqueda mas amplia en comprobantes.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 08 Jul 2026 07:49:27 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.3/flipp-setup.exe"
+        sparkle:version="3.6.3"
+        sparkle:shortVersionString="3.6.3"
+        sparkle:dsaSignature="MDwCHDOtVikeih2mqoXMZvZM8XWMbjyotcZHM0paE7sCHBvibk4eWRY9q9mzYQkVz3KEeDRlgk8LBh3Kz3s="
+        length="28086387"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.2 - RADIAN masivo y limpieza legacy -->
     <item>
       <title>v3.6.2 - RADIAN masivo y limpieza legacy</title>
