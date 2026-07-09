@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.4 - SAP para causacion -->
+    <item>
+      <title>v3.6.4 - SAP para causacion</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.4</h2>
+        <ul>
+          <li><strong>Exportacion SAP:</strong> las compras causadas pueden generar un ZIP con plantillas OPCH/PCH1 y OJDT/JDT1 para SAP.</li>
+          <li><strong>PUC SAP:</strong> Flipp detecta e importa planes de cuentas SAP desde Excel/OOXML dentro del flujo de catalogo PUC.</li>
+          <li><strong>Centros de costo SAP:</strong> el exportador respeta codigos y alias SAP configurados en los centros de costo.</li>
+          <li><strong>Validaciones de plantilla:</strong> se bloquean casos sin soporte SAP vigente, como ventas o notas credito de proveedor, antes de generar archivos incompletos.</li>
+          <li><strong>World Office terceros:</strong> el exportador queda mas robusto al usar opciones validas de la plantilla y manejar mejor documentos/tipos de tercero.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 08 Jul 2026 21:35:31 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.4/flipp-setup.exe"
+        sparkle:version="3.6.4"
+        sparkle:shortVersionString="3.6.4"
+        sparkle:dsaSignature="MD0CHEDDKghWdUH0p36L84TsC2AoUcElptBL2w3YxdkCHQCamjpLJkL5I0yxj/+XMkBZphm9Zzh7TyTw/B4E"
+        length="28101249"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.3 - Compras Siigo con productos -->
     <item>
       <title>v3.6.3 - Compras Siigo con productos</title>
