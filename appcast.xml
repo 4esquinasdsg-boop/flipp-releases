@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.5 - DIAN mas estable y resumen de importacion -->
+    <item>
+      <title>v3.6.5 - DIAN mas estable y resumen de importacion</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.5</h2>
+        <ul>
+          <li><strong>Listados DIAN mas confiables:</strong> se refuerza la lectura de listados grandes o inestables y se detectan huecos antes de descargar.</li>
+          <li><strong>Reintentos Taxxa:</strong> los documentos faltantes del listado DIAN se reintentan automaticamente cuando aplica y se separan los no facturables.</li>
+          <li><strong>Resumen de importacion:</strong> al terminar la consulta se muestra un resumen claro de descargados, omitidos, fallidos y pendientes.</li>
+          <li><strong>Portal DIAN mas resistente:</strong> se ajusta la descarga protegida con verificacion humana, pausas y manejo de limite temporal.</li>
+          <li><strong>Configuracion Taxxa/RADIAN:</strong> se refina el manejo de token y estados para evitar bloqueos por configuracion incompleta.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 10 Jul 2026 09:20:10 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.5/flipp-setup.exe"
+        sparkle:version="3.6.5"
+        sparkle:shortVersionString="3.6.5"
+        sparkle:dsaSignature="5kkd44bn8S532GKAXiQ="
+        length="28212110"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.4 - SAP para causacion -->
     <item>
       <title>v3.6.4 - SAP para causacion</title>
