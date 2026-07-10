@@ -43,7 +43,7 @@
         url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.5/flipp-setup.exe"
         sparkle:version="3.6.5"
         sparkle:shortVersionString="3.6.5"
-        sparkle:dsaSignature="5kkd44bn8S532GKAXiQ="
+        sparkle:dsaSignature="MDwCHHls7OHdf/YI3zXoGghBGYM+o3IoK4lvqBYuIGkCHBBcPufvIw4j5hen14+ygGAxiPx3EZgByMKYH5M="
         length="28212110"
         type="application/octet-stream" />
     </item>
