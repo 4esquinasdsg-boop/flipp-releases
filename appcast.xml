@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.6 - Sincronizacion segura entre equipos -->
+    <item>
+      <title>v3.6.6 - Sincronizacion segura entre equipos</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.6</h2>
+        <ul>
+          <li><strong>Cambios protegidos:</strong> las modificaciones antiguas ya no sobrescriben datos mas recientes guardados desde otro equipo.</li>
+          <li><strong>Trabajo sin conexion:</strong> si falla internet o la nube, los cambios quedan pendientes y se reintentan automaticamente.</li>
+          <li><strong>Mas informacion compartida:</strong> se refuerza la sincronizacion de causacion, reglas, libros, inventario, bancos, RADIAN, Siigo y World Office.</li>
+          <li><strong>ICA por detalle:</strong> ahora se puede configurar una tarifa ICA distinta por cada linea de la factura y recalcular el papel de trabajo.</li>
+          <li><strong>Borrados mas seguros:</strong> clientes, facturas y sus datos relacionados se conservan hasta que la eliminacion sea confirmada en la nube.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 11 Jul 2026 13:57:05 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.6/flipp-setup.exe"
+        sparkle:version="3.6.6"
+        sparkle:shortVersionString="3.6.6"
+        sparkle:dsaSignature="MDwCHFVpzMPLJdyFA6wVjue3Qr9tDri3iHuE7cajFD0CHFUn+IysRUpYGbElI7TGuOgG4EDJ0nbrQmXuETs="
+        length="28455591"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.5 - DIAN mas estable y resumen de importacion -->
     <item>
       <title>v3.6.5 - DIAN mas estable y resumen de importacion</title>
