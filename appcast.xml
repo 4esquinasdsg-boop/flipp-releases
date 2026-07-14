@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.7 - Migracion entre firmas y mejoras tributarias -->
+    <item>
+      <title>v3.6.7 - Migracion entre firmas y mejoras tributarias</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.7</h2>
+        <ul>
+          <li><strong>Migracion entre firmas:</strong> permite seleccionar clientes y copiar facturas, nominas, reglas, bancos, activos y retiros entre firmas propias.</li>
+          <li><strong>Cambio de firma mas estable:</strong> la carga inicial controla tiempos de espera y completa la sincronizacion restante en segundo plano.</li>
+          <li><strong>ReteICA masiva:</strong> se puede activar o desactivar ReteICA para las facturas visibles y reprocesar la causacion filtrada.</li>
+          <li><strong>Resumen DIAN mas claro:</strong> los documentos no compatibles se separan de los pendientes y su listado se puede copiar.</li>
+          <li><strong>Taxxa y Siigo:</strong> se refinan permisos de configuracion, validaciones del documento del proveedor y mensajes de envio de compras.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 14 Jul 2026 15:41:49 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.7/flipp-setup.exe"
+        sparkle:version="3.6.7"
+        sparkle:shortVersionString="3.6.7"
+        sparkle:dsaSignature="MD0CHQCNIFBMZ3tXj62gcEHVIph5rCJ8Suw++xw0KHqGAhwD1epqOU0+2dOiXkq24LGXKuQZSm0LcaDQw13G"
+        length="28483216"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.6 - Sincronizacion segura entre equipos -->
     <item>
       <title>v3.6.6 - Sincronizacion segura entre equipos</title>
