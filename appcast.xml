@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.8 - Causacion agil y reglas ReteICA por NIT -->
+    <item>
+      <title>v3.6.8 - Causacion agil y reglas ReteICA por NIT</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.8</h2>
+        <ul>
+          <li><strong>Revision mas agil:</strong> el detalle permite guardar y avanzar a la siguiente factura, regresar, eliminar y consultar la posicion en el listado.</li>
+          <li><strong>ReteICA por NIT:</strong> la tarifa y la cuenta se pueden guardar como regla reutilizable para las facturas del mismo tercero.</li>
+          <li><strong>Reglas mas consistentes:</strong> se reemplazan configuraciones equivalentes sin acumular duplicados y se controlan mejor los errores de sincronizacion.</li>
+          <li><strong>Exportacion Helisa:</strong> los comprobantes conservan la linea, base y naturaleza de la ReteICA calculada.</li>
+          <li><strong>Avisos persistentes:</strong> los mensajes de procesos como la sincronizacion DIAN permanecen visibles al navegar entre pantallas o dialogos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 14 Jul 2026 21:49:03 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.8/flipp-setup.exe"
+        sparkle:version="3.6.8"
+        sparkle:shortVersionString="3.6.8"
+        sparkle:dsaSignature="MD0CHD2HQ7YCZ7hqZ/JWpeNAcfi8m5FqugdAxNNp4bUCHQCksqsm15HNcPrS8Yj8GVU6N/RdrEr/DRO8cT/H"
+        length="28487724"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.7 - Migracion entre firmas y mejoras tributarias -->
     <item>
       <title>v3.6.7 - Migracion entre firmas y mejoras tributarias</title>
