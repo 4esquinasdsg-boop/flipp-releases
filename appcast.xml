@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.6.9 - Menos memoria y ventas por Siigo -->
+    <item>
+      <title>v3.6.9 - Menos memoria y ventas por Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.6.9</h2>
+        <ul>
+          <li><strong>Menor uso de memoria:</strong> Tributario carga solo los documentos del cliente activo y libera la informacion al salir de la pantalla.</li>
+          <li><strong>Sincronizacion DIAN continua:</strong> las consultas activas siguen avanzando al navegar y el navegador se cierra despues de quedar inactivo.</li>
+          <li><strong>Ventas por Siigo API:</strong> Flipp puede registrar facturas de venta en Siigo, sin timbrarlas ni enviarlas electronicamente.</li>
+          <li><strong>Envio masivo Siigo:</strong> permite seleccionar las facturas filtradas y enviar compras y ventas que tengan su configuracion completa.</li>
+          <li><strong>Causacion mas clara:</strong> se reorganiza el detalle contable, los selectores de cuentas y los ajustes por factura e item.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 16 Jul 2026 00:41:48 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.6.9/flipp-setup.exe"
+        sparkle:version="3.6.9"
+        sparkle:shortVersionString="3.6.9"
+        sparkle:dsaSignature="MDwCHG50ccx2ErH2d6agYQIJca5M4D5qPMOsHap/45wCHAyJO8sWId+TqMkz6JR3RONT8lMjt6oQgRwxnik="
+        length="28598393"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.8 - Causacion agil y reglas ReteICA por NIT -->
     <item>
       <title>v3.6.8 - Causacion agil y reglas ReteICA por NIT</title>
