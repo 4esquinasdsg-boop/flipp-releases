@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.0 - XLS legacy y documentos POS -->
+    <item>
+      <title>v3.7.0 - XLS legacy y documentos POS</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.0</h2>
+        <ul>
+          <li><strong>Importacion XLS legacy:</strong> Flipp abre mas libros antiguos OLE y BIFF para planes de cuentas de Contapyme, Helisa y Syscafe.</li>
+          <li><strong>PUC Syscafe mas compatible:</strong> reconoce encabezados compactos, datos de empresa y NIT, y nuevas formas de marcar las cuentas.</li>
+          <li><strong>Documento equivalente POS:</strong> importa la representacion PDF DIAN con CUDE, adquiriente, vendedor, productos e IVA.</li>
+          <li><strong>World Office mas preciso:</strong> ubica correctamente el documento y la nota del item, y exporta el porcentaje de Impoconsumo.</li>
+          <li><strong>Archivos de terceros:</strong> agrega automaticamente la extension .xlsx en exportaciones World Office de escritorio y Cloud.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.0/flipp-setup.exe"
+        sparkle:version="3.7.0"
+        sparkle:shortVersionString="3.7.0"
+        sparkle:dsaSignature="MD0CHQCippZ9bIRJv6k3Xi2F3+AuIJJbeBnl/1Jln4u/AhxzI1UmIY+1RWaNYgGDdvWBky9YUqej/IbM7Nzk"
+        length="28601092"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.6.9 - Menos memoria y ventas por Siigo -->
     <item>
       <title>v3.6.9 - Menos memoria y ventas por Siigo</title>
