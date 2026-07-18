@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.1 - PUC Syscafe para cualquier software -->
+    <item>
+      <title>v3.7.1 - PUC Syscafe para cualquier software</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.1</h2>
+        <ul>
+          <li><strong>Importacion PUC mas flexible:</strong> los catalogos provenientes de Syscafe se detectan por su contenido, sin depender del software contable configurado para exportar.</li>
+          <li><strong>Configuracion sin cambios:</strong> ya no es necesario cambiar temporalmente el software del cliente para cargar un PUC Syscafe.</li>
+          <li><strong>Compatibilidad conservada:</strong> si el archivo no corresponde a Syscafe, Flipp mantiene la deteccion de formatos Helisa y Contapyme.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 18 Jul 2026 11:22:06 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.1/flipp-setup.exe"
+        sparkle:version="3.7.1"
+        sparkle:shortVersionString="3.7.1"
+        sparkle:dsaSignature="MDwCHBa3p1V+WNS5xXjpXPbc443mve1Ay8Ipm7WUxsYCHAck6XVlJONM7vGQIOO+cUfM9RbGnJhluFVGdlM="
+        length="28592544"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.0 - XLS legacy y documentos POS -->
     <item>
       <title>v3.7.0 - XLS legacy y documentos POS</title>
