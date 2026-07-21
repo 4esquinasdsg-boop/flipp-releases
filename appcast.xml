@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.2 - Retenciones seguras y Siigo estable -->
+    <item>
+      <title>v3.7.2 - Retenciones seguras y Siigo estable</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.2</h2>
+        <ul>
+          <li><strong>Reglas de retefuente mas seguras:</strong> las reglas generales se guardan por NIT con tarifa y cuenta efectiva, evitando reglas incompletas o ambiguas por texto.</li>
+          <li><strong>Correcciones persistentes:</strong> las cuentas y tarifas elegidas manualmente se conservan al reprocesar la causacion.</li>
+          <li><strong>Garantia AIU visible:</strong> la retencion de garantia se muestra en ventas, se incluye en el resumen y se descuenta del valor neto.</li>
+          <li><strong>Siigo mas estable en Windows:</strong> usa la validacion TLS nativa y envia el IVA configurado o tratado como mayor valor dentro de los impuestos.</li>
+          <li><strong>Compras World Office:</strong> el documento interno y la nota de cada item quedan ubicados en las columnas esperadas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.2/flipp-setup.exe"
+        sparkle:version="3.7.2"
+        sparkle:shortVersionString="3.7.2"
+        sparkle:dsaSignature="MDwCHGeXkBin9e/YzbIHWpQNxmXRlYLOtbKbB1n/O3QCHEaNmqkRgAC+R8cL/0Rqpc1E5nfGjUwAuudxYnQ="
+        length="28605037"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.1 - PUC Syscafe para cualquier software -->
     <item>
       <title>v3.7.1 - PUC Syscafe para cualquier software</title>
