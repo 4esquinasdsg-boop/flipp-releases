@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.3 - Documentos POS y sincronizacion segura -->
+    <item>
+      <title>v3.7.3 - Documentos POS y sincronizacion segura</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.3</h2>
+        <ul>
+          <li><strong>Documentos equivalentes POS:</strong> Flipp descarga desde el listado DIAN el XML de documentos POS emitidos y los deja listos para importar.</li>
+          <li><strong>Sincronizacion sin falsos conflictos:</strong> una escritura local antigua se reconoce como confirmada cuando los datos de negocio ya son identicos en la nube.</li>
+          <li><strong>Cambios remotos protegidos:</strong> las diferencias reales y los borrados antiguos siguen tratandose como conflictos para no sobrescribir informacion mas reciente.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 22 Jul 2026 09:58:57 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.3/flipp-setup.exe"
+        sparkle:version="3.7.3"
+        sparkle:shortVersionString="3.7.3"
+        sparkle:dsaSignature="MDwCHCR655JBjTHRmULV51kd1qUDVkpepAxU1i/gOpECHAJ+el7lzSdT+LBIwOwDFzHHhD/gK+td0Cx9RPI="
+        length="28609268"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.2 - Retenciones seguras y Siigo estable -->
     <item>
       <title>v3.7.2 - Retenciones seguras y Siigo estable</title>
