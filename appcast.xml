@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.5 - Aliaddo, TNS y Siesa -->
+    <item>
+      <title>v3.7.5 - Aliaddo, TNS y Siesa</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.5</h2>
+        <ul>
+          <li><strong>Aliaddo y TNS:</strong> agrega importacion de planes de cuentas y exportacion contable de compras y ventas; TNS tambien permite exportar terceros.</li>
+          <li><strong>Siesa para servicios:</strong> genera el archivo de compras y permite configurar proveedor y movimientos por item, con reglas reutilizables por NIT y concepto.</li>
+          <li><strong>Compras Siigo mas precisas:</strong> respeta centros de costo por linea, mejora el manejo del IVA mayor valor y conserva las credenciales durante la sincronizacion.</li>
+          <li><strong>Configuracion contable renovada:</strong> unifica y adapta las pantallas de varios programas para trabajar mejor en ventanas amplias o angostas sin perder valores guardados.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 23 Jul 2026 08:24:13 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.5/flipp-setup.exe"
+        sparkle:version="3.7.5"
+        sparkle:shortVersionString="3.7.5"
+        sparkle:dsaSignature="MD0CHQCPvfjCJ1zctz70rONbzel05gls9y2mGd3XS1CKAhxYFnyUlGlhHZKK1P624Xa693vyDs3USHnMqFUS"
+        length="28689526"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.4 - Listados DIAN mas compatibles -->
     <item>
       <title>v3.7.4 - Listados DIAN mas compatibles</title>
