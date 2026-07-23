@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.6 - Centros de costo e IVA Siigo -->
+    <item>
+      <title>v3.7.6 - Centros de costo e IVA Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.6</h2>
+        <ul>
+          <li><strong>Centro de costo correcto:</strong> las compras Siigo envian el centro general en el nivel requerido y validan su equivalencia contra el catalogo activo.</li>
+          <li><strong>Validacion antes de enviar:</strong> Flipp bloquea una compra si sus items tienen varios centros de costo incompatibles.</li>
+          <li><strong>IVA mayor valor seguro:</strong> conserva el debito base cuando comparte cuenta con el IVA y selecciona la variante de gasto o costo adecuada.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 23 Jul 2026 16:30:56 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.6/flipp-setup.exe"
+        sparkle:version="3.7.6"
+        sparkle:shortVersionString="3.7.6"
+        sparkle:dsaSignature="MD0CHQCJ2UZiK1ApfrANf2uB4QAyceWDgGR47INTtuKEAhxgRBdjzJv+sCr4qWcc7lTwZ+k8NExdPnx5qqZh"
+        length="28691653"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.5 - Aliaddo, TNS y Siesa -->
     <item>
       <title>v3.7.5 - Aliaddo, TNS y Siesa</title>
