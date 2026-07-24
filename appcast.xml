@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.7 - Productos y retenciones Siigo -->
+    <item>
+      <title>v3.7.7 - Productos y retenciones Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.7</h2>
+        <ul>
+          <li><strong>Compras por producto mas precisas:</strong> reconcilia filas contables agrupadas, conserva las referencias correctas y solo envia descuentos que realmente reducen la base.</li>
+          <li><strong>Retenciones mejor asociadas:</strong> aplica la retefuente a los productos que originan la base y selecciona la variante adecuada para persona natural o juridica.</li>
+          <li><strong>Envios protegidos:</strong> identifica bonificaciones con IVA, costos no representables y diferencias que no son simples redondeos antes de alterar la causacion.</li>
+          <li><strong>Integraciones mas claras:</strong> las configuraciones de Siigo y Taxxa, junto con el envio de compras, usan dialogos contables adaptables y conservan sus datos guardados.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.7/flipp-setup.exe"
+        sparkle:version="3.7.7"
+        sparkle:shortVersionString="3.7.7"
+        sparkle:dsaSignature="MDwCHGj0hSltYtJ3reZZ3mrcPHQyETZs5DYPJU5xlncCHHFDHkOhf8eFqG0SAWkzOAgcTRgH142R5Mk8icA="
+        length="28702055"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.6 - Centros de costo e IVA Siigo -->
     <item>
       <title>v3.7.6 - Centros de costo e IVA Siigo</title>
