@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.8 - Centros de costo y Siesa -->
+    <item>
+      <title>v3.7.8 - Centros de costo y Siesa</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.8</h2>
+        <ul>
+          <li><strong>Distribucion por centros:</strong> permite dividir el valor de un item entre varios centros de costo y conserva el reparto en movimientos, impuestos y descuentos.</li>
+          <li><strong>Siesa mas completo:</strong> importa Codigos de Servicio, configura centros de operacion y motivos, y permite elegir el codigo por factura o por item.</li>
+          <li><strong>Envios Siigo mas resistentes:</strong> revisa solo los productos realmente pendientes, evita bodegas en servicios y reintenta sin bodega cuando Siigo no la admite.</li>
+          <li><strong>Referencias protegidas:</strong> normaliza consecutivos largos con ceros iniciales sin truncar numeros que cambiarian la factura del proveedor.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 27 Jul 2026 08:47:24 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.8/flipp-setup.exe"
+        sparkle:version="3.7.8"
+        sparkle:shortVersionString="3.7.8"
+        sparkle:dsaSignature="MDwCHFXALPgk+XK0Wux2e8csxk75QLzKTsytloLZ4n8CHEm2vl5r75Mqvy1jaNRWqIdSFiBz8mq7jfKTEIQ="
+        length="28723832"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.7 - Productos y retenciones Siigo -->
     <item>
       <title>v3.7.7 - Productos y retenciones Siigo</title>
