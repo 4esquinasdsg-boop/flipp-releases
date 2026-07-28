@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.7.9 - Aliaddo API e ICA municipal -->
+    <item>
+      <title>v3.7.9 - Aliaddo API e ICA municipal</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.7.9</h2>
+        <ul>
+          <li><strong>Aliaddo API directa:</strong> configura el token, valida catalogos y envia asientos contables desde Flipp sin perder la exportacion Excel.</li>
+          <li><strong>Envios sin duplicados:</strong> registra cada CUFE enviado y sincroniza el resultado para evitar reenvios desde otro equipo.</li>
+          <li><strong>ICA municipal 2026:</strong> incorpora tarifarios y reglas verificadas para Itagui, Villavicencio, Buga, Cajica, Barbosa, Puerto Carreno, San Martin, Villa del Rosario y Pueblo Rico.</li>
+          <li><strong>Retenciones mas seguras:</strong> respeta bases, calidad tributaria, SIMPLE y reglas municipales sin reutilizar automaticamente la tarifa ICA como ReteICA cuando no corresponde.</li>
+          <li><strong>Compras Siigo corregidas:</strong> distingue descuentos efectivos de valores informativos al preparar productos y conserva las validaciones de costos logisticos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 28 Jul 2026 13:16:36 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.7.9/flipp-setup.exe"
+        sparkle:version="3.7.9"
+        sparkle:shortVersionString="3.7.9"
+        sparkle:dsaSignature="MDwCHEOf9s3GIyZj5a6aQwsNP0dqnRWPFd6ZZ0MMrzwCHCeG2XpULX/fbNkBkz8LNFZc04G8irxhmcl2mRo="
+        length="28801749"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.8 - Centros de costo y Siesa -->
     <item>
       <title>v3.7.8 - Centros de costo y Siesa</title>
