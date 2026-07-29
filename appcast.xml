@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.0 - ICA ampliado y lectura financiera -->
+    <item>
+      <title>v3.8.0 - ICA ampliado y lectura financiera</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.0</h2>
+        <ul>
+          <li><strong>ICA a mayor escala:</strong> amplía el calculo automatico a 500 municipios e incorpora 459 perfiles municipales 2026 con reglas ReteICA, fuentes y referencias normativas.</li>
+          <li><strong>Lectura financiera del periodo:</strong> resume ingresos, compras, nomina, resultado y margen, con comparativos mensuales y principales clientes y proveedores.</li>
+          <li><strong>Siesa por factura y servicio:</strong> permite guardar motivo, centro de operacion y unidad de negocio por factura, crear reglas por NIT y codigo de servicio, y conservar centros de costo por item.</li>
+          <li><strong>Causacion mas predecible:</strong> respeta los amarres PUC y tarifas configuradas en compras, evita clasificaciones semanticas indebidas y aclara las cuentas de IVA, notas credito y retenciones.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 29 Jul 2026 13:31:32 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.0/flipp-setup.exe"
+        sparkle:version="3.8.0"
+        sparkle:shortVersionString="3.8.0"
+        sparkle:dsaSignature="MD0CHHfNmxL2s0jQtx3BztNbQ+cYRi5PX7cfl1iynUMCHQCRgMFEFzu64ZTBEJMHLmCBHngDUcmfxZlSHD2Y"
+        length="28884690"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.7.9 - Aliaddo API e ICA municipal -->
     <item>
       <title>v3.7.9 - Aliaddo API e ICA municipal</title>
