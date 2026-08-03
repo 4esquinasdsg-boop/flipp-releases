@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.1 - Exportaciones, PDF e integraciones -->
+    <item>
+      <title>v3.8.1 - Exportaciones, PDF e integraciones</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.1</h2>
+        <ul>
+          <li><strong>Agil integrado:</strong> importa el plan de cuentas, configura documentos independientes y genera comprobantes contables listos para Agil.</li>
+          <li><strong>Exportaciones contables renovadas:</strong> amplía la configuracion y salida de TNS, y mejora los formatos de Helisa y World Office para impuestos, descuentos y notas credito.</li>
+          <li><strong>Siigo mas completo:</strong> incorpora notas credito y comprobantes contables, mejora los filtros de envio y conserva correctamente bases parciales, referencias y estados.</li>
+          <li><strong>Facturas en PDF:</strong> permite generar documentos con una presentacion profesional, tipografia embebida y datos tributarios mas claros.</li>
+          <li><strong>ICA y ReteICA ampliados:</strong> extiende el catalogo municipal 2026 y mejora la resolucion de tarifas, perfiles y reglas aplicables.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 03 Aug 2026 08:30:56 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.1/flipp-setup.exe"
+        sparkle:version="3.8.1"
+        sparkle:shortVersionString="3.8.1"
+        sparkle:dsaSignature="MD0CHFx0ZPSmFgHWJ4UWSdti/Nm+eCHceTjnwauPlasCHQCViLjiymMb6Z60XMFl1xcC5qUHGEsfA8JOABjV"
+        length="29058113"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.0 - ICA ampliado y lectura financiera -->
     <item>
       <title>v3.8.0 - ICA ampliado y lectura financiera</title>
