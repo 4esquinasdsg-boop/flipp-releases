@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.2 - TNS contable y lectura tributaria -->
+    <item>
+      <title>v3.8.2 - TNS contable y lectura tributaria</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.2</h2>
+        <ul>
+          <li><strong>TNS contable:</strong> incorpora una nueva exportacion TXT por cuentas desde la accion principal, sin exigir articulos; el inventario XLS sigue disponible por separado.</li>
+          <li><strong>PDF DIAN mas preciso:</strong> reconoce notas de ajuste de documento equivalente, referencias y lineas con valor cero sin confundir codigos de producto.</li>
+          <li><strong>Descuentos y cargos correctos:</strong> evita descontar dos veces los ajustes de linea y conserva el subtotal bruto, la base neta y los impuestos.</li>
+          <li><strong>Compras Siigo:</strong> mejora la reconstruccion de bases, descuentos, impuestos y validaciones al preparar productos.</li>
+          <li><strong>Interfaz mas consistente:</strong> incorpora nuevos desplegables y ajustes visuales en los flujos contables.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 04 Aug 2026 08:48:51 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.2/flipp-setup.exe"
+        sparkle:version="3.8.2"
+        sparkle:shortVersionString="3.8.2"
+        sparkle:dsaSignature="MDwCHBCu/TKay5QP4hxxBjOjH27L3hWEUiTwpuKJUkgCHBDKlZbZfsMk19ZxBYs2qZVyHKw+Je4rjZlVXDU="
+        length="29063005"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.1 - Exportaciones, PDF e integraciones -->
     <item>
       <title>v3.8.1 - Exportaciones, PDF e integraciones</title>
