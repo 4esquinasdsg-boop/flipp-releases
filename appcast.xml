@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.3 - TNS XLSX y compras Siigo -->
+    <item>
+      <title>v3.8.3 - TNS XLSX y compras Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.3</h2>
+        <ul>
+          <li><strong>TNS en XLSX real:</strong> la accion principal genera facturacion e inventario en un archivo XLSX compatible, mientras la causacion contable TXT permanece como opcion separada.</li>
+          <li><strong>Impuestos Siigo mas precisos:</strong> asocia IVA e impoconsumo cuando la base corresponde a una o varias lineas contables y evita reutilizar el mismo item para impuestos repetidos.</li>
+          <li><strong>Vencimientos validos:</strong> ignora fechas centinela como 0001-01-01 y usa una fecha segura al preparar compras para Siigo.</li>
+          <li><strong>Diagnosticos de inventario:</strong> diferencia los productos ya mapeados de las lineas contables que requieren corregir cuenta o valor en la causacion.</li>
+          <li><strong>World Office Cloud:</strong> evita trasladar bases y porcentajes de retencion a lineas que no representan una retencion.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Aug 2026 08:20:44 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.3/flipp-setup.exe"
+        sparkle:version="3.8.3"
+        sparkle:shortVersionString="3.8.3"
+        sparkle:dsaSignature="MD0CHQCPJd4CxFrkRoSD9mpZXn/E52A2AdIO2jVTwQ3VAhxUEvF3+LrOfJiCOFnBCqkoj4KXvSlvqI27VU6b"
+        length="29060654"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.2 - TNS contable y lectura tributaria -->
     <item>
       <title>v3.8.2 - TNS contable y lectura tributaria</title>
