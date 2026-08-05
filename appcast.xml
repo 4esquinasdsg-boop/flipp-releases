@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.4 - Aliaddo compras y TNS XLSX -->
+    <item>
+      <title>v3.8.4 - Aliaddo compras y TNS XLSX</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.4</h2>
+        <ul>
+          <li><strong>Compras directas en Aliaddo:</strong> crea facturas de compra por API desde los documentos recibidos, conservando proveedor, productos, descuentos, impuestos, retenciones y vencimiento.</li>
+          <li><strong>Catalogos Aliaddo:</strong> valida productos y terceros, carga centros de costo y permite seleccionar la sucursal y la bodega que recibiran las compras.</li>
+          <li><strong>Envios controlados:</strong> muestra la preparacion y el resultado por factura, registra los documentos aceptados y evita reenviar el mismo CUFE.</li>
+          <li><strong>TNS contable en XLSX:</strong> la accion principal exporta los movimientos por cuentas en la plantilla XLSX sin exigir codigos de articulo.</li>
+          <li><strong>Opciones TNS separadas:</strong> conserva la facturacion e inventario XLSX y el plano contable TXT legado como alternativas independientes.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Aug 2026 10:56:54 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.4/flipp-setup.exe"
+        sparkle:version="3.8.4"
+        sparkle:shortVersionString="3.8.4"
+        sparkle:dsaSignature="MD0CHQCgirJUVuq8Whm5qZBG3WGn02X81TmmVDirujciAhwCb32cDAQGa7juoUn65lCJgs6c6a7h7rkZf1T0"
+        length="29080975"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.3 - TNS XLSX y compras Siigo -->
     <item>
       <title>v3.8.3 - TNS XLSX y compras Siigo</title>
