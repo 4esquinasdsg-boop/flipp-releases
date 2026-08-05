@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.5 - Productos Aliaddo y nomina DIAN -->
+    <item>
+      <title>v3.8.5 - Productos Aliaddo y nomina DIAN</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.5</h2>
+        <ul>
+          <li><strong>Catalogo Aliaddo sincronizado:</strong> descarga los productos de compra, inventario e impuestos y los conserva por empresa.</li>
+          <li><strong>Asignacion guiada de productos:</strong> cuando una linea no coincide, permite buscar o elegir un producto y guardar una regla reutilizable por proveedor.</li>
+          <li><strong>Compras Aliaddo mas seguras:</strong> aplica las reglas guardadas, detecta productos inactivos o ambiguos y revalida cada factura antes de enviarla.</li>
+          <li><strong>Nomina desde Portal DIAN:</strong> agrega el filtro exacto de nomina individual electronica emitida y permite descargar documentos tipo 102 sin mezclar notas de ajuste.</li>
+          <li><strong>Persistencia y sincronizacion:</strong> conserva los catalogos y las reglas Aliaddo para reutilizarlos entre equipos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Aug 2026 14:38:47 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.5/flipp-setup.exe"
+        sparkle:version="3.8.5"
+        sparkle:shortVersionString="3.8.5"
+        sparkle:dsaSignature="MDwCHGDBDqE4OWBzum9fe2I6/7YtS1KJyodysfJmLG0CHHoxslHA7ZRkMcU64U7Sg85bDyLyDhn8HcphTKs="
+        length="29108930"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.4 - Aliaddo compras y TNS XLSX -->
     <item>
       <title>v3.8.4 - Aliaddo compras y TNS XLSX</title>
