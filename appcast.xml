@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.6 - Nomina Delta y balance Siigo -->
+    <item>
+      <title>v3.8.6 - Nomina Delta y balance Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.6</h2>
+        <ul>
+          <li><strong>Nomina para Delta:</strong> agrega exportacion TXT compatible con Delta desde la causacion de nomina, aportes patronales y provisiones.</li>
+          <li><strong>Exportacion consolidada:</strong> permite reunir en un solo archivo Delta todos los tipos de causacion disponibles para el periodo.</li>
+          <li><strong>Datos contables completos:</strong> conserva cuentas, terceros, debitos, creditos, bases y centros de costo en el formato tabulado de Delta.</li>
+          <li><strong>Balance Siigo mas tolerante:</strong> compensa diferencias de redondeo de hasta dos pesos antes de generar los comprobantes.</li>
+          <li><strong>Control de descuadres:</strong> mantiene bloqueada la exportacion Siigo cuando la diferencia real supera el limite permitido.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 05 Aug 2026 17:00:19 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.6/flipp-setup.exe"
+        sparkle:version="3.8.6"
+        sparkle:shortVersionString="3.8.6"
+        sparkle:dsaSignature="MDwCHA6FplcE1JplNRhWnuSIstsR5itbU6C/kOW6dPkCHFVcF2QR7LYQtyCcK6f6486ytJAXH41Ov7gQ7r4="
+        length="29100178"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.5 - Productos Aliaddo y nomina DIAN -->
     <item>
       <title>v3.8.5 - Productos Aliaddo y nomina DIAN</title>
