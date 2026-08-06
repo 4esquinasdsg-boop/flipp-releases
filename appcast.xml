@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.7 - Productos Aliaddo y cargos Siigo -->
+    <item>
+      <title>v3.8.7 - Productos Aliaddo y cargos Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.7</h2>
+        <ul>
+          <li><strong>Catalogos Aliaddo grandes:</strong> sincroniza los productos por paginas, muestra el avance y reanuda automaticamente cuando Aliaddo limita temporalmente las solicitudes.</li>
+          <li><strong>Avance protegido:</strong> conserva cada pagina descargada para no perder los productos obtenidos si la sincronizacion se interrumpe.</li>
+          <li><strong>Productos desde la causacion:</strong> permite buscar y asignar productos Aliaddo directamente en la cuenta de cada item y guardar reglas por factura o proveedor.</li>
+          <li><strong>Cargos de compra configurables:</strong> agrega una cuenta especifica para cargos y recargos globales dentro de la configuracion contable del cliente.</li>
+          <li><strong>Compras Siigo mas claras:</strong> separa los cargos globales de los productos de inventario y explica que cuenta debe corregirse cuando Siigo no puede recibirlos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 06 Aug 2026 00:05:27 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.7/flipp-setup.exe"
+        sparkle:version="3.8.7"
+        sparkle:shortVersionString="3.8.7"
+        sparkle:dsaSignature="MD0CHHJ+FR/D30ECUdbDiIA2nDCPxJhkkiTxHc/hNxoCHQChM+99dRMo7mc3joDCFM74dEoBr2HF/LPenXCD"
+        length="29126538"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.6 - Nomina Delta y balance Siigo -->
     <item>
       <title>v3.8.6 - Nomina Delta y balance Siigo</title>
