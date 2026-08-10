@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.8 - Exportaciones contables y notas Siigo -->
+    <item>
+      <title>v3.8.8 - Exportaciones contables y notas Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.8</h2>
+        <ul>
+          <li><strong>TNS contable actualizado:</strong> genera el XLSX con el formato real de importacion de comprobantes, incluyendo cuentas, naturaleza, terceros, retenciones, documentos, centros y areas.</li>
+          <li><strong>Siigo PYME renovado:</strong> adapta los movimientos al formato de comprobantes con secuencia, cruce, centros de costo y vencimientos.</li>
+          <li><strong>Notas credito de compra en Siigo:</strong> permite resolver productos de inventario e identificar la factura original cuando existe una coincidencia unica.</li>
+          <li><strong>Distribucion operativa en Siesa:</strong> divide servicios, valores y cantidades entre las operaciones asignadas por factura o item.</li>
+          <li><strong>Impuestos separados en World Office:</strong> exporta cada impuesto adicional en su columna correspondiente sin mezclarlos.</li>
+          <li><strong>Datos de terceros mejorados:</strong> recupera razon social legal, nombre comercial y datos de personas desde los XML almacenados.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 10 Aug 2026 13:21:32 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.8/flipp-setup.exe"
+        sparkle:version="3.8.8"
+        sparkle:shortVersionString="3.8.8"
+        sparkle:dsaSignature="MDwCHAJ7BadvvK1iOaHHpOiNz2apZIl1M0FNFrlnBJsCHHnwqch+B+yC38Mf5cIEvE/uhLteTCrtlSpq+/0="
+        length="29110289"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.7 - Productos Aliaddo y cargos Siigo -->
     <item>
       <title>v3.8.7 - Productos Aliaddo y cargos Siigo</title>
