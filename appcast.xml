@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.8.9 - Centros de costo y compras Siigo -->
+    <item>
+      <title>v3.8.9 - Centros de costo y compras Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.8.9</h2>
+        <ul>
+          <li><strong>Centros de costo Siigo PYME:</strong> importa centros y subcentros directamente desde el informe de Siigo y conserva su equivalencia para la causacion.</li>
+          <li><strong>Exportacion Siigo PYME ajustada:</strong> separa centro y subcentro, completa las cuentas a 10 digitos, reinicia la secuencia por comprobante y limpia los comentarios.</li>
+          <li><strong>Consecutivos de compras Siigo:</strong> cuando el comprobante exige numero interno, consulta el siguiente consecutivo y continua el lote de forma automatica.</li>
+          <li><strong>Impoconsumo configurable:</strong> permite elegir el impuesto correcto cuando existen coincidencias ambiguas y explica como crear el impuesto porcentual si falta en Siigo.</li>
+          <li><strong>Mensajes de correccion mas claros:</strong> distingue errores del numero de factura del proveedor, consecutivo interno, centros de costo e impuestos antes de reintentar.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 12 Aug 2026 08:48:49 -05:00</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.8.9/flipp-setup.exe"
+        sparkle:version="3.8.9"
+        sparkle:shortVersionString="3.8.9"
+        sparkle:dsaSignature="MDwCHH4+IT1/qPHa8hmK4uSG8NZRDgV1gwYAG73ovXcCHDpSnlE+UlqxRUAAisn/pmfFIyHPUkLrx5An4cQ="
+        length="29120834"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.8 - Exportaciones contables y notas Siigo -->
     <item>
       <title>v3.8.8 - Exportaciones contables y notas Siigo</title>
