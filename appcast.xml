@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.0 - Centros de costo y ajustes Siigo -->
+    <item>
+      <title>v3.9.0 - Centros de costo y ajustes Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.0</h2>
+        <ul>
+          <li><strong>Centros y subcentros jerarquicos:</strong> administra ciudades y proyectos, importa estructuras de Siigo PYME y migra las equivalencias planas existentes.</li>
+          <li><strong>Distribucion Siesa mas precisa:</strong> asigna centro de costo por destino, conserva el total al redondear a pesos enteros y respeta la prioridad por item, factura y valor predeterminado.</li>
+          <li><strong>Compras Siigo con IVA conciliado:</strong> relaciona bases e impuestos aun con lineas agrupadas o descuentos y solicita confirmacion para ajustes menores del payload.</li>
+          <li><strong>Exportacion Siigo recuperable:</strong> reprocesa la informacion ante descuadres, identifica las facturas afectadas y permite abrirlas o reintentar.</li>
+          <li><strong>Reporte detallado con RADIAN:</strong> agrega una hoja por factura con los eventos y el estado de aceptacion.</li>
+          <li><strong>AIU e interfaz consistentes:</strong> conserva las bases informadas por el emisor, evita duplicados y adapta las acciones de centros de costo a espacios reducidos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 13 Aug 2026 18:43:18 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.0/flipp-setup.exe"
+        sparkle:version="3.9.0"
+        sparkle:shortVersionString="3.9.0"
+        sparkle:dsaSignature="MDwCHGssQmjyJ+FZHuPviiA0o3SNM5GyX63kBFYeKrQCHCcwqsEd4L6gGAgnwTYJU6g8IewtLKl2iXsnEdw="
+        length="29154907"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.8.9 - Centros de costo y compras Siigo -->
     <item>
       <title>v3.8.9 - Centros de costo y compras Siigo</title>
