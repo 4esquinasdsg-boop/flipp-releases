@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.1 - Facturacion electronica y Loggro -->
+    <item>
+      <title>v3.9.1 - Facturacion electronica y Loggro</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.1</h2>
+        <ul>
+          <li><strong>Activacion de facturacion electronica:</strong> habilita empresas desde Flipp, protege las credenciales del proveedor en Vault y sincroniza la verificacion y la resolucion de numeracion.</li>
+          <li><strong>Emision y notas credito mas recuperables:</strong> incorpora numeracion manual, reintentos de documentos rechazados, historial ampliado, artefactos, representacion grafica y correcciones guiadas.</li>
+          <li><strong>Integracion contable con Loggro:</strong> configura empresas, valida maestros y envia comprobantes con control de duplicados y trazabilidad.</li>
+          <li><strong>Plantillas oficiales de Siigo PYME:</strong> genera movimientos contables y terceros sobre los libros XLSX integrados en la aplicacion.</li>
+          <li><strong>Mejoras tributarias y de estabilidad:</strong> refuerza clasificacion, retenciones, sincronizacion, firma, preservacion de datos y navegacion en menus extensos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.1/flipp-setup.exe"
+        sparkle:version="3.9.1"
+        sparkle:shortVersionString="3.9.1"
+        sparkle:dsaSignature="MD0CHB27zNJ92N+5qw46imtJEqqiRY8cOeloPcnn5vACHQCIjZxCWx3ukX/ALRk72PISpsRipVHPxbyQR+y1"
+        length="29884548"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.0 - Centros de costo y ajustes Siigo -->
     <item>
       <title>v3.9.0 - Centros de costo y ajustes Siigo</title>
