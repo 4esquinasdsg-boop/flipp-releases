@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.3 - Impuestos World Office y operacion Siesa -->
+    <item>
+      <title>v3.9.3 - Impuestos World Office y operacion Siesa</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.3</h2>
+        <ul>
+          <li><strong>Cuentas tributarias correctas en World Office:</strong> las lineas de impuestos adicionales usan la cuenta causada para cada tributo y conservan el centro de costo relacionado.</li>
+          <li><strong>Exportacion protegida:</strong> bloquea la compra cuando falta una cuenta causada o cuando el impuesto corresponde a centros de costo incompatibles, evitando distribuciones inventadas.</li>
+          <li><strong>Impuestos DIAN consolidados:</strong> reconoce tipos por codigo y nombre, unifica codigos genericos como ZZ con su impuesto real y evita duplicar valores entre items y cabecera.</li>
+          <li><strong>Retenciones mejor identificadas:</strong> interpreta ReteFuente, ReteIVA y ReteICA aun cuando el facturador utiliza codigos no estandar pero informa un nombre inequívoco.</li>
+          <li><strong>Centro de operacion Siesa por factura:</strong> separa el centro del cabecero y el centro operativo de los movimientos, guardando la seleccion dentro de cada factura.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.3/flipp-setup.exe"
+        sparkle:version="3.9.3"
+        sparkle:shortVersionString="3.9.3"
+        sparkle:dsaSignature="MDwCHFdJVbmANzc0mHSV7oQDneBN5wvcr/xicBJYhB8CHHy+vOGu9QUNWljbhBAcWG2BBIbbJsnYQCUAEJo="
+        length="29898338"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.2 - Impuestos World Office y compras Siigo -->
     <item>
       <title>v3.9.2 - Impuestos World Office y compras Siigo</title>
