@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.4 - Compras Siigo y recuperacion tributaria -->
+    <item>
+      <title>v3.9.4 - Compras Siigo y recuperacion tributaria</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.4</h2>
+        <ul>
+          <li><strong>IVA Siigo mejor conciliado:</strong> agrupa impuestos por tarifa, distribuye redondeos por linea y admite diferencias agregadas controladas en facturas con muchos productos.</li>
+          <li><strong>Impoconsumo por valor:</strong> reconoce el impuesto DIAN de codigo 02 y utiliza la configuracion nominal correspondiente de Siigo para las compras.</li>
+          <li><strong>Proveedores faltantes:</strong> cuando Siigo no encuentra el tercero, Flipp puede crearlo con los datos completos de identificacion, nombre, direccion y municipio disponibles en la factura.</li>
+          <li><strong>Facturas historicas recuperadas:</strong> corrige registros antiguos donde el total quedo almacenado accidentalmente como descuento.</li>
+          <li><strong>Reintentos mas claros:</strong> mejora el manejo de bodegas, pagos, numeraciones existentes y terceros que aun no tienen el rol de proveedor.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.4/flipp-setup.exe"
+        sparkle:version="3.9.4"
+        sparkle:shortVersionString="3.9.4"
+        sparkle:dsaSignature="MDwCHDUgj58ADvELYZ4ewAxqU9qsnZ/3XnAR1ZuHj5ECHCC/T7DtAWDdOWV7D3ORTXoLLvWCkIjE4xBbdW8="
+        length="29906085"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.3 - Impuestos World Office y operacion Siesa -->
     <item>
       <title>v3.9.3 - Impuestos World Office y operacion Siesa</title>
