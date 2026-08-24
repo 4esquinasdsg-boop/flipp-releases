@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.5 - RUT, consultas tributarias y World Office API -->
+    <item>
+      <title>v3.9.5 - RUT, consultas tributarias y World Office API</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.5</h2>
+        <ul>
+          <li><strong>Clientes desde el RUT:</strong> importa datos del PDF, utiliza OCR de Windows cuando es necesario y presenta un flujo de creacion mas completo para identificacion, contacto y perfil tributario.</li>
+          <li><strong>Documentos tributarios mas agiles:</strong> incorpora consultas paginadas, busqueda bajo demanda y filtros eficientes para historiales extensos sin cargar todas las facturas y nominas en memoria.</li>
+          <li><strong>World Office API:</strong> permite configurar la empresa, consultar catalogos, preparar notas contables y crear terceros con confirmacion explicita e idempotencia por firma.</li>
+          <li><strong>Exportaciones contables ampliadas:</strong> agrega la plantilla de terceros para Agil y mejora codigos tributarios, vencimientos y lotes de comprobantes para Siigo.</li>
+          <li><strong>Escritorio renovado:</strong> unifica el marco de la ventana, aprovecha mejor el espacio y compacta clientes, calendario, tareas, dashboard y otras herramientas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 24 Aug 2026 09:20:25 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.5/flipp-setup.exe"
+        sparkle:version="3.9.5"
+        sparkle:shortVersionString="3.9.5"
+        sparkle:dsaSignature="MD0CHQCXFwV84ozBYeoBANNu//Xbbj4bjZYwyGDoPja8Ahw28mvGt47h3z85cz4k+55bV3LRH8HzgbhP1tDX"
+        length="29975483"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.4 - Compras Siigo y recuperacion tributaria -->
     <item>
       <title>v3.9.4 - Compras Siigo y recuperacion tributaria</title>
