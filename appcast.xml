@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.6 - Catalogos PUC y exportaciones completas -->
+    <item>
+      <title>v3.9.6 - Catalogos PUC y exportaciones completas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.6</h2>
+        <ul>
+          <li><strong>Exportaciones tributarias completas:</strong> compras, ventas y terceros ahora se generan con todos los documentos de la consulta filtrada, no solo con los visibles en la pagina actual.</li>
+          <li><strong>Conteos consistentes:</strong> los botones de exportacion muestran la cantidad total de facturas de compra y venta que cumplen los filtros aplicados.</li>
+          <li><strong>Catalogos PUC sincronizados:</strong> al consultar un catalogo, Flipp recarga los datos locales y solicita la sincronizacion cuando aun no estan disponibles.</li>
+          <li><strong>Actualizaciones concurrentes seguras:</strong> las recargas del PUC se procesan en orden para conservar siempre el resultado mas reciente.</li>
+          <li><strong>Terceros para Agil sin truncamientos:</strong> las exportaciones extensas amplian correctamente la plantilla para incluir todos los registros.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 24 Aug 2026 15:16:13 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.6/flipp-setup.exe"
+        sparkle:version="3.9.6"
+        sparkle:shortVersionString="3.9.6"
+        sparkle:dsaSignature="MDwCHAJUAa+o8JOwGhq6lBR6iQR+eBxEnDY8BME0resCHC/ekktcsCsOsadZYmAiFUeTAkgHtvg8qzT0glM="
+        length="29973971"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.5 - RUT, consultas tributarias y World Office API -->
     <item>
       <title>v3.9.5 - RUT, consultas tributarias y World Office API</title>
