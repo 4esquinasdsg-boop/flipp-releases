@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.8 - Filtro Siigo y diagnosticos World Office -->
+    <item>
+      <title>v3.9.8 - Filtro Siigo y diagnosticos World Office</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.8</h2>
+        <ul>
+          <li><strong>Estado Siigo en consultas completas:</strong> permite filtrar documentos enviados y no enviados directamente sobre todos los resultados tributarios paginados.</li>
+          <li><strong>Resultados actualizados:</strong> los cambios y sincronizaciones de envios Siigo invalidan la consulta anterior para mostrar inmediatamente el estado correcto.</li>
+          <li><strong>Cuentas World Office mejor identificadas:</strong> reconoce las respuestas del proveedor que indican una cuenta PUC inexistente y muestra exactamente cual debe crearse o corregirse.</li>
+          <li><strong>Errores mas claros:</strong> conserva codigos y detalles de World Office para diferenciar recursos faltantes de fallas reales de conexion o servicio.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 25 Aug 2026 12:13:41 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.8/flipp-setup.exe"
+        sparkle:version="3.9.8"
+        sparkle:shortVersionString="3.9.8"
+        sparkle:dsaSignature="MD0CHFboVRGzlDNHuAyS2tAZybo67vg2x/QYF/zNu+kCHQCQA17psAjV8WwcjMhHVt+5oQgPY2KE/lj/U+UW"
+        length="29976467"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.7 - Opciones tributarias siempre disponibles -->
     <item>
       <title>v3.9.7 - Opciones tributarias siempre disponibles</title>
