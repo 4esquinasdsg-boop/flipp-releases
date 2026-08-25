@@ -25,6 +25,25 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.7 - Opciones tributarias siempre disponibles -->
+    <item>
+      <title>v3.9.7 - Opciones tributarias siempre disponibles</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.7</h2>
+        <ul>
+          <li><strong>Acceso incluso sin resultados:</strong> el menu de opciones adicionales permanece disponible cuando una consulta tributaria no encuentra documentos.</li>
+          <li><strong>Acciones mejor identificadas:</strong> el antiguo menu de acciones masivas ahora utiliza el nombre Opciones adicionales y un icono mas claro.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 25 Aug 2026 01:20:27 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.7/flipp-setup.exe"
+        sparkle:version="3.9.7"
+        sparkle:shortVersionString="3.9.7"
+        sparkle:dsaSignature="MDwCHEbSXni33v7dRuD8HqKB1COmVB5V8cz5rfDDG4YCHHXkJhEex6sPuzqDmHegpk5CWDiEsCbMgUBzY6Y="
+        length="29977211"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.6 - Catalogos PUC y exportaciones completas -->
     <item>
       <title>v3.9.6 - Catalogos PUC y exportaciones completas</title>
