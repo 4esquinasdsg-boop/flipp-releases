@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 3.9.9 - Sesiones concurrentes e integraciones contables -->
+    <item>
+      <title>v3.9.9 - Sesiones concurrentes e integraciones contables</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 3.9.9</h2>
+        <ul>
+          <li><strong>Accesos simultaneos:</strong> las licencias administran sesiones concurrentes, liberan el cupo al cerrar sesion o la aplicacion y permiten reemplazar una sesion activa de forma explicita.</li>
+          <li><strong>Exportaciones mas controladas:</strong> la seleccion de facturas limita cualquier exportacion o envio por API, no solamente los envios a Siigo.</li>
+          <li><strong>Estado World Office:</strong> permite filtrar documentos enviados y pendientes sobre la consulta tributaria completa y muestra las referencias confirmadas por el proveedor.</li>
+          <li><strong>ReteICA Siigo mas precisa:</strong> relaciona las retenciones por cuenta PUC y tarifa por mil, con diagnosticos claros cuando la configuracion tributaria y la causacion no coinciden.</li>
+          <li><strong>Mayor resiliencia contable:</strong> World Office puede recuperar identificadores de cuentas desde documentos historicos cuando el catalogo remoto falla, e incorpora un formato adicional de importacion de centro de costo y concepto.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 26 Aug 2026 10:52:58 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v3.9.9/flipp-setup.exe"
+        sparkle:version="3.9.9"
+        sparkle:shortVersionString="3.9.9"
+        sparkle:dsaSignature="MDwCHAqeQz18hBHUfFTSF5DhK2QPc3Hzn8bvdmongNYCHDAWR5cTItigkXT4/TV9Ia5EKk9vdClVOnmSkDM="
+        length="30002607"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.8 - Filtro Siigo y diagnosticos World Office -->
     <item>
       <title>v3.9.8 - Filtro Siigo y diagnosticos World Office</title>
