@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.1 - Envios masivos a Loggro -->
+    <item>
+      <title>v4.0.1 - Envios masivos a Loggro</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.1</h2>
+        <ul>
+          <li><strong>Envio masivo nativo:</strong> permite enviar varias facturas en una sola solicitud de comprobantes a Loggro.</li>
+          <li><strong>Configuracion reutilizable:</strong> guarda una sola configuracion Loggro por empresa para compras y ventas, en lugar de repetirla por factura.</li>
+          <li><strong>Valores contables predeterminados:</strong> admite centro de costo, proyecto y tasa de cambio opcionales para preparar los comprobantes del lote.</li>
+          <li><strong>Seleccion y progreso mas claros:</strong> incorpora seleccion total, conteos visibles y seguimiento del lote completo durante el envio.</li>
+          <li><strong>Reenvios protegidos:</strong> ante una respuesta parcial o ambigua, bloquea el reintento automatico hasta verificar manualmente el resultado en Loggro.</li>
+          <li><strong>Contrato simplificado:</strong> elimina el concepto contable de la configuracion y del payload enviado al proveedor.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 27 Aug 2026 13:56:00 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.1/flipp-setup.exe"
+        sparkle:version="4.0.1"
+        sparkle:shortVersionString="4.0.1"
+        sparkle:dsaSignature="MD0CHQCOFR4tvHnSQNddzue2rIrcMyu6BSzcwPPvj3klAhxA2a0pOH5d/4mkJ97Sn5sDrEVRKjHagmpYvfw8"
+        length="29896419"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 4.0.0 - Consultas tributarias y distribucion Siesa -->
     <item>
       <title>v4.0.0 - Consultas tributarias y distribucion Siesa</title>
