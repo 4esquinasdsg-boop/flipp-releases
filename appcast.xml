@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.0 - Consultas tributarias y distribucion Siesa -->
+    <item>
+      <title>v4.0.0 - Consultas tributarias y distribucion Siesa</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.0</h2>
+        <ul>
+          <li><strong>Filtros tributarios mas agiles:</strong> aplicar, cambiar o quitar un filtro ejecuta inmediatamente la consulta, sin exigir una busqueda manual adicional.</li>
+          <li><strong>Resumen sobre todos los resultados:</strong> los desgloses de ventas, compras, ingresos y gastos utilizan el conjunto filtrado completo y no solamente la pagina visible.</li>
+          <li><strong>Cuentas procesadas disponibles antes:</strong> permite filtrar por cuentas ya causadas sin esperar que todo el historial termine de procesarse y muestra sus documentos y lineas reales.</li>
+          <li><strong>Referencias de proveedores restauradas:</strong> sincroniza y muestra los consecutivos confirmados de Siigo, Aliaddo, Loggro y World Office en cada documento.</li>
+          <li><strong>Distribucion Siesa ampliada:</strong> reparte varios codigos de servicio entre multiples destinos operativos, permite repetir destinos y conserva exactamente los totales por codigo y asignacion.</li>
+          <li><strong>Detalle mas comodo:</strong> la ventana de factura utiliza mejor el espacio del area de trabajo y mantiene centrados los controles de causacion.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 27 Aug 2026 00:25:08 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.0/flipp-setup.exe"
+        sparkle:version="4.0.0"
+        sparkle:shortVersionString="4.0.0"
+        sparkle:dsaSignature="MDwCHECw3vph2mExZC9uX4gG9fUcoP/y7leFrRo7emUCHD8ptLL4AjzONsunz4gHV4vxdgk2npCYi2wOVnQ="
+        length="30064152"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 3.9.9 - Sesiones concurrentes e integraciones contables -->
     <item>
       <title>v3.9.9 - Sesiones concurrentes e integraciones contables</title>
