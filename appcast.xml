@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.2 - PUC y exportaciones para Loggro -->
+    <item>
+      <title>v4.0.2 - PUC y exportaciones para Loggro</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.2</h2>
+        <ul>
+          <li><strong>Importacion directa del PUC:</strong> reconoce archivos Excel de Loggro e incorpora sus cuentas al catalogo contable de la empresa.</li>
+          <li><strong>Comprobantes listos para importar:</strong> genera las plantillas XLSX de compras, ventas y notas credito exigidas por Loggro.</li>
+          <li><strong>Contactos compatibles:</strong> exporta clientes y proveedores con la estructura completa de 41 columnas de Loggro.</li>
+          <li><strong>Causacion preservada:</strong> conserva cuentas, impuestos, retenciones y centros de costo definidos por documento e item.</li>
+          <li><strong>Distribuciones detalladas:</strong> reparte proporcionalmente los valores cuando un item utiliza varios centros de costo.</li>
+          <li><strong>Configuracion flexible:</strong> permite definir codigos, prefijos, consecutivos, formas de pago, centro de costo e items de respaldo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 28 Aug 2026 07:37:07 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.2/flipp-setup.exe"
+        sparkle:version="4.0.2"
+        sparkle:shortVersionString="4.0.2"
+        sparkle:dsaSignature="MDwCHGMh9MlC61JPQZxiZMAERmuFSve2liyX+alPjRoCHG9d+rtYVbIO8OidF9041opLtzdmgjryfh659PE="
+        length="29937490"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 4.0.1 - Envios masivos a Loggro -->
     <item>
       <title>v4.0.1 - Envios masivos a Loggro</title>
