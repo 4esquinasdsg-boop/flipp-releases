@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.3 - Sesiones resistentes y sincronizacion confiable -->
+    <item>
+      <title>v4.0.3 - Sesiones resistentes y sincronizacion confiable</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.3</h2>
+        <ul>
+          <li><strong>Sesiones mas resistentes:</strong> recupera una sesion vencida tras cortes temporales cuando el cupo contratado sigue disponible.</li>
+          <li><strong>Sincronizacion Taxxa confiable:</strong> reintenta fallos transitorios de red y reutiliza XML descargados previamente.</li>
+          <li><strong>Documentos recibidos completos:</strong> conserva consecutivos, CUFE y detalles pendientes, incluyendo documentos equivalentes POS emitidos.</li>
+          <li><strong>Datos tributarios sin cruces:</strong> refuerza la deduplicacion por firma, cliente y documento para evitar resultados mezclados.</li>
+          <li><strong>Documento soporte protegido:</strong> comparte la llave idempotente entre reintentos y conserva borradores incompletos sin relajar la validacion de emision.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 29 Aug 2026 15:52:21 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.3/flipp-setup.exe"
+        sparkle:version="4.0.3"
+        sparkle:shortVersionString="4.0.3"
+        sparkle:dsaSignature="MDwCHAyg4WtvGKCLbXYih9byDR/hZHlB+Q6eEtVrqSICHEvXxcZCB6WEI79gJ2Fqrh2fQ4EAhCPNG2ELwGo="
+        length="30101957"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 4.0.2 - PUC y exportaciones para Loggro -->
     <item>
       <title>v4.0.2 - PUC y exportaciones para Loggro</title>
