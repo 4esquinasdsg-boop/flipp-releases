@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.4 - World Office comercial y retenciones verificables -->
+    <item>
+      <title>v4.0.4 - World Office comercial y retenciones verificables</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.4</h2>
+        <ul>
+          <li><strong>Ventas por World Office API:</strong> crea facturas FV con renglones comerciales y verifica encabezado, productos y valores antes de marcarlas como enviadas.</li>
+          <li><strong>Catalogo de productos conectado:</strong> sincroniza inventarios y permite guardar mapeos reutilizables por producto, codigo interno o cuenta PUC.</li>
+          <li><strong>Compras Cloud con inventario:</strong> completa la plantilla de compras World Office con los datos de inventario requeridos.</li>
+          <li><strong>Retenciones verificables:</strong> muestra antes de exportar las retenciones que realmente saldran, incluidas las documentales, sin duplicar autorretenciones.</li>
+          <li><strong>Paquetes de emision sin vencimiento:</strong> los documentos disponibles permanecen vigentes hasta agotar el cupo contratado.</li>
+          <li><strong>Envios Siigo mas resistentes:</strong> corrige diferencias conocidas por pagos netos de retenciones y conserva la misma llave en reintentos tecnicos seguros.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 02 Sep 2026 22:15:07 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.4/flipp-setup.exe"
+        sparkle:version="4.0.4"
+        sparkle:shortVersionString="4.0.4"
+        sparkle:dsaSignature="MDwCHDurx+92sCtjWBTq655FE14UHiBt+qH+sUrb11MCHFnET7o2Lw/S6a7yvOxIgfaPuFGjPtUAA/AroJQ="
+        length="30174274"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 4.0.3 - Sesiones resistentes y sincronizacion confiable -->
     <item>
       <title>v4.0.3 - Sesiones resistentes y sincronizacion confiable</title>
