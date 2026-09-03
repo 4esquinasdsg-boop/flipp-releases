@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.5 - ReteICA y fechas tributarias confiables -->
+    <item>
+      <title>v4.0.5 - ReteICA y fechas tributarias confiables</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.5</h2>
+        <ul>
+          <li><strong>ReteICA coherente:</strong> permite activarla manualmente en compras configuradas y respeta las exclusiones tributarias del cliente y del proveedor.</li>
+          <li><strong>Notas credito completas:</strong> incluye ReteFuente y ReteICA con el signo correcto dentro del resumen financiero.</li>
+          <li><strong>Filtros de fecha precisos:</strong> compara dias calendario sin perder documentos por la hora almacenada.</li>
+          <li><strong>Consultas tributarias reparables:</strong> detecta proyecciones faltantes u huerfanas y reconstruye el indice desde los documentos fuente.</li>
+          <li><strong>Resultados actualizados:</strong> invalida paginas congeladas cuando cambian sincronizaciones, envios o la autoridad del estado de trabajo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 03 Sep 2026 23:24:04 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.5/flipp-setup.exe"
+        sparkle:version="4.0.5"
+        sparkle:shortVersionString="4.0.5"
+        sparkle:dsaSignature="MDwCHGep6owYQtK0TuVwDmMjch2jVylc/2+Mw3bKoTkCHAZx+SRczJRtpwNj3sbR328J2I6eyIL5UtJ5c0M="
+        length="30185212"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 4.0.4 - World Office comercial y retenciones verificables -->
     <item>
       <title>v4.0.4 - World Office comercial y retenciones verificables</title>
