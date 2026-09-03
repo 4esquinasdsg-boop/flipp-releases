@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.6 - Centros de costo y compras Siigo -->
+    <item>
+      <title>v4.0.6 - Centros de costo y compras Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.6</h2>
+        <ul>
+          <li><strong>Centros de costo desde Siigo:</strong> importa centros y subcentros desde los reportes actuales de Siigo, conservando su estado activo o inactivo.</li>
+          <li><strong>Distribucion contable detallada:</strong> permite repartir items entre varios centros de costo y conserva la asignacion por factura.</li>
+          <li><strong>Medio de pago por compra:</strong> selecciona el medio de pago FC de Siigo para una factura especifica sin cambiar la configuracion general.</li>
+          <li><strong>Compras Siigo mas precisas:</strong> conserva referencias largas, tolera pequenas diferencias de tarifa tributaria y explica los rechazos de cuentas relacionadas sin alterar ni reenviar la causacion.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 03 Sep 2026 11:23:55 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.6/flipp-setup.exe"
+        sparkle:version="4.0.6"
+        sparkle:shortVersionString="4.0.6"
+        sparkle:dsaSignature="MD0CHQCG0W0HSOOqlj2ZcLLZeBnvMGSnS5JN3sLOg8I6AhwVBWVIhNZnZvvd2A12us6JAVkMHcingtdC+ckv"
+        length="30031928"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 4.0.5 - ReteICA y fechas tributarias confiables -->
     <item>
       <title>v4.0.5 - ReteICA y fechas tributarias confiables</title>
