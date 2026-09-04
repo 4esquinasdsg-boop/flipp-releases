@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.7 - Centros de costo y descuentos confiables -->
+    <item>
+      <title>v4.0.7 - Centros de costo y descuentos confiables</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.7</h2>
+        <ul>
+          <li><strong>Plantilla de centros de costo:</strong> descarga e importa un formato universal con codigo interno y nombre.</li>
+          <li><strong>Catalogos grandes mas agiles:</strong> importa sin bloquear la interfaz y permite buscar y recorrer los centros por paginas.</li>
+          <li><strong>Descuentos consistentes:</strong> evita descontar dos veces al recuperar facturas y concilia las bases con el IVA y los totales del documento.</li>
+          <li><strong>Consultas historicas actualizadas:</strong> reconstruye el indice tributario con los valores corregidos sin sobrescribir el JSON original.</li>
+          <li><strong>Plantilla integrada de World Office:</strong> incluye una plantilla vacia para exportar ventas y pagos de Mercado Libre sin depender de archivos locales.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 04 Sep 2026 09:30:39 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.7/flipp-setup.exe"
+        sparkle:version="4.0.7"
+        sparkle:shortVersionString="4.0.7"
+        sparkle:dsaSignature="MDwCHFE0voh1ItEAvB7FbDZEBQdYTOkkoX2gx6+kWA8CHHTrNv/d1nqAQgMuIWxRRGCxGgHNBrOAKocF8ew="
+        length="30047982"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 4.0.6 - Centros de costo y compras Siigo -->
     <item>
       <title>v4.0.6 - Centros de costo y compras Siigo</title>
