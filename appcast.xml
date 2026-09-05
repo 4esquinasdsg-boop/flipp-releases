@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.8 - Medios de pago XML para Siigo -->
+    <item>
+      <title>v4.0.8 - Medios de pago XML para Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.8</h2>
+        <ul>
+          <li>Configura equivalencias entre los medios de pago del XML y los de Siigo, independientes para compras y ventas.</li>
+          <li>Conserva la prioridad de la seleccion manual por factura y utiliza el pago predeterminado cuando no existe equivalencia.</li>
+          <li>Respeta el vencimiento requerido por el medio de pago y mantiene independientes las notas credito.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 05 Sep 2026 13:41:59 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.8/flipp-setup.exe"
+        sparkle:version="4.0.8"
+        sparkle:shortVersionString="4.0.8"
+        sparkle:dsaSignature="MDwCHD7yvMAIZFM+M9P2zUdSrtPo4SBCvRHtp8QAACMCHEg96MlhMcRh7b2S0zDDIpkIk1I0ZeI6c00xM1I="
+        length="30038252"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.0.7 - Centros de costo y descuentos confiables -->
     <item>
       <title>v4.0.7 - Centros de costo y descuentos confiables</title>
