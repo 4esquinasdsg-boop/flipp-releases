@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.0 - Exportacion de compras Oracle -->
+    <item>
+      <title>v4.1.0 - Exportacion de compras Oracle</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.0</h2>
+        <ul>
+          <li>Agrega configuracion y exportacion XLSX de facturas de compra para Oracle desde Tributario.</li>
+          <li>Permite importar departamentos y plan de cuentas, configurar reglas de articulos y ajustar datos por factura.</li>
+          <li>Conserva la orden de compra del XML y los ajustes de ciudad e identificadores mediante la persistencia existente.</li>
+          <li>Valida datos incompletos y operaciones no representables antes de exportar. La aceptacion del archivo requiere validacion en Oracle.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 07 Sep 2026 08:11:58 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.0/flipp-setup.exe"
+        sparkle:version="4.1.0"
+        sparkle:shortVersionString="4.1.0"
+        sparkle:dsaSignature="MDwCHBCq2mb95G6U9vO6z5BXVHCHgsnL4y/mKXUtXN4CHHifwb5Lvlwe0BK/asFHu/jSv4IdoCGxZP1RafI="
+        length="30099956"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.0.9 - Mejoras de causacion y control contable -->
     <item>
       <title>v4.0.9 - Mejoras de causacion y control contable</title>
