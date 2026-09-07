@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.0.9 - Mejoras de causacion y control contable -->
+    <item>
+      <title>v4.0.9 - Mejoras de causacion y control contable</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.0.9</h2>
+        <ul>
+          <li>Mejora la resolucion de cuentas de compras por tarifa y la configuracion independiente de notas credito.</li>
+          <li>Corrige validaciones de nomina, terceros y exportaciones contables, y mejora los reportes tributarios.</li>
+          <li>Mejora la navegacion, los centros de costo y los controles de inventario y activos.</li>
+          <li>Refuerza la gestion de accesos de firmas y la proteccion de documentos entre empresas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 07 Sep 2026 07:09:53 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.0.9/flipp-setup.exe"
+        sparkle:version="4.0.9"
+        sparkle:shortVersionString="4.0.9"
+        sparkle:dsaSignature="MD0CHQCYsevdW7eU7r1qR6jafHGcmSqHILhIBGUk1i4zAhwYEnJqWIcX+pzjkMQt6Ip8dGq07yCiR2sdRDIq"
+        length="30080612"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.0.8 - Medios de pago XML para Siigo -->
     <item>
       <title>v4.0.8 - Medios de pago XML para Siigo</title>
