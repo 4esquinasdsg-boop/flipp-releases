@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.2 - Productos y exportaciones contables -->
+    <item>
+      <title>v4.1.2 - Productos y exportaciones contables</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.2</h2>
+        <ul>
+          <li>Integra catalogos y seleccion de productos Oracle y World Office en Causacion y en el detalle de facturas, incluso sin catalogo PUC.</li>
+          <li>Permite consultar facturas a pantalla completa y cancelar descargas DIAN en curso.</li>
+          <li>Corrige exportaciones Siigo PYME, resolucion de ciudades y parejas de centros y subcentros de costo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 08 Sep 2026 15:03:15 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.2/flipp-setup.exe"
+        sparkle:version="4.1.2"
+        sparkle:shortVersionString="4.1.2"
+        sparkle:dsaSignature="MDwCHCgGMcdQFRsE7tJ994nLS48fvOIPYUba3RRdcx4CHDSWbSU4fer0Dcecb2uMvWgnQesWoinaLIoI8eo="
+        length="30242974"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.1 - Procesamiento contable y proteccion local -->
     <item>
       <title>v4.1.1 - Procesamiento contable y proteccion local</title>
