@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.1 - Procesamiento contable y proteccion local -->
+    <item>
+      <title>v4.1.1 - Procesamiento contable y proteccion local</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.1</h2>
+        <ul>
+          <li>Mejora el procesamiento contable por lotes, la consulta tributaria y la reutilizacion de calculos.</li>
+          <li>Refuerza la edicion e intercambio de reglas contables y las validaciones de vigencia de tarifas.</li>
+          <li>Protege sesiones y credenciales locales en Windows y endurece el manejo de archivos XML y conexiones con proveedores.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 08 Sep 2026 08:39:33 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.1/flipp-setup.exe"
+        sparkle:version="4.1.1"
+        sparkle:shortVersionString="4.1.1"
+        sparkle:dsaSignature="MD0CHAlWRfDjYZAp/hmEFkPlRYAIdJjFqnYtM3nCzYECHQClEeAbBFfi+85NYJwbJKlT0A76h8JNpjZ6AscE"
+        length="30179123"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.0 - Exportacion de compras Oracle -->
     <item>
       <title>v4.1.0 - Exportacion de compras Oracle</title>
