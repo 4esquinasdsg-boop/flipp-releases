@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.3 - Productos y ventas World Office Cloud -->
+    <item>
+      <title>v4.1.3 - Productos y ventas World Office Cloud</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.3</h2>
+        <ul>
+          <li>Corrige la persistencia, sincronizacion y recuperacion de productos Oracle y World Office.</li>
+          <li>Mejora las reglas de productos por NIT y su recuperacion en el detalle de factura.</li>
+          <li>Utiliza la plantilla de ventas World Office Cloud en moneda local, con movimientos y pagos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 08 Sep 2026 19:20:26 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.3/flipp-setup.exe"
+        sparkle:version="4.1.3"
+        sparkle:shortVersionString="4.1.3"
+        sparkle:dsaSignature="MD0CHHL3TTxog4SP3kzN02FUXbwhfhm5Yax889DOGyQCHQCWXEtY1sdZVIIz5Qdq7YQAcIShlLPEO+NXDnOF"
+        length="30248158"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.2 - Productos y exportaciones contables -->
     <item>
       <title>v4.1.2 - Productos y exportaciones contables</title>
