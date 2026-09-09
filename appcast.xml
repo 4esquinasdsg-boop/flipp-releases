@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.5 - Cuentas principales de reglas historicas -->
+    <item>
+      <title>v4.1.5 - Cuentas principales de reglas historicas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.5</h2>
+        <ul>
+          <li>Conserva la cuenta principal y la contrapartida de reglas historicas sin alcance explicito.</li>
+          <li>Actualiza la version de los calculos guardados para reconocer la correccion al reprocesar la causacion.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 09 Sep 2026 14:38:29 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.5/flipp-setup.exe"
+        sparkle:version="4.1.5"
+        sparkle:shortVersionString="4.1.5"
+        sparkle:dsaSignature="MD0CHQCi6O5OtOV3ABlf1DF7fcJ+I9nQeDE7OjHU3XmsAhwVwdk8hXtSeGMHfIoZ0M4YTVZCPD0xsaPOhaOy"
+        length="30257273"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.4 - Siigo y exportacion contable -->
     <item>
       <title>v4.1.4 - Siigo y exportacion contable</title>
