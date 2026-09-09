@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.4 - Siigo y exportacion contable -->
+    <item>
+      <title>v4.1.4 - Siigo y exportacion contable</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.4</h2>
+        <ul>
+          <li>Corrige la asignacion de IVA en compras Siigo con distintas tarifas y cuentas compartidas.</li>
+          <li>Agrega validaciones y equivalencias de autorretencion para ventas Siigo.</li>
+          <li>Mejora los codigos de centros de costo en Contaii y la edicion y consulta de facturas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 09 Sep 2026 01:27:33 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.4/flipp-setup.exe"
+        sparkle:version="4.1.4"
+        sparkle:shortVersionString="4.1.4"
+        sparkle:dsaSignature="MD0CHQCAgHN52uKBaiB2BqQegpjAzkZJB8Zhi9O4yLraAhwwmwHlEq2epBNPMNiKRj/ryMzzdOsC8/ll2gpc"
+        length="30256426"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.3 - Productos y ventas World Office Cloud -->
     <item>
       <title>v4.1.3 - Productos y ventas World Office Cloud</title>
