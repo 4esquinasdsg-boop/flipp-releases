@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.6 - IVA Siigo y notas World Office -->
+    <item>
+      <title>v4.1.6 - IVA Siigo y notas World Office</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.6</h2>
+        <ul>
+          <li>Exige equivalencias explicitas de IVA antes de enviar compras a Siigo.</li>
+          <li>Agrega exportacion de notas contables World Office Desktop y conserva la referencia externa de factura.</li>
+          <li>Mejora las opciones de exportacion World Office y la configuracion desde el detalle de factura.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 10 Sep 2026 18:10:31 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.6/flipp-setup.exe"
+        sparkle:version="4.1.6"
+        sparkle:shortVersionString="4.1.6"
+        sparkle:dsaSignature="MDwCHDVktgJOcfy5HFHThWbV9j7+ID/2La94UeAgUbcCHB1RLPnCRgpdPGvbk5W0HCeQgzbt2D/rqhGB/i4="
+        length="30272718"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.5 - Cuentas principales de reglas historicas -->
     <item>
       <title>v4.1.5 - Cuentas principales de reglas historicas</title>
