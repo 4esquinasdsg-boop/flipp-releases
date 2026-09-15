@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.8 - Oracle, observaciones y retenciones -->
+    <item>
+      <title>v4.1.8 - Oracle, observaciones y retenciones</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.8</h2>
+        <ul>
+          <li>Conserva el catalogo de productos y las reglas de equivalencia Oracle.</li>
+          <li>Guarda las observaciones manuales de las facturas.</li>
+          <li>Mejora las equivalencias de retencion por cuenta y tarifa en Siigo.</li>
+          <li>Corrige ReteICA en ventas para cuentas 135510 y evita duplicados en Helisa.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 15 Sep 2026 07:39:11 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.8/flipp-setup.exe"
+        sparkle:version="4.1.8"
+        sparkle:shortVersionString="4.1.8"
+        sparkle:dsaSignature="MDwCHEVfsog1oPo5GLYxvUmwqiSMq5+AzeYBFIvoGjYCHEfl0uZfXL/O0OGOyOXMvl+NS2XJ2uIW7dxaX3U="
+        length="30280685"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.6 - IVA Siigo y notas World Office -->
     <item>
       <title>v4.1.6 - IVA Siigo y notas World Office</title>
