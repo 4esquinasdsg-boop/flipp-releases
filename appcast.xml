@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.1.9 - Historial y retenciones -->
+    <item>
+      <title>v4.1.9 - Historial y retenciones</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.1.9</h2>
+        <ul>
+          <li>Agrega historial de descargas y exportaciones, con busqueda y recuperacion de archivos.</li>
+          <li>Mejora la configuracion de bases minimas y reglas de retencion por concepto e item.</li>
+          <li>Mejora la edicion de facturas y los flujos de integracion contable.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 16 Sep 2026 07:01:27 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.1.9/flipp-setup.exe"
+        sparkle:version="4.1.9"
+        sparkle:shortVersionString="4.1.9"
+        sparkle:dsaSignature="MDwCHCcSUT/SlQrtkFmmK5EGaSRzP3i8f8xu1HztCFYCHEUokwGMqRit91lbW31K8WUyt6ZQIMhAb+LFCvQ="
+        length="30334068"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.8 - Oracle, observaciones y retenciones -->
     <item>
       <title>v4.1.8 - Oracle, observaciones y retenciones</title>
