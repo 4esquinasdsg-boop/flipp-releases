@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.0 - Reglas de articulos Oracle -->
+    <item>
+      <title>v4.2.0 - Reglas de articulos Oracle</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.0</h2>
+        <ul>
+          <li>Permite guardar reglas Oracle por palabra clave y tercero desde el detalle de factura.</li>
+          <li>Distingue las reglas por compra, venta y tipo de documento, conservando la prioridad de la seleccion manual.</li>
+          <li>Utiliza el NIT del emisor como alternativa para Proveedor (Solicitud) cuando no hay un valor configurado.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 16 Sep 2026 22:54:03 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.0/flipp-setup.exe"
+        sparkle:version="4.2.0"
+        sparkle:shortVersionString="4.2.0"
+        sparkle:dsaSignature="MDwCHC+IsdS8Q8yOGQgaBTF7mf5w6YiSqoOG0TQCru0CHBiDtksd4aNo80PEW+y9ituOA6JjiwCJ+CIDZmM="
+        length="30345448"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.1.9 - Historial y retenciones -->
     <item>
       <title>v4.1.9 - Historial y retenciones</title>
