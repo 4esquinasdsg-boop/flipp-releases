@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.1 - Campos Oracle y reglas World Office -->
+    <item>
+      <title>v4.2.1 - Campos Oracle y reglas World Office</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.1</h2>
+        <ul>
+          <li>Mejora la edicion de campos Oracle, sus valores heredados y las reglas por NIT.</li>
+          <li>Permite configurar departamentos por item y avisa de campos Oracle pendientes al exportar.</li>
+          <li>Mejora la gestion y resolucion de reglas de articulos World Office.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 17 Sep 2026 14:21:42 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.1/flipp-setup.exe"
+        sparkle:version="4.2.1"
+        sparkle:shortVersionString="4.2.1"
+        sparkle:dsaSignature="MDwCHDzyIVQkljpmNZuDsy25s+v+cPEIvpF6lfg7KmkCHG6wttPzfbEBl05PinmDsGv4JqObgrQvfG6XtGY="
+        length="30355486"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.0 - Reglas de articulos Oracle -->
     <item>
       <title>v4.2.0 - Reglas de articulos Oracle</title>
