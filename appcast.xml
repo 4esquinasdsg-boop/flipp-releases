@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.2 - Tipos de documento World Office -->
+    <item>
+      <title>v4.2.2 - Tipos de documento World Office</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.2</h2>
+        <ul>
+          <li>Permite configurar los tipos de documento de World Office Desktop.</li>
+          <li>Aplica los tipos configurados a las exportaciones sin alterar prefijos ni consecutivos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 21 Sep 2026 14:10:20 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.2/flipp-setup.exe"
+        sparkle:version="4.2.2"
+        sparkle:shortVersionString="4.2.2"
+        sparkle:dsaSignature="MDwCHBJfKTGEqXcGNzO3t/tzEnHk2S9aFYfZ7EybEFECHE/EMUBVSVpaqPq0cYm1DQbI2uXcEvO/0lle6m4="
+        length="30364804"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.1 - Campos Oracle y reglas World Office -->
     <item>
       <title>v4.2.1 - Campos Oracle y reglas World Office</title>
