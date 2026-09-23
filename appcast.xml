@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.3 - Flujos contables y espacio de clientes -->
+    <item>
+      <title>v4.2.3 - Flujos contables y espacio de clientes</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.3</h2>
+        <ul>
+          <li>Mejora los catalogos y campos Oracle y unifica la configuracion de formatos contables.</li>
+          <li>Refina la navegacion del espacio de clientes y agrega guias contextuales.</li>
+          <li>Mejora la busqueda tributaria, la recuperacion de indices y el manejo de conexiones locales cerradas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 23 Sep 2026 08:52:58 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.3/flipp-setup.exe"
+        sparkle:version="4.2.3"
+        sparkle:shortVersionString="4.2.3"
+        sparkle:dsaSignature="MDwCHDiBvsh8q4tFd+FyuV3KSHUs6VPIfABNyB6VGEICHECj9kjei2brkCQojKnBqRrjbaCCZopkWRPB7LY="
+        length="30393490"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.2 - Tipos de documento World Office -->
     <item>
       <title>v4.2.2 - Tipos de documento World Office</title>
