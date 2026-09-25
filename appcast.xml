@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.4 - Perfil tributario del cliente -->
+    <item>
+      <title>v4.2.4 - Perfil tributario del cliente</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.4</h2>
+        <ul>
+          <li>Mejora la organizacion y los selectores del perfil tributario del cliente.</li>
+          <li>Agrupa ICA, configuraciones especiales y responsabilidades DIAN en secciones desplegables.</li>
+          <li>Corrige conflictos al conservar el desplazamiento de los campos y mejora la navegacion del cliente.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 25 Sep 2026 08:38:48 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.4/flipp-setup.exe"
+        sparkle:version="4.2.4"
+        sparkle:shortVersionString="4.2.4"
+        sparkle:dsaSignature="MD0CHHKLXEJUJDQSzRhto+/ebCFp1awxvhnhUKl/GpkCHQCL2m3zw+BQhs6CdZ8B/G078e9iemOvp+KtrBRX"
+        length="30394887"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.3 - Flujos contables y espacio de clientes -->
     <item>
       <title>v4.2.3 - Flujos contables y espacio de clientes</title>
