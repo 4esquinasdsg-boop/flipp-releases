@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.5 - Nomina y flujos contables -->
+    <item>
+      <title>v4.2.5 - Nomina y flujos contables</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.5</h2>
+        <ul>
+          <li>Mejora la lectura de nomina electronica, sus conceptos y exportaciones contables.</li>
+          <li>Refina el manejo de terceros y productos en las integraciones Siigo, Siesa y World Office.</li>
+          <li>Mejora los flujos de facturas, el calendario y el panel principal.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 28 Sep 2026 01:07:06 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.5/flipp-setup.exe"
+        sparkle:version="4.2.5"
+        sparkle:shortVersionString="4.2.5"
+        sparkle:dsaSignature="MDwCHBlInuxFXyAX/Bc3rrsxlfSLiQ8fHJevGDP2E6ECHErYkg5EKnhGKaEQOKLUAlAaFn3hPXrss7Iv/S8="
+        length="30428908"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.4 - Perfil tributario del cliente -->
     <item>
       <title>v4.2.4 - Perfil tributario del cliente</title>
