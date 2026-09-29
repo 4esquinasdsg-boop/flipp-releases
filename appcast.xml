@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.6 - Productos, Siigo y modulos contables -->
+    <item>
+      <title>v4.2.6 - Productos, Siigo y modulos contables</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.6</h2>
+        <ul>
+          <li>Agrega el modo de productos en causacion y mejora la seleccion e importacion de catalogos.</li>
+          <li>Mejora los codigos de impuestos y el manejo de envios de compras Siigo.</li>
+          <li>Actualiza las interfaces de libros contables, conciliacion y exogena.</li>
+          <li>Agrega acceso al tutorial de certificado.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 29 Sep 2026 16:17:24 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.6/flipp-setup.exe"
+        sparkle:version="4.2.6"
+        sparkle:shortVersionString="4.2.6"
+        sparkle:dsaSignature="MDwCHCVAEU9Do6CbolsIkvjqsPSJbdJK/74YuTT0JQYCHFZReNqCngkNCslLINEqYIjny8laFMXTKifBXA8="
+        length="30483291"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.5 - Nomina y flujos contables -->
     <item>
       <title>v4.2.5 - Nomina y flujos contables</title>
