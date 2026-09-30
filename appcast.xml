@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.8 - Global Software y mejoras Siigo -->
+    <item>
+      <title>v4.2.8 - Global Software y mejoras Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.8</h2>
+        <ul>
+          <li>Agrega exportacion contable y de cuentas por pagar a Global Software en Excel 5.0/95.</li>
+          <li>Incluye configuracion de Global Software e importacion de su plan de cuentas.</li>
+          <li>Mejora los mensajes de configuracion, impuestos y errores en los flujos Siigo.</li>
+          <li>Ajusta el dialogo para reactivar retenciones en una factura y aclara los errores de exportacion.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 30 Sep 2026 13:40:01 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.8/flipp-setup.exe"
+        sparkle:version="4.2.8"
+        sparkle:shortVersionString="4.2.8"
+        sparkle:dsaSignature="MD0CHGClpIPAogBP9W9Z320+ufA+00mYQH4qxTQ1t8kCHQCB8EM5O1QbCMDTS5YOBBM4UgI6i9YMmgGOC+A6"
+        length="30791464"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.7 - Oracle y guias en video -->
     <item>
       <title>v4.2.7 - Oracle y guias en video</title>
