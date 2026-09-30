@@ -25,6 +25,27 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.7 - Oracle y guias en video -->
+    <item>
+      <title>v4.2.7 - Oracle y guias en video</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.7</h2>
+        <ul>
+          <li>Mejora la exportacion Oracle: impuestos, redondeos y campos pendientes.</li>
+          <li>Agrega catalogos precargados y seleccion de articulo y departamento en el detalle Oracle.</li>
+          <li>Renueva las guias en video e incorpora el tutorial de exportacion a Siigo Contador.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 30 Sep 2026 02:40:22 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.7/flipp-setup.exe"
+        sparkle:version="4.2.7"
+        sparkle:shortVersionString="4.2.7"
+        sparkle:dsaSignature="MD0CHQCF1SHF0zCjQMBto5C0i8QdMD1h0YTSxG8cdaPqAhwxROvKfl92odb5cGm/ObEllKZLudhJBAIyaEQj"
+        length="30747226"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.6 - Productos, Siigo y modulos contables -->
     <item>
       <title>v4.2.6 - Productos, Siigo y modulos contables</title>
