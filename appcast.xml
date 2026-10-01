@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.2.9 - Nomina, IVA y exportaciones -->
+    <item>
+      <title>v4.2.9 - Nomina, IVA y exportaciones</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.2.9</h2>
+        <ul>
+          <li>Mejora la lectura de nomina, prestaciones y ajustes, y agrega configuracion de comprobantes de nomina para Helisa.</li>
+          <li>Agrega detalle de IVA y exclusion de cuentas en reportes contables.</li>
+          <li>Corrige ubicaciones, notas y caracteres en la exportacion Oracle.</li>
+          <li>Agrega la opcion de exportar retenciones como lineas en World Office escritorio, desactivada por defecto.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 01 Oct 2026 16:25:21 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.2.9/flipp-setup.exe"
+        sparkle:version="4.2.9"
+        sparkle:shortVersionString="4.2.9"
+        sparkle:dsaSignature="MD0CHAwCU4CmhCBB2Dl8OpHF8V0SxORqCpjMcTauO3YCHQCSYUxW3VM7SaNrWcp1+8+l2PCUEmFxLH+5bqJT"
+        length="30815893"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.2.8 - Global Software y mejoras Siigo -->
     <item>
       <title>v4.2.8 - Global Software y mejoras Siigo</title>
