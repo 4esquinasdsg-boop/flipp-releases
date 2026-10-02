@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.3.1 - Lectura AIU y compras Siigo -->
+    <item>
+      <title>v4.3.1 - Lectura AIU y compras Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.3.1</h2>
+        <ul>
+          <li>Agrega lectura AIU desde las facturas y su discriminacion de IVA.</li>
+          <li>Permite configurar cuentas contables para los componentes AIU y su IVA.</li>
+          <li>Ajusta la causacion y el detalle de facturas para los valores AIU.</li>
+          <li>Alinea el envio de compras Siigo con la base e IVA AIU, sin confundirlos con descuentos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 02 Oct 2026 09:36:13 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.3.1/flipp-setup.exe"
+        sparkle:version="4.3.1"
+        sparkle:shortVersionString="4.3.1"
+        sparkle:dsaSignature="MD0CHHKKdKbYY4rBnEbpHvBewYgTElALHQgq6l2yM48CHQCRlXBneHf+0wMGQ61/ml1611mtC30u3+jQvAKo"
+        length="30865782"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.3.0 - Inventario Syscafe y World Office -->
     <item>
       <title>v4.3.0 - Inventario Syscafe y World Office</title>
