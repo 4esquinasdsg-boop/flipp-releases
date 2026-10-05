@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.3.2 - Inicio guiado y conexion DIAN -->
+    <item>
+      <title>v4.3.2 - Inicio guiado y conexion DIAN</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.3.2</h2>
+        <ul>
+          <li>Crea automaticamente la firma de usuarios nuevos y permite al propietario renombrarla.</li>
+          <li>Renueva la guia inicial para crear el primer cliente y conectar la DIAN.</li>
+          <li>Actualiza el tutorial de conexion DIAN.</li>
+          <li>Ajusta la unidad de medida y la tarifa de IVA en compras con inventario de World Office Cloud.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 08:34:45 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.3.2/flipp-setup.exe"
+        sparkle:version="4.3.2"
+        sparkle:shortVersionString="4.3.2"
+        sparkle:dsaSignature="MDwCHGdElsJe8FKd8SaRCIJPBBNmQXkWkarFADWSTRcCHA2fQWctQCb4ZZM4g5j3enDivZcMCwHQKE6mCA8="
+        length="30877414"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.3.1 - Lectura AIU y compras Siigo -->
     <item>
       <title>v4.3.1 - Lectura AIU y compras Siigo</title>
