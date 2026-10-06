@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.3.3 - Reglas de IVA, retenciones y Oracle -->
+    <item>
+      <title>v4.3.3 - Reglas de IVA, retenciones y Oracle</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.3.3</h2>
+        <ul>
+          <li>Las reglas por palabra clave conservan la cuenta de IVA del item.</li>
+          <li>Corregir la retefuente de un item conserva la tarifa general en los demas.</li>
+          <li>Permite registrar terceros en el catalogo Oracle desde el detalle de factura.</li>
+          <li>Mejora el resaltado de la guia inicial para no cubrir los controles.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 05 Oct 2026 22:12:27 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.3.3/flipp-setup.exe"
+        sparkle:version="4.3.3"
+        sparkle:shortVersionString="4.3.3"
+        sparkle:dsaSignature="MD0CHBpJBfeYeyzJQCE4kApl/4hMvmWWCESMjqXunNgCHQCR7AmZ0JhpiIf+yfG8psGF4PSvjI+rb45uWspB"
+        length="30892672"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.3.2 - Inicio guiado y conexion DIAN -->
     <item>
       <title>v4.3.2 - Inicio guiado y conexion DIAN</title>
