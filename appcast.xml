@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.3.4 - Integridad de descargas DIAN -->
+    <item>
+      <title>v4.3.4 - Integridad de descargas DIAN</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.3.4</h2>
+        <ul>
+          <li>Mejora el seguimiento y reintento de documentos pendientes en descargas del Portal DIAN.</li>
+          <li>Divide los listados por tramos de fechas e importa documentos mientras avanza la descarga.</li>
+          <li>Distingue los errores de consulta de un resultado realmente vacio y trata las caidas de red como fallos transitorios.</li>
+          <li>Importa XML por lotes durante la descarga con certificado Taxxa.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 06 Oct 2026 08:19:43 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.3.4/flipp-setup.exe"
+        sparkle:version="4.3.4"
+        sparkle:shortVersionString="4.3.4"
+        sparkle:dsaSignature="MD0CHQCcHh+5v5X3ugnY+r5024nvBapDgMKHUG5ePS/IAhxCR1DZWifp8fo0dxAOhTC37MQvRs8inCItJg9r"
+        length="30904230"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.3.3 - Reglas de IVA, retenciones y Oracle -->
     <item>
       <title>v4.3.3 - Reglas de IVA, retenciones y Oracle</title>
