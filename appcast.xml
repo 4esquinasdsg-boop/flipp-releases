@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.3.6 - Compras Siigo y tarifas de reteICA -->
+    <item>
+      <title>v4.3.6 - Compras Siigo y tarifas de reteICA</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.3.6</h2>
+        <ul>
+          <li>Mejora el tratamiento de impuestos, bases y redondeos al enviar compras a Siigo.</li>
+          <li>Presenta mensajes mas claros para errores de Siigo y de conexion.</li>
+          <li>Conserva las tarifas nominales de reteICA al guardar y aplicar reglas.</li>
+          <li>Las lineas sin centro de costo propio heredan el de la factura al exportar a Lazaro.</li>
+          <li>Actualiza el calendario tributario y las bases minimas configuradas de retefuente.</li>
+          <li>Ordena las facturas importadas de antiguas a recientes por defecto.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 07 Oct 2026 14:02:47 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.3.6/flipp-setup.exe"
+        sparkle:version="4.3.6"
+        sparkle:shortVersionString="4.3.6"
+        sparkle:dsaSignature="MDwCHDKaBF59y5e4xWiWZtUpHGdTRS/RGewENAyzwaoCHDxwEe4CMsG8TwjXb3QcgSjkQhih42NycadtRRU="
+        length="30940270"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.3.5 - Credenciales y retenciones -->
     <item>
       <title>v4.3.5 - Credenciales y retenciones</title>
