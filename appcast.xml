@@ -25,6 +25,35 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.0 - Descarga DIAN en la nube -->
+    <item>
+      <title>v4.4.0 - Descarga DIAN en la nube</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.0</h2>
+        <ul>
+          <li>La descarga del Portal DIAN ahora se hace en la nube: puedes salir de la ficha del cliente o cerrar Flipp y la descarga sigue. Al volver, Flipp retoma el progreso.</li>
+          <li>Nueva ventana de descarga: eliges tipo y periodo, pides el enlace y pegas el que llega al correo. El enlace se reutiliza mientras siga vigente.</li>
+          <li>La lista de Clientes marca los clientes con una descarga DIAN en curso.</li>
+          <li>El historial de descargas registra lo que realmente entro, tambien en las cargas de archivos.</li>
+          <li>Los acuses de recibo y eventos ya no se descargan como documentos; se informan como omitidos.</li>
+          <li>Corrige el congelamiento al terminar descargas grandes.</li>
+          <li>Abrir portal queda en Certificado digital.</li>
+          <li>Pantalla de Firmas renovada: tabla de firmas, equipo por pestanas, invitar y unirse con codigo.</li>
+          <li>Respaldos de la base mas livianos y seguros.</li>
+          <li>La lista de clientes carga mas rapido.</li>
+          <li>Se retira el Impresor por lotes.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 10 Oct 2026 11:03:41 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.0/flipp-setup.exe"
+        sparkle:version="4.4.0"
+        sparkle:shortVersionString="4.4.0"
+        sparkle:dsaSignature="MD0CHQCgd6Bmb7sRprqLpT3xxZ8UnMRgdyTISxgGty/6Ahx0A9o9Vb+sJBq6CfjZM9V4sUiNxUmxMusF4aqK"
+        length="24721675"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.3.6 - Compras Siigo y tarifas de reteICA -->
     <item>
       <title>v4.3.6 - Compras Siigo y tarifas de reteICA</title>
