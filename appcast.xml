@@ -25,6 +25,39 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.1 - Exportacion contable y sincronizacion -->
+    <item>
+      <title>v4.4.1 - Exportacion contable y sincronizacion</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.1</h2>
+        <ul>
+          <li>Al exportar a Siigo y a los demas programas contables, si una factura tiene centro de costo, todas sus lineas lo llevan: el IVA, las retenciones y la cuenta por pagar toman el del gasto principal. Siigo ya no rechaza estos comprobantes.</li>
+          <li>ReteICA: nueva opcion "Otra tarifa..." en el detalle de la factura para escribir una tarifa que no esta en la lista. Se agrega la tarifa de 1,8 x 1000.</li>
+          <li>Perfil tributario: nuevo campo de sobretasa bomberil como porcentaje del ICA. El reporte de ICA municipal la liquida y la muestra en su columna.</li>
+          <li>Datos del cliente: tipo de documento del representante legal (cedula de extranjeria y otros) para la descarga DIAN.</li>
+          <li>Descarga DIAN: si quedan documentos sin bajar, Flipp los reintenta solo mientras el enlace siga vigente. Una descarga incompleta se marca como tal en el historial, con cuanto bajo y cuanto falta.</li>
+          <li>Descarga DIAN mas estable: funciona para personas naturales y ya no se cae por un error en un solo documento ni por un corte de conexion.</li>
+          <li>Los libros contables se comparten entre los miembros de la firma.</li>
+          <li>La sincronizacion corre en segundo plano durante la sesion, con un indicador en el panel lateral. Los cambios quedan guardados en el equipo aunque la nube tarde en recibirlos.</li>
+          <li>Una caida momentanea de internet ya no cierra la sesion ni hace perder cambios.</li>
+          <li>Flipp abre una sola ventana: abrirlo de nuevo trae al frente la que ya esta abierta.</li>
+          <li>Compras a Siigo: se avisa antes de enviar si un producto ya no existe en Siigo.</li>
+          <li>Corrige el recargo de detalle que se sumaba dos veces en algunas facturas (por ejemplo, Colanta).</li>
+          <li>Abrir la pestana de Activos ya no activa el inventario del cliente por su cuenta.</li>
+          <li>Los XML de facturas que no se pudieron subir se reintentan automaticamente.</li>
+          <li>Mas rapido: exportar libros a PDF, el catalogo de terceros, la base de datos y la carga de inventario y nomina.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 13 Oct 2026 17:31:39 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.1/flipp-setup.exe"
+        sparkle:version="4.4.1"
+        sparkle:shortVersionString="4.4.1"
+        sparkle:dsaSignature="MDwCHGZsNoP/OiNmsiL2O9CnkkrNNU9uuIo64PhZNLQCHB5IHUJq0ui+85DFb1lokgAfxo5G/mwHFnio/6Q="
+        length="24913038"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.0 - Descarga DIAN en la nube -->
     <item>
       <title>v4.4.0 - Descarga DIAN en la nube</title>
