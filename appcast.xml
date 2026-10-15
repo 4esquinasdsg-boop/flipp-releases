@@ -25,6 +25,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.2 - Reglas de causacion y exportaciones -->
+    <item>
+      <title>v4.4.2 - Reglas de causacion y exportaciones</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.2</h2>
+        <ul>
+          <li>Reglas de causacion mas precisas: las palabras clave coinciden con palabras completas y gana la regla mas especifica.</li>
+          <li>ReteICA: cuando falta la actividad del proveedor se muestra un aviso para revisar la tarifa, sin bloquear la exportacion. Permite guardar la regla "No genera ReteICA" por tercero.</li>
+          <li>Mejora la conservacion de cuentas, terceros e impuestos al guardar reglas por item. El IVA retirado manualmente ya no reaparece.</li>
+          <li>Alinea las lineas del asiento entre los programas contables y corrige el tratamiento de descuentos, retenciones e IVA llevado al gasto en exportaciones y exogena.</li>
+          <li>Siigo muestra avisos mas claros cuando el IVA esta en otra cuenta y permite volver a usar la cuenta de la configuracion.</li>
+          <li>Menor uso de memoria al leer XML y una importacion DIAN mas fluida mientras los archivos se suben a la nube.</li>
+          <li>Nueva opcion "Recordarme" para elegir entre las cuentas guardadas en este equipo al iniciar sesion.</li>
+          <li>Facturacion electronica: conserva los prefijos de resolucion al activar y permite ajustar el consecutivo de facturas de venta.</li>
+          <li>Incorpora planes con cupo de documentos y avisos de consumo. El panel de administracion mejora el seguimiento de planes y descargas por fuente.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 15 Oct 2026 06:49:51 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.2/flipp-setup.exe"
+        sparkle:version="4.4.2"
+        sparkle:shortVersionString="4.4.2"
+        sparkle:dsaSignature="MDwCHBHDGoNKCNCh/gwUS7SEgpT16jnTcwGV3OhQ4oICHHZauH5ZrYCfhcFfLi2SpLppbLJFd3W0Gb+gA7M="
+        length="24971278"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.1 - Exportacion contable y sincronizacion -->
     <item>
       <title>v4.4.1 - Exportacion contable y sincronizacion</title>
