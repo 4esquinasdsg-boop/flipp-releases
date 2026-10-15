@@ -25,6 +25,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.3 - Guias, Oracle y Siigo Pyme -->
+    <item>
+      <title>v4.4.3 - Guias, Oracle y Siigo Pyme</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.3</h2>
+        <ul>
+          <li>Nuevo modulo Guias con instrucciones escritas y videos organizados por tema dentro de Flipp.</li>
+          <li>Siigo Pyme permite definir el consecutivo inicial por tipo de documento y elegir la numeracion original de compras y ventas.</li>
+          <li>Oracle permite exportar en US Dollar usando la TRM declarada en el XML, tambien para facturas ya importadas.</li>
+          <li>El detalle exportado vuelve a conservar la descripcion del item junto al numero de factura.</li>
+          <li>Libros contables: permite marcar un comprobante como pagado o cobrado y preparar el egreso o ingreso con el banco o caja elegido.</li>
+          <li>Mejora el envio de compras a Siigo con IVA incluido en el precio y descuentos globales.</li>
+          <li>Corrige el desglose de compras para que las retenciones calculadas no aumenten el valor de IC Bebidas.</li>
+          <li>Actualiza el consumo de documentos del plan y permite deshacer importaciones dentro de los 15 minutos siguientes sin consumir cupo.</li>
+          <li>Corrige el fondo de los selectores de fecha y hora para que se vean opacos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 15 Oct 2026 14:07:57 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.3/flipp-setup.exe"
+        sparkle:version="4.4.3"
+        sparkle:shortVersionString="4.4.3"
+        sparkle:dsaSignature="MDwCHG80JE9KwNeZwtYkfB7NZcqHaSfeXdQ3kIzT9jkCHF3/q/ymuu9oDyvmlSgp07wtGEtOxtMpozyrEyw="
+        length="25159332"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.2 - Reglas de causacion y exportaciones -->
     <item>
       <title>v4.4.2 - Reglas de causacion y exportaciones</title>
