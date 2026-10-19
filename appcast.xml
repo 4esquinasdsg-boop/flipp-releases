@@ -25,6 +25,40 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.4 - Conciliacion automatica, Libros y facturas importadas -->
+    <item>
+      <title>v4.4.4 - Conciliacion automatica, Libros y facturas importadas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.4</h2>
+        <ul>
+          <li>Conciliacion bancaria: al importar un extracto se aplican las reglas y se concilian solos los cruces seguros contra Libros. Los gastos bancarios del mes se pueden causar en lote y la mesa muestra una barra para cerrar el mes.</li>
+          <li>Conciliacion bancaria: no permite importar dos veces el mismo extracto y los cargos recurrentes ya no se cruzan con la linea del mes anterior.</li>
+          <li>Libros contables: el comprobante manual se edita en una sola hoja, con Tab/Enter, pegado desde Excel y tercero por linea. Ahora se pueden crear terceros desde cualquier buscador.</li>
+          <li>Libros contables: nuevo reporte de IVA detallado en pantalla, Excel y PDF.</li>
+          <li>Libros contables: genera la depreciacion de activos mes a mes y avisa al cerrar un periodo con depreciacion pendiente.</li>
+          <li>Facturas importadas: Guardar y siguiente es mucho mas rapido. El guardado sigue en segundo plano y, si falla, avisa con la opcion Reintentar.</li>
+          <li>Facturas importadas: las acciones de Opciones adicionales se aplican a todas las facturas filtradas y no solo a la pagina visible.</li>
+          <li>Facturas importadas: la paginacion ya no vuelve a la primera pagina y los estados de las facturas no se pierden con la sincronizacion.</li>
+          <li>Causacion: carga masiva de reglas con una plantilla de Excel.</li>
+          <li>Causacion: cambiar ajustes que no afectan el asiento, como prefijos de Siigo o reglas bancarias, ya no marca todas las facturas como desactualizadas.</li>
+          <li>Nueva exportacion a Contoda: comprobantes de compras y ventas, proveedores y lectura del catalogo de cuentas.</li>
+          <li>Siigo Pyme: plantilla de movimiento contable actualizada y base de retencion en su columna.</li>
+          <li>Envio a Siigo: las facturas de obsequio se registran en cero y el IVA causado como costo ya no se descuenta.</li>
+          <li>Guias se abre desde el menu lateral, con portada, busqueda y los 9 tutoriales del canal.</li>
+          <li>Correcciones en Libros: fecha de vencimiento en la plantilla, campos del encabezado en pantallas al 125 % y calendario con fondo opaco.</li>
+          <li>Causacion: las cuentas de balance y la 4175 ya no se marcan como de naturaleza contraria.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 19 Oct 2026 17:16:32 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.4/flipp-setup.exe"
+        sparkle:version="4.4.4"
+        sparkle:shortVersionString="4.4.4"
+        sparkle:dsaSignature="MDwCHFaM/XOhTMIyB01OI9bUFWiD2g5eY0YfSIIVf0ACHDpIn4SzKS6PWhAEbcw3rIWODAV7VI86zUIpd3k="
+        length="25394955"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.3 - Guias, Oracle y Siigo Pyme -->
     <item>
       <title>v4.4.3 - Guias, Oracle y Siigo Pyme</title>
