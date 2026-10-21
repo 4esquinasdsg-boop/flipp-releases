@@ -25,6 +25,36 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.5 - Reportes, Pendientes y Facturas importadas -->
+    <item>
+      <title>v4.4.5 - Reportes, Pendientes y Facturas importadas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.5</h2>
+        <ul>
+          <li>Nueva pestana Reportes en cada cliente: una sola pagina con ventas, compras, IVA, retenciones, clientes y proveedores principales, mes a mes y precios de compra, empezando en el mes actual.</li>
+          <li>Reportes carga periodos largos de clientes grandes sin trabar la aplicacion.</li>
+          <li>El reporte detallado en Excel fue redisenado: hojas por tema (Resumen, Por mes, Terceros, Ventas, Compras, IVA, Retenciones y otras) y una hoja de Revision con hallazgos por documento.</li>
+          <li>Pendientes reemplaza a Tareas: muestra el cierre del mes de cada cliente y una bandeja con lo que requiere atencion, como vencimientos, descargas incompletas, envios fallidos y facturas por causar.</li>
+          <li>Facturas importadas, mas sencilla: un solo boton Exportar con todas las variantes del formato, filtro de Estado, fichas de filtros con nombre y valor, busqueda con Enter y paginas de 25 con la barra de paginas siempre a la mano.</li>
+          <li>Importar XML, XLSX o PDF ahora esta dentro del modal Descargar, como tercera opcion junto a Portal DIAN y Certificado.</li>
+          <li>Opciones adicionales, Eliminar y Exportar PDF indican si actuan sobre las facturas marcadas o sobre todo el filtro.</li>
+          <li>Nueva pantalla Agentes, en el menu de la cuenta, para conectar Flipp con asistentes como Claude o Codex. Los envios que un agente prepara se aprueban en Flipp.</li>
+          <li>Descarga DIAN: acepta el enlace copiado desde Outlook y no deja volver a usar un enlace que la DIAN ya rechazo.</li>
+          <li>Sincronizacion mas rapida al arrancar, al cambiar de firma y al guardar facturas descargadas; una sincronizacion interrumpida ya no empieza desde cero.</li>
+          <li>Corrige registros que la nube rechazaba en cada reintento y quedaban pendientes de sincronizar.</li>
+          <li>La causacion de clientes con muchas facturas y reglas es mas rapida, con los mismos asientos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 21 Oct 2026 05:02:35 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.5/flipp-setup.exe"
+        sparkle:version="4.4.5"
+        sparkle:shortVersionString="4.4.5"
+        sparkle:dsaSignature="MDwCHChEN312tbupQKPx+UtU41NS/YDsLU0so82horACHBIDfT9YgPzaxrXLWG2b5lvR9ny5bg2tEaPNpYo="
+        length="28119688"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.4 - Conciliacion automatica, Libros y facturas importadas -->
     <item>
       <title>v4.4.4 - Conciliacion automatica, Libros y facturas importadas</title>
