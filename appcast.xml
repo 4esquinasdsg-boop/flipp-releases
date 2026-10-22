@@ -25,6 +25,33 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.6 - Radicacion, PDF de la DIAN y Siigo -->
+    <item>
+      <title>v4.4.6 - Radicacion, PDF de la DIAN y Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.6</h2>
+        <ul>
+          <li>Nueva Radicacion de facturas: cada cliente puede compartir un enlace para que sus proveedores radiquen la factura con orden de compra, centro de costo y PDF. Flipp la cruza con lo descargado de la DIAN y la firma la aprueba o devuelve desde Opciones adicionales, la fila y el detalle de la factura.</li>
+          <li>El PDF de la DIAN se guarda con las nuevas descargas del Portal DIAN y se ve al lado del detalle de la factura, dentro de Flipp. Si no hay PDF de la DIAN, se muestra el que arma Flipp.</li>
+          <li>Descarga con certificado: ahora se puede pedir una factura suelta pegando su CUFE, cuando no aparece en el listado de la DIAN.</li>
+          <li>Al abrir un archivo exportado, Flipp ofrece dejar el consecutivo en el siguiente numero.</li>
+          <li>Facturas con descuentos o cargos por linea: el valor de cada linea se toma del XML cuando el documento lo confirma, y se corrigen causaciones y pagos que quedaban mal.</li>
+          <li>Envio a Siigo: nuevas opciones por cliente para enviar una linea por item y para enviar los productos con el descuento ya restado del precio.</li>
+          <li>Envio a Siigo: mejora con productos que traen el IVA incluido en el precio y con obsequios por descuento de documento.</li>
+          <li>World Office Cloud: el pago lleva los centavos del total cuando el emisor redondea el valor a pagar.</li>
+          <li>Corrige el PDF de Flipp cuando la nota final es muy larga.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 22 Oct 2026 08:13:48 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.6/flipp-setup.exe"
+        sparkle:version="4.4.6"
+        sparkle:shortVersionString="4.4.6"
+        sparkle:dsaSignature="MDwCHATYxJLYtm3WC9EAzEydAmIzKG8JeZHNGTG1gy0CHD/fK3n0uIQhdiH2bafAan15OhCvAV1dEIaMKHk="
+        length="28200486"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.5 - Reportes, Pendientes y Facturas importadas -->
     <item>
       <title>v4.4.5 - Reportes, Pendientes y Facturas importadas</title>
