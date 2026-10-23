@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.8 - Recibidas por certificado y Agentes -->
+    <item>
+      <title>v4.4.8 - Recibidas por certificado y Agentes</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.8</h2>
+        <ul>
+          <li>Descarga con certificado: corrige las facturas recibidas que el listado de la DIAN rechazaba como ApplicationResponse; ahora se leen e importan como las demas.</li>
+          <li>El resumen de la descarga ya no cuenta los documentos tecnicos como facturas ya existentes; aparecen solo en No compatibles.</li>
+          <li>Agentes: Claude Desktop se conecta instalando una extension de Flipp, y la pantalla verifica que la conexion siga activa y ofrece reconectar si se perdio.</li>
+          <li>Agentes: Codex ahora aparece como ChatGPT, la app de escritorio que lo reemplazo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 23 Oct 2026 14:03:39 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.8/flipp-setup.exe"
+        sparkle:version="4.4.8"
+        sparkle:shortVersionString="4.4.8"
+        sparkle:dsaSignature="MDwCHAkrXmARuFJxj8HYk5WINtoXm9TKBsks27KzYGkCHCWP2o5Ij8OVJZwYji7TEnuqh0tj7Q3mAr9hL3s="
+        length="27955395"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.7 - Detalle de factura, ReteICA y Libros -->
     <item>
       <title>v4.4.7 - Detalle de factura, ReteICA y Libros</title>
