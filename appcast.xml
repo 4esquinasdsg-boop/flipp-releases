@@ -25,6 +25,34 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.7 - Detalle de factura, ReteICA y Libros -->
+    <item>
+      <title>v4.4.7 - Detalle de factura, ReteICA y Libros</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.7</h2>
+        <ul>
+          <li>Detalle de factura redisenado: la causacion se edita en linea (cuenta principal, contrapartida y centro de costo) y los centros de costo se pueden dividir por valor, en la factura o por item.</li>
+          <li>Items de la factura: una columna Impuestos con IVA y ReteFuente en un solo modal, y una columna Adicionales con centro de costo y tercero.</li>
+          <li>Reglas de ReteFuente por palabra clave en cada item, para cualquier proveedor y nunca para autorretenedores.</li>
+          <li>Base minima de ReteICA en la regla del tercero, igual que en ReteFuente. Tambien la respetan la tarifa manual y la regla por NIT.</li>
+          <li>Configuraciones de formatos e integraciones mas limpias y ordenadas.</li>
+          <li>Libros contables: el reporte de IVA separa el IVA descontable de compras de productos, servicios y otras compras.</li>
+          <li>Libros contables: el auxiliar de retenciones incluye todas las cuentas 2365, 2367 y 2368, no solo las cuentas por defecto.</li>
+          <li>Al exportar se abre directamente el archivo o la carpeta del ZIP.</li>
+          <li>Flipp se recupera solo si sus preferencias quedan danadas tras un cierre brusco y ya no queda abierto sin ventana.</li>
+          <li>Se retiran los modulos de Inventario y Activos fijos.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 23 Oct 2026 07:57:56 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.7/flipp-setup.exe"
+        sparkle:version="4.4.7"
+        sparkle:shortVersionString="4.4.7"
+        sparkle:dsaSignature="MDwCHBgMAa8g4x0HFQ6m9qUCAfb8astvmsTdoCpki6ECHG8U1QDT50PAMQ+iyjQmiz3oPioikxhKxReJP7E="
+        length="27947130"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.6 - Radicacion, PDF de la DIAN y Siigo -->
     <item>
       <title>v4.4.6 - Radicacion, PDF de la DIAN y Siigo</title>
