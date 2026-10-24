@@ -25,6 +25,26 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.4.9 - Base gravada INC e IVA en Libros -->
+    <item>
+      <title>v4.4.9 - Base gravada INC e IVA en Libros</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.4.9</h2>
+        <ul>
+          <li>Causacion de ventas: nueva cuenta Base gravada INC en Ventas FE. Las lineas sin IVA que liquidan impuesto al consumo (restaurantes, bares) llevan su base a esa cuenta en vez de la de exentas o excluidas. Si no se configura, todo sigue igual.</li>
+          <li>Libros contables: el reporte de IVA y el resumen de IVA del panel contable solo cuentan como IVA las cuentas del grupo 24. Quien lleva el IVA como mayor valor del gasto ya no lo ve sumado como descontable.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 24 Oct 2026 13:04:20 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.4.9/flipp-setup.exe"
+        sparkle:version="4.4.9"
+        sparkle:shortVersionString="4.4.9"
+        sparkle:dsaSignature="MD0CHDXJ/yOnJPkKHhYDZwqdhKyRmWxTIadCHOjQxyoCHQCWF0A1XaZQ/k+AruZwci52P/5dV8m2op76FWNS"
+        length="27960057"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.8 - Recibidas por certificado y Agentes -->
     <item>
       <title>v4.4.8 - Recibidas por certificado y Agentes</title>
