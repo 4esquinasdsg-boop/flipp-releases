@@ -25,6 +25,30 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.5.0 - Seguridad, ReteICA municipal y Oracle -->
+    <item>
+      <title>v4.5.0 - Seguridad, ReteICA municipal y Oracle</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.5.0</h2>
+        <ul>
+          <li>Actualizacion de seguridad importante: Flipp cambia la llave con la que verifica sus actualizaciones. Instala esta version para seguir recibiendo las siguientes de forma automatica.</li>
+          <li>Seguridad: Abrir soporte en Libros solo abre documentos locales con extension conocida, nunca rutas de red ni programas. Los PDF de la radicacion siempre se guardan como .pdf.</li>
+          <li>Seguridad: Flipp se compila con una version mas reciente de Flutter que corrige un aviso de seguridad en Windows.</li>
+          <li>Calendario Tributario: Retencion de ICA con las fechas de cada municipio, tambien en Pendientes y en las notificaciones.</li>
+          <li>Envio a Siigo: la nota credito recibida encuentra la factura que ya se envio aunque no este en el filtro actual de la bandeja.</li>
+          <li>Oracle: los impuestos van en un archivo aparte, las facturas con orden de compra usan la linea de orden y el IVA se distingue entre bienes y servicios.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 26 Oct 2026 23:27:28 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.5.0/flipp-setup.exe"
+        sparkle:version="4.5.0"
+        sparkle:shortVersionString="4.5.0"
+        sparkle:dsaSignature="MDwCHGrWy4FmuB2hqUt3AnlMYpvBBK3p6hrF4w+QjI0CHDLq6GWDd5HYeq9YgwDfucq+mZ9vg9ofdYH+FdI="
+        length="28160951"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.4.9 - Base gravada INC e IVA en Libros -->
     <item>
       <title>v4.4.9 - Base gravada INC e IVA en Libros</title>
