@@ -25,6 +25,35 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.6.0 - Bancos, auditoria PILA y parametrizacion desde Siigo -->
+    <item>
+      <title>v4.6.0 - Bancos, auditoria PILA y parametrizacion desde Siigo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.6.0</h2>
+        <ul>
+          <li>Bancos: la conciliacion bancaria vive ahora dentro de Tributario y cruza el extracto con las facturas causadas. Lee los extractos de Bancolombia y el reporte de Wompi, cruza retenciones, anticipos y pagos en bloque sin adivinar, deja elegir entre facturas iguales, aprende de lo cruzado, permite deshacer y cerrar el mes, y genera el informe en PDF y Excel.</li>
+          <li>Bancos: las reglas se escriben como una frase y muestran quien es el tercero, que es la diferencia y lo que supone Flipp.</li>
+          <li>Nomina: auditoria del mes contra la planilla PILA de Aportes en Linea, detalle a pantalla completa, seguridad social por documento, reglas de cuenta y salud de la empresa exonerada.</li>
+          <li>Siigo: parametrizacion de cuentas y retenciones desde el historial de Siigo del cliente.</li>
+          <li>Envio a Siigo: el IVA de los productos bonificados se registra con comprobante CC, el IBUA queda fuera de las cuentas de impuesto, las notas credito ya no piden producto sin catalogo y el impoconsumo usa la cuenta de su impuesto.</li>
+          <li>Causacion: el PUC en .xlsx que exporta Siigo ya no da el error "Damaged Excel file: styles".</li>
+          <li>Reportes: las notas credito van en hojas aparte del Excel del periodo, y Revision avisa cuando las bases del XML superan lo cobrado.</li>
+          <li>Libros: lo no gravado del Reporte de IVA coincide con el XML, incluidos bonificados y descuentos.</li>
+          <li>Historial: las descargas y exportaciones estan en un solo panel, con lista por dia y detalle de cada registro.</li>
+          <li>Descarga DIAN: el historial de la nube ya no se queda en "Importando" ni cuenta facturas de otro cliente.</li>
+          <li>Se retira el modulo Calculadoras.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 03 Nov 2026 09:08:01 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.6.0/flipp-setup.exe"
+        sparkle:version="4.6.0"
+        sparkle:shortVersionString="4.6.0"
+        sparkle:dsaSignature="MD4CHQCHOGoIGpNHLNX/XuNajFAKT5kFRj75MQ8f9E4oAh0Al5jE+sl/r9ptv3gzu5jsfm9HxnnaajE2uAfEdA=="
+        length="28496882"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.5.0 - Seguridad, ReteICA municipal y Oracle -->
     <item>
       <title>v4.5.0 - Seguridad, ReteICA municipal y Oracle</title>
