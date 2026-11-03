@@ -25,6 +25,32 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.6.1 - Notas credito en Siigo, Loggro y facturas en dos clientes -->
+    <item>
+      <title>v4.6.1 - Notas credito en Siigo, Loggro y facturas en dos clientes</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.6.1</h2>
+        <ul>
+          <li>Envio a Siigo: la nota credito recibida encuentra la factura de compra aunque el contador la haya registrado a mano en Siigo, y el error de cuenta no transaccional ahora explica que cuenta mayor se debe cambiar.</li>
+          <li>Envio a Siigo: si el numero de la nota credito ya esta ocupado por otro comprobante en Siigo, Flipp toma el siguiente consecutivo en vez de mostrar "El documento ya existe".</li>
+          <li>Importacion: la misma factura puede estar en dos clientes de la firma, por ejemplo como venta de uno y compra de otro.</li>
+          <li>Loggro: el boton Importar PUC reconoce la Lista De Items de Loggro y la guarda como catalogo de productos; la exportacion usa el item asignado en Flipp.</li>
+          <li>Causacion: el aviso de centro de costo solo aparece si la factura no tiene ninguno; las cuentas de retencion y de pago ya no la mandan a revision.</li>
+          <li>Causacion: el selector de cuentas ya no deja la tarjeta en rojo cuando Flipp se refresca con la lista abierta, y el campo de producto de World Office conserva su alto.</li>
+          <li>Nomina: las cuentas de nomina usan el mismo selector del PUC que el resto de Causacion.</li>
+          <li>Descarga DIAN: cuando la DIAN esta saturada, el listado se reintenta en vez de terminar en 0 facturas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 03 Nov 2026 14:03:00 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.6.1/flipp-setup.exe"
+        sparkle:version="4.6.1"
+        sparkle:shortVersionString="4.6.1"
+        sparkle:dsaSignature="MD0CHBvdJtTVPww7v0SYgghsXwJW4yniDq6E2PjnoCUCHQDAHYVBkNcQthUy4cfudOc2kPLgDRpdIV31rRtd"
+        length="28498261"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.6.0 - Bancos, auditoria PILA y parametrizacion desde Siigo -->
     <item>
       <title>v4.6.0 - Bancos, auditoria PILA y parametrizacion desde Siigo</title>
