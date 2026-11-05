@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.6.2 - Cuenta por prefijo, retefuente agrupada y reenvio por RUT01 -->
+    <item>
+      <title>v4.6.2 - Cuenta por prefijo, retefuente agrupada y reenvio por RUT01</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.6.2</h2>
+        <ul>
+          <li>Causacion de ventas: al cambiar la cuenta de ingreso de una venta, Flipp ofrece guardar una regla para todas las facturas con ese prefijo, util cuando cada local tiene su propia resolucion y su propia cuenta.</li>
+          <li>Causacion: la retencion en la fuente por item sale en una sola linea por cuenta, tarifa y concepto, liquidada sobre la base sumada, en vez de una linea por cada item.</li>
+          <li>Causacion: guardar la contrapartida por NIT ya no fija la cuenta principal del proveedor, asi el mapa por tarifa sigue decidiendo la cuenta de cada linea.</li>
+          <li>Facturacion electronica: una factura rechazada por la DIAN con RUT01 mientras su consulta de RUT estaba caida se puede reenviar con el mismo numero.</li>
+          <li>Exportar PDF (Opciones adicionales): el PDF masivo usa el PDF original de la DIAN cuando existe; las demas facturas van con el que arma Flipp y se avisa cuantas.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 05 Nov 2026 09:56:28 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.6.2/flipp-setup.exe"
+        sparkle:version="4.6.2"
+        sparkle:shortVersionString="4.6.2"
+        sparkle:dsaSignature="MD4CHQC6GiWq214d2mQPMmETQHNXZFiX02LwzCwMfB8FAh0AxL7UkVl75ZuhghcSG3WUWjXr1Wqhw8X/0Nqahw=="
+        length="28596156"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.6.1 - Notas credito en Siigo, Loggro y facturas en dos clientes -->
     <item>
       <title>v4.6.1 - Notas credito en Siigo, Loggro y facturas en dos clientes</title>
