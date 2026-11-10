@@ -25,6 +25,35 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.6.5 - Causacion automatica, legalizaciones y diseno de la factura -->
+    <item>
+      <title>v4.6.5 - Causacion automatica, legalizaciones y diseno de la factura</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.6.5</h2>
+        <ul>
+          <li>Causacion: Tributario se llama ahora Causacion y su configuracion se abre en un modal con menu de secciones. Flipp causa y recalcula solo las facturas de cada cliente, por eso se retira el boton Procesar filtradas.</li>
+          <li>Radicacion: legalizaciones de gastos de los trabajadores. Cada empresa tiene un enlace donde el trabajador registra sus gastos con soporte, y en Flipp se pasan a documento soporte o se devuelven.</li>
+          <li>Facturacion electronica: nuevo Diseno de la factura para ajustar color, papel, tipografia, logo y texto al pie del PDF, sin tocar lo que exige la DIAN.</li>
+          <li>Bancos tiene su propia pestana junto a Causacion.</li>
+          <li>Retencion en la fuente: base minima general por cliente en compras, base minima desde el modal del item y reglas de ReteIVA por NIT desde Nueva regla. La retefuente en compras depende solo de la responsabilidad 07 del perfil.</li>
+          <li>ReteICA: la que el proveedor ya desconto se causa desde el documento cuando Flipp no la calcula, y el detalle ya no la muestra como activa si el asiento no la causa. La sobretasa bomberil se causa en cada venta con ICA municipal.</li>
+          <li>Exportar PDF de varias facturas entrega un ZIP con un PDF por factura.</li>
+          <li>Descarga DIAN: el modal muestra el cupo del plan del mes, y el historial dice si la descarga fue de Emitidas o Recibidas y cuantas eran nominas.</li>
+          <li>Importar PUC reconoce el plan de cuentas NIIF que exporta Contapyme.</li>
+          <li>Envio a Siigo: un proveedor que Siigo rechaza ya no se reporta como inactivo sin revisar la respuesta. World Office Cloud: el pago lleva los centavos de los movimientos. El bloqueo del modo productos lleva a las facturas sin producto.</li>
+          <li>Agentes: si otro Flipp abierto tiene el canal de agentes, este lo reintenta solo y explica por que.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 10 Nov 2026 18:29:35 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.6.5/flipp-setup.exe"
+        sparkle:version="4.6.5"
+        sparkle:shortVersionString="4.6.5"
+        sparkle:dsaSignature="MD4CHQC4Q1ZlmlhwoZlqONuJoQxR1+MXO+BF+V7f4q99Ah0Ai1Uh42i9HmMNMk/1xgt2elF00lL/jzNmIPUFIQ=="
+        length="28637055"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.6.2 - Cuenta por prefijo, retefuente agrupada y reenvio por RUT01 -->
     <item>
       <title>v4.6.2 - Cuenta por prefijo, retefuente agrupada y reenvio por RUT01</title>
