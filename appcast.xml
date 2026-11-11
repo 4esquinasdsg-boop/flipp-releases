@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.6.6 - Causacion automatica corregida y bolsa DIAN por ciclo -->
+    <item>
+      <title>v4.6.6 - Causacion automatica corregida y bolsa DIAN por ciclo</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.6.6</h2>
+        <ul>
+          <li>Causacion: corrige lo que fallo en la 4.6.5. Al crear una regla desde el detalle de una factura, Flipp vuelve a recalcular las demas facturas del cliente sin tener que abrirlas una a una, y los clientes con muchas facturas (mas de 80.000) vuelven a abrir la pestana. La pantalla va primero: Flipp causa en segundo plano sin frenar las busquedas ni el detalle, y Recalcular todo queda en Opciones adicionales.</li>
+          <li>Causacion: un recalculo que da el mismo asiento ya no se vuelve a escribir ni a subir a la nube, asi los cambios de reglas terminan antes.</li>
+          <li>Descarga DIAN: la bolsa de Portal DIAN se reinicia segun el ciclo de cada firma (su dia de cobro o de inicio) y no el dia 1 para todos.</li>
+          <li>Aspecto: Flipp trae su propia tipografia (Geist) sin descargarla de internet, iconos nuevos, y Firmas y Agentes en el menu lateral.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 11 Nov 2026 14:20:58 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.6.6/flipp-setup.exe"
+        sparkle:version="4.6.6"
+        sparkle:shortVersionString="4.6.6"
+        sparkle:dsaSignature="MDwCHDoEEoly6SpBR/plfspJ0gS0D4+86SjOLVoK1R4CHG7dLSDJDEpFZ+wF2FYOlCPDUjxUEs0XiQSTj5o="
+        length="29960114"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.6.5 - Causacion automatica, legalizaciones y diseno de la factura -->
     <item>
       <title>v4.6.5 - Causacion automatica, legalizaciones y diseno de la factura</title>
