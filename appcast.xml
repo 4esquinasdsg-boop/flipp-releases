@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.6.7 - Buscador de Causacion que no se bloquea y productos de Siigo completos -->
+    <item>
+      <title>v4.6.7 - Buscador de Causacion que no se bloquea y productos de Siigo completos</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.6.7</h2>
+        <ul>
+          <li>Causacion: el buscador de la empresa ya no se queda fijo en "No se pudo cargar el indice de documentos". Un documento que no se puede leer ya no bloquea la empresa: Flipp indexa solo lo que falta y avisa cuantos documentos no pudo leer. Al iniciar sesion ya no vuelve a preparar el buscador desde cero, y si falla al refrescarse conserva el ultimo y reintenta solo.</li>
+          <li>Siigo: Sincronizar trae todos los productos (antes se quedaba en los primeros 100 y marcaba los demas como inactivos). Si el Excel de productos llega sin la columna Codigo, Flipp lo dice de una vez.</li>
+          <li>Siigo: la bodega se puede elegir para toda la factura o por item desde el detalle, y el exportador de comprobantes usa el consecutivo de la factura de ventas.</li>
+          <li>Aspecto: ajustes en el detalle de la factura, la ficha del cliente y Facturacion electronica (botones en forma de pildora, desplegables y fondo blanco).</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 12 Nov 2026 01:53:46 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.6.7/flipp-setup.exe"
+        sparkle:version="4.6.7"
+        sparkle:shortVersionString="4.6.7"
+        sparkle:dsaSignature="MD0CHQCnhzqwQR0P0TzBuDE4uA7yiIMp02lpOTx99bMgAhwjIxk712syIG8MaMJ2uM8ql3KZcxq2+sm1yXJZ"
+        length="29960593"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.6.6 - Causacion automatica corregida y bolsa DIAN por ciclo -->
     <item>
       <title>v4.6.6 - Causacion automatica corregida y bolsa DIAN por ciclo</title>
