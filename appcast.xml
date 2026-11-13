@@ -25,6 +25,31 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.6.8 - Plan Facturacion y empresas grandes mas rapidas -->
+    <item>
+      <title>v4.6.8 - Plan Facturacion y empresas grandes mas rapidas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.6.8</h2>
+        <ul>
+          <li>Plan Facturacion: un Flipp solo para facturar. La cuenta ve Clientes, Firmas y Guias, trae sus ventas de la DIAN (hasta 1.000 en total) y carga sola los clientes y productos de esas ventas.</li>
+          <li>Empresas grandes: leer y validar las compras de un mes para exportarlas pasa de varios segundos a menos de uno, y guardar un ajuste en una factura ya no frena.</li>
+          <li>Causacion: nueva opcion "Cada tarifa en su cuenta" en las compras (un producto del 5% ya no queda con la base en la cuenta del 19% por una regla). La contrapartida puede ir a otro tercero, y con un solo item el centro de costo general es el de ese item.</li>
+          <li>Detalle de la factura: las tarifas de ReteFuente, ReteICA e ICA se buscan escribiendo.</li>
+          <li>Exportacion: los comprobantes planos (Contaii, Helisa, Syscafe, Siigo PYME y otros) juntan en una linea las bases de la misma cuenta.</li>
+          <li>Siigo: Parametrizar desde Siigo lee por partes y deja usar lo leido aunque no termine.</li>
+          <li>Loggro: los items de Loggro se pueden crear a mano en "Crear producto".</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 13 Nov 2026 15:27:47 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.6.8/flipp-setup.exe"
+        sparkle:version="4.6.8"
+        sparkle:shortVersionString="4.6.8"
+        sparkle:dsaSignature="MDwCHB0BZRAIJteaXLo2QbQC+j2ymnaOKsh+ACB3cZsCHEOkbVnTxnnRVS+3BNsiNCfcnn3/BW8BbcCjwjY="
+        length="30014290"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.6.7 - Buscador de Causacion que no se bloquea y productos de Siigo completos -->
     <item>
       <title>v4.6.7 - Buscador de Causacion que no se bloquea y productos de Siigo completos</title>
