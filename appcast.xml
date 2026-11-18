@@ -25,6 +25,34 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.7.0 - Soporte dentro de Flipp y documento soporte en la factura -->
+    <item>
+      <title>v4.7.0 - Soporte dentro de Flipp y documento soporte en la factura</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.7.0</h2>
+        <ul>
+          <li>Soporte dentro de Flipp: reporte un problema o una duda desde el menu (Soporte o F1). La captura de pantalla y el contexto van adjuntos, y la conversacion sigue ahi mismo, con aviso cuando le responden.</li>
+          <li>Facturacion electronica: el documento soporte y su nota de ajuste se llenan en la misma hoja de la factura. Un documento soporte rechazado por la DIAN se puede reenviar con el mismo numero, y el detalle de cada documento muestra su seguimiento y sus rechazos. El correo del emisor ya no hace rechazar la factura, y el consecutivo nunca cae en un numero ya usado.</li>
+          <li>Empresas grandes: el resumen del filtro ya no se rehace entero en cada cambio de pagina, y exportar a Contaii ya no congela la ventana.</li>
+          <li>World Office: las compras y ventas como notas contables crean el documento (plantilla de encabezados y detalles) y numeran con la fila de Compras o Ventas.</li>
+          <li>Contaii: el consecutivo y el numero original salen del tipo real de cada factura.</li>
+          <li>Siigo: prefijo fijo para la factura del proveedor al enviar compras, y el catalogo de productos de Siigo sirve en el mapa de asientos y en "Causar con: Productos".</li>
+          <li>Oracle: los impuestos van amarrados a su linea con el ID interno de Oracle.</li>
+          <li>Causacion: vuelve la tarifa de ReteFuente 1,25%, y Autorrenta avisa cuando el perfil del cliente no la causa.</li>
+          <li>Terceros: un campo con dos telefonos ya no sale como 9,22E+18 en Siigo PYME.</li>
+          <li>Aspecto: los botones azules se ven bien aunque el degradado no se pinte en el equipo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 17 Nov 2026 23:01:29 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.7.0/flipp-setup.exe"
+        sparkle:version="4.7.0"
+        sparkle:shortVersionString="4.7.0"
+        sparkle:dsaSignature="MD0CHBz1uuk1c/kqChufJfYl6645/HBXgu2lpWT95RsCHQC58gm5ZgvJrDtoc+5XasKqne0t1+wEGxipgdh0"
+        length="30146524"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.6.8 - Plan Facturacion y empresas grandes mas rapidas -->
     <item>
       <title>v4.6.8 - Plan Facturacion y empresas grandes mas rapidas</title>
