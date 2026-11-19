@@ -25,6 +25,31 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.7.1 - Regla por centro de costo y PDF del documento soporte -->
+    <item>
+      <title>v4.7.1 - Regla por centro de costo y PDF del documento soporte</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.7.1</h2>
+        <ul>
+          <li>Causacion: nueva regla de cuenta por centro de costo ("si el centro es X, y el tercero es Y, llevar a la cuenta Z"), y la plantilla de centros de costo acepta subcentros.</li>
+          <li>Causacion: en el detalle, Cuentas de IVA muestra aparte el IVA de los items que tienen cuenta propia.</li>
+          <li>Facturacion electronica: el documento soporte tiene PDF de Flipp, y el de un vendedor del exterior lleva ciudad, NIT de otro pais y el detalle de la linea. El PDF de Taxxa ya no frena la emision de los demas documentos.</li>
+          <li>Siigo: el ICUI o IBUA causado en inventario viaja como un producto aparte. En Siigo PYME, el numero de vencimiento del cruce es la cuota 1.</li>
+          <li>World Office: la nota del movimiento lleva el detalle de los items.</li>
+          <li>Soporte: la respuesta suena y su aviso se queda hasta que lo cierre, con el boton "Ver respuesta". El reporte lleva el programa contable con que trabaja la empresa.</li>
+          <li>Agentes: los agentes pueden guardar terceros y emitir documentos soporte, con aprobacion en Flipp.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 19 Nov 2026 13:46:19 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.7.1/flipp-setup.exe"
+        sparkle:version="4.7.1"
+        sparkle:shortVersionString="4.7.1"
+        sparkle:dsaSignature="MD0CHQDQY71j00QWW47adZPVep77CM76df3Z1L7CDpleAhwoXJWWZ0F+7F1k1P5AdF2sWCxooa7J5CxqfolL"
+        length="30224730"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.7.0 - Soporte dentro de Flipp y documento soporte en la factura -->
     <item>
       <title>v4.7.0 - Soporte dentro de Flipp y documento soporte en la factura</title>
