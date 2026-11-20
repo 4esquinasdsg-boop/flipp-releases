@@ -25,6 +25,28 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.7.2 - Documento soporte de proveedores no obligados -->
+    <item>
+      <title>v4.7.2 - Documento soporte de proveedores no obligados</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.7.2</h2>
+        <ul>
+          <li>Radicacion: nuevo enlace para proveedores no obligados a facturar. El proveedor llena sus datos y lo que vendio o hizo, con cantidad y valor, y Flipp lo deja en Facturas importadas como documento soporte no electronico (DSN), listo para causar y exportar. Se configura en el segmento "No obligados" del modal de Radicacion.</li>
+          <li>Causacion: el detalle de la factura muestra la ReteFuente que una regla le fija a cada item, con su tarifa, concepto, cuenta y la regla de donde sale.</li>
+          <li>Siigo: el ICUI o IBUA causado en inventario sin producto asignado viaja como linea contable, y si Siigo dice que una cuenta no existe, el error nombra la cuenta y la linea.</li>
+          <li>World Office: la nota del encabezado de las notas contables trae lo comprado o vendido en vez del numero de la factura.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 14:13:07 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.7.2/flipp-setup.exe"
+        sparkle:version="4.7.2"
+        sparkle:shortVersionString="4.7.2"
+        sparkle:dsaSignature="MD0CHQCUcoYO5zH/laAJRVq/aGG6epkZHNqIYEmlqdXmAhw9J7vnQezv517Ad2kO8h6zda6gS7VQ5wuqLN5A"
+        length="30249295"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.7.1 - Regla por centro de costo y PDF del documento soporte -->
     <item>
       <title>v4.7.1 - Regla por centro de costo y PDF del documento soporte</title>
