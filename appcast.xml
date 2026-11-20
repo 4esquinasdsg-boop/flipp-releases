@@ -25,6 +25,25 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.7.3 - World Office: el concepto en todos los movimientos de las notas contables -->
+    <item>
+      <title>v4.7.3 - World Office: el concepto en todos los movimientos</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.7.3</h2>
+        <ul>
+          <li>World Office, notas contables: los movimientos de IVA, retenciones y contrapartida ahora llevan en su nota el numero de la factura y lo que se compro o vendio, por ejemplo "(FE7859) FLETE MARITIMO". Asi el informe de esas cuentas en World Office muestra el concepto. Antes traian solo el numero de la factura.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 20 Nov 2026 14:51:16 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.7.3/flipp-setup.exe"
+        sparkle:version="4.7.3"
+        sparkle:shortVersionString="4.7.3"
+        sparkle:dsaSignature="MD0CHHKJvIS2qY8Eo/OOvge3CO7lJxBW7i0Gbj6+jfsCHQCHpIK9v1TGqNcHhm/OVD+1ju3F9OGB6cjxubiv"
+        length="30249167"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.7.2 - Documento soporte de proveedores no obligados -->
     <item>
       <title>v4.7.2 - Documento soporte de proveedores no obligados</title>
