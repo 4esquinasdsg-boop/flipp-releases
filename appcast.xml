@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.7.4 - Siigo PYME con inventarios y orden de compra -->
+    <item>
+      <title>v4.7.4 - Siigo PYME con inventarios y orden de compra</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.7.4</h2>
+        <ul>
+          <li>Siigo PYME: nueva exportacion "Compras Siigo PYME con inventarios", con una linea por producto, su cantidad y su bodega. El catalogo se importa desde el informe "Generales de inventario - referencia" de Siigo PYME.</li>
+          <li>Siigo PYME: opciones nuevas para llevar en el movimiento el numero, el prefijo y la fecha de la factura del proveedor, y para cruzar la cuenta por pagar con esa factura. El archivo de terceros sale solo con las columnas que aceptan todas las versiones de Siigo PYME.</li>
+          <li>Causacion: el detalle de la factura muestra la orden de compra que trae el XML, y hay una regla nueva "Por orden de compra" para fijar cuenta, contrapartida o centro de costo.</li>
+          <li>Oracle: cada item toma la linea abierta de la orden de compra con su misma cantidad e importe, aunque la factura sea parcial o venga en otro orden.</li>
+          <li>Facturacion electronica: la nota credito con IVA ya queda registrada en Taxxa, y Reintentar sirve para el documento que Taxxa nunca registro.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 24 Nov 2026 10:06:13 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.7.4/flipp-setup.exe"
+        sparkle:version="4.7.4"
+        sparkle:shortVersionString="4.7.4"
+        sparkle:dsaSignature="MD0CHBZfCL2398QxKcPI11QeB7V5TTY83jwJBhFcIWoCHQDBYP8f+xP4kvo233IjYmC8BuzpqDN7lweC1rml"
+        length="30269306"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.7.3 - World Office: el concepto en todos los movimientos de las notas contables -->
     <item>
       <title>v4.7.3 - World Office: el concepto en todos los movimientos</title>
