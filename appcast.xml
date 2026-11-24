@@ -25,6 +25,24 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.7.5 - Descarga DIAN: enlace reenviado desde correos con Check Point -->
+    <item>
+      <title>v4.7.5 - Descarga DIAN: enlace reenviado desde correos con Check Point</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.7.5</h2>
+        <ul>
+          <li>Descarga DIAN: Flipp ya acepta el enlace de acceso cuando el correo de la DIAN paso por un filtro de seguridad Check Point y llega como "protect.checkpoint.com". Antes lo rechazaba con "No parece un enlace de la DIAN"; ahora recupera el enlace original al pegarlo, igual que con los enlaces de Outlook.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 24 Nov 2026 15:22:04 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.7.5/flipp-setup.exe"
+        sparkle:version="4.7.5"
+        sparkle:shortVersionString="4.7.5"
+        sparkle:dsaSignature="MD4CHQDSS2pprJMHF5VV9ifVrdpifviexhNundrspWWbAh0AwwOzkUTgm5bhHyHz3Lw2ipohLQ2ti2yeopJWaQ=="
+        length="30269078"
+        type="application/octet-stream" />
+    </item>
     <!-- Version 4.7.4 - Siigo PYME con inventarios y orden de compra -->
     <item>
       <title>v4.7.4 - Siigo PYME con inventarios y orden de compra</title>
