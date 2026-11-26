@@ -25,6 +25,32 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.7.6 - Exportar sin congelarse e item dividido entre cuentas -->
+    <item>
+      <title>v4.7.6 - Exportar sin congelarse e item dividido entre cuentas</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.7.6</h2>
+        <ul>
+          <li>Exportar: las empresas grandes ya no dejan la ventana en "No responde" al armar el archivo. Con 20.000 compras, Siigo pasa de 65 segundos a menos de uno, y los archivos salen iguales.</li>
+          <li>Causacion: un item se puede dividir entre varias cuentas, y cada item puede llevar su propia ReteICA (otra tarifa, otra cuenta u omitida). Hay una regla de cuenta por NIT solo para los items de una tarifa de IVA, y la cuenta principal se guarda como regla por centro de costo desde el detalle. Ya no se puede elegir una cuenta mayor donde va una auxiliar.</li>
+          <li>Importacion: Flipp avisa cuando entra de nuevo una factura que se habia eliminado.</li>
+          <li>Facturacion electronica: una factura o nota credito aceptada se puede reenviar por correo desde su detalle.</li>
+          <li>Radicacion: la empresa decide que campos son obligatorios para el proveedor (orden de compra, centro de costo, correo y PDF) y puede pedir el acta de entrega o de recibido.</li>
+          <li>Siigo: en una compra por API, un item se puede convertir en productos por unidades y repartir entre bodegas. El descuento viaja en pesos enteros y el IVA como mayor valor deja asignar su impuesto.</li>
+          <li>Oracle: se importa el informe nuevo de ordenes pendientes por recibir, con "Precio unitario" y moneda, y el listado de impuestos de Oracle llena "Impuestos por tarifa".</li>
+          <li>Nomina: las provisiones solo incluyen a quien tiene nomina en el mes. Siesa: el reporte de servicios se importa tal como sale de Siesa.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 26 Nov 2026 08:29:37 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.7.6/flipp-setup.exe"
+        sparkle:version="4.7.6"
+        sparkle:shortVersionString="4.7.6"
+        sparkle:dsaSignature="MD0CHQCljkUUWPPjoRgTZf9euV6z7JSt7B5//bBJiNOeAhwhn9H3cuAIO9sbmdGcwzM0eBKjpk+QMFPdOQmr"
+        length="30339323"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.7.5 - Descarga DIAN: enlace reenviado desde correos con Check Point -->
     <item>
       <title>v4.7.5 - Descarga DIAN: enlace reenviado desde correos con Check Point</title>
