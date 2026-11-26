@@ -25,6 +25,29 @@
     ═══════════════════════════════════════════════════════════════════════════
     -->
 
+    <!-- Version 4.7.7 - Inventario en Siigo PYME: el producto trae su cuenta -->
+    <item>
+      <title>v4.7.7 - Inventario en Siigo PYME: el producto trae su cuenta</title>
+      <description><![CDATA[
+        <h2>Novedades en la version 4.7.7</h2>
+        <ul>
+          <li>Siigo PYME con inventarios: la cuenta de inventario se define una sola vez, al importar el catalogo de productos: una para todos o, si la empresa lo necesita, una distinta por linea de producto. Desde ahi basta con asignar el producto en la factura: el item se causa en esa cuenta y el detalle la muestra debajo del producto. Antes la exportacion respondia que ninguna factura tenia lineas de inventario aunque todos los items tuvieran producto.</li>
+          <li>La cuenta general tambien se puede cambiar en Configuracion Siigo PYME, grupo "Compras con inventario". Las facturas que ya tenian producto toman la cuenta al procesarlas.</li>
+          <li>Causacion: "Solo cuentas auxiliares" es ahora una opcion de cada empresa en Configuracion, Plan de cuentas, y llega apagada. Apagada se puede elegir cualquier cuenta, como antes.</li>
+          <li>Siesa: el reporte de servicios se reconoce al importarlo aunque la empresa todavia no exporte a Siesa.</li>
+          <li>Detalle de la factura: la ayuda del boton "Convertir" ya no produce un error cuando hay un lector de pantalla activo.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 26 Nov 2026 10:45:37 -0500</pubDate>
+      <enclosure
+        url="https://github.com/4esquinasdsg-boop/flipp-releases/releases/download/v4.7.7/flipp-setup.exe"
+        sparkle:version="4.7.7"
+        sparkle:shortVersionString="4.7.7"
+        sparkle:dsaSignature="MD0CHQCbCsMscAcOQwR3CGQbCaOz78P2MHe4fmbN8ntyAhxvHSeqbBtkeYGEeEUz0t+i94bc5wmoAj7ABS31"
+        length="30360874"
+        type="application/octet-stream" />
+    </item>
+
     <!-- Version 4.7.6 - Exportar sin congelarse e item dividido entre cuentas -->
     <item>
       <title>v4.7.6 - Exportar sin congelarse e item dividido entre cuentas</title>
